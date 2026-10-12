@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CORe X — Game Builder</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎮</text></svg>">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<header id="topbar">
+  <div class="logo" title="CORe X Game Builder">CORe<span>X</span><em>game builder</em></div>
+
+  <div class="levelbar">
+    <select id="level-select" title="Choose level"></select>
+    <button class="btn" id="btn-new" title="New level">＋ New</button>
+    <button class="btn" id="btn-dup" title="Duplicate level">⧉ Dup</button>
+    <button class="btn" id="btn-rename" title="Rename level">Rename</button>
+    <button class="btn danger" id="btn-del" title="Delete level">Del</button>
+  </div>
+
+  <div class="actions">
+    <button class="btn" id="btn-undo" title="Undo (Ctrl+Z)">↩</button>
+    <button class="btn" id="btn-redo" title="Redo (Ctrl+Shift+Z)">↪</button>
+    <span class="sep"></span>
+    <button class="btn" id="btn-export" title="Download all levels as JSON">Export</button>
+    <button class="btn" id="btn-import" title="Load levels from a JSON file">Import</button>
+    <input type="file" id="import-file" accept=".json,application/json" hidden>
+    <button class="btn" id="btn-help" title="Help &amp; shortcuts">?</button>
+    <button class="btn primary" id="btn-play" title="Play / Stop (Enter)">▶ Play</button>
+  </div>
+</header>
+
+<main id="layout">
+  <aside id="panel-left">
+    <section>
+      <h3>Tools</h3>
+      <div id="tools" class="grid2">
+        <button class="btn tool" data-tool="paint" title="Paint tiles (B)">🖌️ Brush</button>
+        <button class="btn tool" data-tool="fill" title="Flood fill (F)">🪣 Fill</button>
+        <button class="btn tool" data-tool="erase" title="Erase (E)">🧽 Erase</button>
+        <button class="btn tool" data-tool="enemy" title="Place / remove enemies (N)">👾 Enemy</button>
+      </div>
+      <div class="brush-row">
+        <h3>Brush size</h3>
+        <div class="seg" id="brush-seg">
+          <button data-brush="1" class="active">1×1</button>
+          <button data-brush="2">2×2</button>
+          <button data-brush="3">3×3</button>
+        </div>
+      </div>
+    </section>
+    <section>
+      <h3>Tiles <small>(1–9)</small></h3>
+      <div id="swatches"></div>
+    </section>
+    <section class="tips">
+      <h3>Tips</h3>
+      <ul>
+        <li><b>Right-drag</b> always erases</li>
+        <li><b>Alt-click</b> picks a tile</li>
+        <li>Place exactly one <b>Spawn</b> and a <b>Goal</b></li>
+        <li>Enemies patrol and turn at ledges</li>
+      </ul>
+    </section>
+  </aside>
+
+  <section id="stage">
+    <div id="canvas-wrap">
+      <canvas id="game" width="960" height="512"></canvas>
+    </div>
+  </section>
+
+  <aside id="panel-right">
+    <section>
+      <h3>Level</h3>
+      <div class="field"><label>Name</label><div id="lvl-name" class="lvl-name">—</div></div>
+      <div class="field row">
+        <label>W <input id="lvl-w" type="number" min="8" max="48"></label>
+        <label>H <input id="lvl-h" type="number" min="8" max="24"></label>
+        <button class="btn" id="btn-resize" title="Resize level (keeps top-left content)">Apply</button>
+      </div>
+    </section>
+    <section>
+      <h3>Contents</h3>
+      <ul id="stats" class="kv"></ul>
+    </section>
+    <section>
+      <h3>Playtest session</h3>
+      <ul id="session-stats" class="kv"></ul>
+      <div class="hint">Enter plays from the spawn point. R restarts while playing. Esc returns to the editor.</div>
+    </section>
+    <section>
+      <button class="btn wide" id="btn-demo" title="Replace project with the built-in demo levels">Load demo levels…</button>
+    </section>
+  </aside>
+</main>
+
+<footer id="statusbar">
+  <span id="status-left">Ready</span>
+  <span id="status-right">Autosaves to this browser · CORe X v1.0</span>
+</footer>
+
+<div id="toasts"></div>
+<div id="modal-backdrop" hidden><div id="modal"></div></div>
+
+<script src="js/core.js"></script>
+<script src="js/levels.js"></script>
+<script src="js/state.js"></script>
+<script src="js/engine.js"></script>
+<script src="js/render.js"></script>
+<script src="js/editor.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>
