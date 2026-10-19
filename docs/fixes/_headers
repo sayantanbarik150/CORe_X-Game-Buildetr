@@ -28,7 +28,8 @@
   Referrer-Policy: strict-origin-when-cross-origin
   X-Frame-Options: DENY
   Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=()
-  # CSP: নিচের host-গুলো আপনার API/CDN অনুযায়ী বদলান।
+  # CSP: Audius content node-এর hostname ডাইনামিক (stuffisup, figment, monophonic…),
+  # তাই img/media-তে https: রাখা হয়েছে। API host চেনা হলে connect-src tighten করুন।
   # Next.js inline hydration script-এর জন্য 'unsafe-inline' রাখা হয়েছে;
   # পরে nonce/hash দিয়ে tighten করুন।
-  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://*.cloudflareinsights.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https://c.saavncdn.com https://*.saavncdn.com https://*.audius.co https://*.googleusercontent.com; media-src 'self' blob: https://*.saavncdn.com https://*.audius.co; connect-src 'self' https://*.supabase.co https://*.googleapis.com https://*.audius.co https://*.audiusapi.co; font-src 'self' data:; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; upgrade-insecure-requests
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://*.cloudflareinsights.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https:; media-src 'self' blob: https:; connect-src 'self' https:; font-src 'self' data:; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; upgrade-insecure-requests

@@ -255,7 +255,7 @@ JavaScript ছাড়া raw HTML-এ দেখা যায়:
 7. **Secrets** — frontend bundle-এ কোনো API secret/service key নেই তা নিশ্চিত করুন (`grep` করুন build output-এ)।
 
 ### P1 (এই সপ্তাহ)
-- CSP: `default-src 'self'; img-src 'self' https://c.saavncdn.com https://*.audius.co data:; media-src https://*.saavncdn.com https://*.audius.co; connect-src 'self' <api-host>; frame-ancestors 'none'; base-uri 'self'`.
+- CSP: `default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https:; media-src 'self' blob: https:; connect-src 'self' https:; frame-ancestors 'none'; base-uri 'self'`। Audius content node-এর hostname ডাইনামিক, তাই `https:` রাখা হয়েছে; API host চেনা হলে `connect-src` সংকুচিত করুন।
 - HSTS: `max-age=31536000; includeSubDomains; preload`.
 - `X-Frame-Options: DENY`, `Permissions-Policy: camera=(), microphone=(), geolocation=()`.
 - Admin session timeout, refresh-token rotation, logout-all.
@@ -270,6 +270,8 @@ JavaScript ছাড়া raw HTML-এ দেখা যায়:
 ---
 
 ## ৭. পারফরম্যান্স ও SEO — অগ্রাধিকার তালিকা
+
+> রেডি-টু-পেস্ট টেমপ্লেট: [`docs/fixes/_headers`](fixes/_headers), [`robots.txt`](fixes/robots.txt), [`sitemap.example.xml`](fixes/sitemap.example.xml) — সাথে [`docs/fixes/README-bn.md`](fixes/README-bn.md)-এ ধাপে ধাপে নির্দেশনা।
 
 ### P0 (এই সপ্তাহে)
 | # | কাজ | কেন |
@@ -373,6 +375,19 @@ API-তে ২০০–৫০০ rps চালিয়ে 429/5xx দেখু�
 2. কভার ইমেজ responsive → ৫০–৭০% ইমেজ ব্যান্ডউইথ কমে।
 3. JSON static/ISR → API ও DB read কমে।
 4. `immutable` cache → repeat visit-এ JS/CSS আর ডাউনলোড হয় না।
+
+---
+
+## ১০.৫ আজ ৩০ মিনিটের প্ল্যান (যদি ইউজার এখনই বলছে "লোড হচ্ছে না")
+
+1. **লগ দেখুন** — browser Console/Network-এ 429, 403, CORS, timeout আছে কি? API-র নাম/URL নোট করুন।
+2. **Skeleton + retry যোগ করুন** — API fail করলেও খালি `(0 picks)` দেখাবেন না; "আবার চেষ্টা করুন" দিন।
+3. **API cache** — একই response ৬০–৩০০ সেকেন্ড ক্যাশ করুন (KV/localStorage/browser HTTP cache)।
+4. **Admin noindex + Access** — `_headers`-এ `X-Robots-Tag`, Cloudflare Access (custom domain থাকলে)।
+5. **Sitemap + og:image** — `sitemap.xml` deploy, `robots.txt`-এ Sitemap, ১২০০×৬৩০ OG image।
+6. **Cache header** — `/_next/static/*` → `immutable`।
+7. **ব্রাউজার ল্যাব চালান** — `dashboard/` থেকে ১০ concurrency-তে ৩০ সেকেন্ড; ফল রিপোর্টে রাখুন।
+8. **Monitoring** — Sentry + BetterStack + Cloudflare Web Analytics (ফ্রি)।
 
 ---
 
