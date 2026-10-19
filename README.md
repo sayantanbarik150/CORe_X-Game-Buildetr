@@ -14,6 +14,7 @@
 | [`loadtest/smoke.sh`](loadtest/smoke.sh) | ৩০ সেকেন্ডের smoke: status, cache, security headers, SEO signal |
 | [`loadtest/k6-beatnest.js`](loadtest/k6-beatnest.js) | k6 ramp load test (GET-only, body ডাউনলোড ছাড়া) |
 | [`loadtest/README-bn.md`](loadtest/README-bn.md) | টেস্ট চালানোর ধাপে ধাপে নির্দেশনা |
+| [`docs/fixes/`](docs/fixes/) | রেডি `_headers`, `robots.txt`, `sitemap.xml` ও Cloudflare Access গাইড |
 | [`.github/workflows/beatnest-smoke.yml`](.github/workflows/beatnest-smoke.yml) | প্রতিদিনের smoke (ঐচ্ছিক) |
 
 ## ড্যাশবোর্ড চালান

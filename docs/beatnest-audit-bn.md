@@ -15,7 +15,7 @@
 | ১,০০০+ concurrent? | **শুধু ফ্রন্টএন্ড ঠিক থাকবে; আসল ডেটা API, auth ও অডিও CDN-এ চাপ পড়বে।** |
 | ইউজার "সাইট লোড হচ্ছে না" বলছে কেন? | সবচেয়ে সম্ভাব্য কারণ: **গানের ডেটা client-side API থেকে আসে**। API slow/blocked/429 হলে পেজের সেকশনগুলো `(0 picks)` / `(0 tracks)` দেখায় — সাইট ভাঙা মনে হয়। |
 | Admin প্যানেল কি নিরাপদ? | **এখনই ঝুঁকি আছে।** প্যানেল পাবলিক, `noindex` নেই, edge gate নেই, security headers নেই। OAuth allowlist শুধু ক্লায়েন্টে হলে বাইপাসযোগ্য। |
-| SEO? | **প্রায় শূন্য।** sitemap নেই, Google-এ index নেই, `og:image` নেই, canonical `pages.dev`; আর **`beatnest.com` আপনার নয় — HugeDomains-এ বিক্রির জন্য**। |
+| SEO? | **প্রায় শূন্য।** sitemap নেই, search index-এ কোনো ফলাফল নেই, `og:image` নেই, canonical `pages.dev`; আর **`beatnest.com` আপনার নয় — HugeDomains-এ বিক্রির জন্য**। |
 | আমার রায় | ফ্রন্টএন্ড **A-** (হোস্টিং), কিন্তু **API নির্ভরতা, caching, SEO ও admin security-তে বড় ফাঁক**। লঞ্চের আগে নিচের P0 লিস্ট করুন। |
 
 > **সবচেয়ে গুরুত্বপূর্ণ কথা:** Cloudflare আপনার সাইটের ট্রাফিক সামলাতে পারবে। কিন্তু আপনার গানগুলো JioSaavn/Audius-এর মতো তৃতীয় পক্ষের API/CDN থেকে আসে। ওই API-গুলোই আজ বা কালকে আগে ভাঙবে — Cloudflare নয়।
@@ -127,7 +127,7 @@ JavaScript ছাড়া raw HTML-এ দেখা যায়:
 |---|---|---|
 | `sitemap.xml` | **404** | ❌ |
 | `robots.txt` | ২০০, কিন্তু শুধু content-signal কমেন্ট; `User-agent`, `Allow`, `Sitemap` নেই | ⚠️ |
-| Google index (`site:beatnest.pages.dev`) | কোনো ফলাফল নেই | ❌ |
+| Search index (`site:beatnest.pages.dev`) | কোনো ফলাফল নেই (Google Search Console-এ যাচাই করুন) | ❌ |
 | `<title>` | "Beatnest — Your Music. Your Nest." | ✅ |
 | Description | আছে (streaming/ad-free) | ✅ |
 | Canonical | `https://beatnest.pages.dev/` | ⚠️ custom domain থাকলে বদলাতে হবে |
@@ -422,7 +422,7 @@ API-তে ২০০–৫০০ rps চালিয়ে 429/5xx দেখু�
 - DNS: Cloudflare IPv4 + IPv6; TLS cert 16 Oct 2026 – 14 Jan 2027.
 - check-host.net: ৬/৬ OK (BG 0.766s, FR 0.176s, ID 0.318s, IL 0.302s, US 0.277s, VN 0.866s); ২০-নোড চেকে ১৯/২০ OK; ভারত — Mumbai 0.346s, Rajpura 0.519s (দুটোই 200)।
 - `beatnest.com` → HugeDomains "for sale".
-- Google `site:beatnest.pages.dev` → 0 results.
+- Search query `site:beatnest.pages.dev` → 0 results (Google Search Console-এ নিশ্চিত করুন)।
 - Cloudflare Pages limits: static unlimited; Functions 100k/day, 10ms CPU.
 - Supabase Free: 500MB DB, 5GB+5GB egress, 50k MAU, 200 realtime, pause after 7 days.
 - Firebase Spark: 50k reads/day, 20k writes/day, 1GiB, 10GiB/month egress.
