@@ -1,0 +1,295 @@
+<!doctype html>
+<html lang="bn">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#07070d" />
+  <title>Beatnest Load Lab — লোড টেস্ট ও অডিট</title>
+  <meta name="description" content="Beatnest-এর ফ্রন্টএন্ড লোড টেস্ট, পেজ অডিট ও ক্যাপাসিটি রিপোর্ট — ব্রাউজার থেকেই।" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="bg-glow" aria-hidden="true"></div>
+
+  <header class="topbar">
+    <div class="brand">
+      <span class="brand-mark" aria-hidden="true">◉</span>
+      <span class="brand-name">Beatnest</span>
+      <span class="brand-sub">Load Lab</span>
+    </div>
+    <nav class="nav" aria-label="Sections">
+      <a href="#load">লোড টেস্ট</a>
+      <a href="#audit">পেজ অডিট</a>
+      <a href="#api">API চেক</a>
+      <a href="#report">রিপোর্ট</a>
+    </nav>
+    <a class="btn ghost small" href="https://beatnest.pages.dev" target="_blank" rel="noreferrer">সাইট খুলুন ↗</a>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="pill"><span class="dot live"></span> ১৯ অক্টোবর ২০২৬ · ব্ল্যাক-বক্স অডিট</div>
+      <h1>আপনার সাইট <em>আজ</em> কত লোড<br />নিতে পারবে?</h1>
+      <p class="lede">
+        <strong>https://beatnest.pages.dev</strong> — Cloudflare Pages-এ চলা Next.js অ্যাপ।
+        নিচের টেস্ট আপনার ব্রাউজার থেকেই চলে, শুধু <code>GET</code> রিকোয়েস্ট পাঠায়, কোনো লগইন বা ফর্ম সাবমিট করে না।
+      </p>
+
+      <div class="quick-answer">
+        <span class="qa-icon" aria-hidden="true">⚡</span>
+        <div>
+          <b>সংক্ষিপ্ত উত্তর:</b> আজ <b>১০০–৫০০ concurrent ইউজার</b> নিতে পারবে — Cloudflare Pages-এর স্ট্যাটিক লিমিট নেই।
+          <b>১,০০০+</b> ইউজারে যাওয়ার আগে মিউজিক API cache, skeleton/error state ও admin gate ঠিক করুন।
+        </div>
+      </div>
+
+      <div class="verdict-grid">
+        <div class="v-card good">
+          <span class="v-label">Availability</span>
+          <strong>19 / 20</strong>
+          <small>গ্লোবাল নোড OK · 0.07–0.87s</small>
+        </div>
+        <div class="v-card good">
+          <span class="v-label">Frontend edge</span>
+          <strong>Unlimited</strong>
+          <small>Cloudflare static requests</small>
+        </div>
+        <div class="v-card warn">
+          <span class="v-label">Real bottleneck</span>
+          <strong>Third-party API</strong>
+          <small>JioSaavn / Audius / auth</small>
+        </div>
+        <div class="v-card bad">
+          <span class="v-label">Admin security</span>
+          <strong>D</strong>
+          <small>noindex + edge gate নেই</small>
+        </div>
+      </div>
+
+      <div class="hero-note">
+        <span class="chip">HTTP/3</span>
+        <span class="chip">India 0.35s</span>
+        <span class="chip">TLS 1.3</span>
+        <span class="chip">IPv6</span>
+        <span class="chip">Brotli</span>
+        <span class="chip warn">max-age=0 on assets</span>
+        <span class="chip bad">sitemap 404</span>
+        <span class="chip bad">og:image নেই</span>
+      </div>
+    </section>
+
+    <section id="load" class="panel">
+      <div class="panel-head">
+        <div>
+          <h2>লাইভ ব্রাউজার লোড টেস্ট</h2>
+          <p class="sub">আপনার নেটওয়ার্ক থেকে সাইটের HTML/CSS/JS-এর উপর চাপ। ফলাফল গ্লোবাল ডিস্ট্রিবিউটেড টেস্ট নয়।</p>
+        </div>
+        <span class="badge green">GET only · safe</span>
+      </div>
+
+      <div class="presets" role="group" aria-label="Presets">
+        <button type="button" class="preset" data-preset="smoke">Smoke <small>1 × 10</small></button>
+        <button type="button" class="preset active" data-preset="safe">Safe <small>10 × 30s</small></button>
+        <button type="button" class="preset" data-preset="standard">Standard <small>25 × 45s</small></button>
+        <button type="button" class="preset" data-preset="stress">Stress <small>40 × 60s</small></button>
+      </div>
+
+      <div class="controls">
+        <label class="field">
+          <span>টার্গেট</span>
+          <select id="target">
+            <option value="/">হোমপেজ (/)</option>
+            <option value="/admin">Admin পেজ (/admin)</option>
+            <option value="/manifest.json">Manifest (JSON)</option>
+            <option value="mixed">Mixed (হোম + admin + manifest)</option>
+          </select>
+        </label>
+
+        <label class="field">
+          <span>Concurrency <b id="concVal">10</b></span>
+          <input id="concurrency" type="range" min="1" max="40" value="10" />
+          <small class="hint">একসাথে কত রিকোয়েস্ট</small>
+        </label>
+
+        <label class="field">
+          <span>Duration <b id="durVal">30s</b></span>
+          <input id="duration" type="range" min="5" max="60" step="5" value="30" />
+          <small class="hint">সর্বোচ্চ ৬০ সেকেন্ড</small>
+        </label>
+
+        <label class="field">
+          <span>Max requests <b id="maxVal">900</b></span>
+          <input id="maxReq" type="range" min="50" max="3000" step="50" value="900" />
+          <small class="hint">নিরাপত্তার জন্য ক্যাপ</small>
+        </label>
+      </div>
+
+      <div class="actions">
+        <button id="startBtn" class="btn primary" type="button">টেস্ট শুরু করুন</button>
+        <button id="stopBtn" class="btn danger" type="button" disabled>থামান</button>
+        <span id="runState" class="run-state">প্রস্তুত</span>
+      </div>
+
+      <div class="progress" aria-hidden="true"><div id="bar"></div></div>
+
+      <div class="stats" id="stats">
+        <div class="stat"><span>Requests</span><strong id="sReq">0</strong></div>
+        <div class="stat"><span>RPS</span><strong id="sRps">0</strong></div>
+        <div class="stat"><span>Success</span><strong id="sOk">—</strong></div>
+        <div class="stat"><span>p50</span><strong id="sP50">—</strong></div>
+        <div class="stat"><span>p95</span><strong id="sP95">—</strong></div>
+        <div class="stat"><span>p99</span><strong id="sP99">—</strong></div>
+        <div class="stat"><span>Errors</span><strong id="sErr">0</strong></div>
+      </div>
+
+      <div class="chart-wrap">
+        <canvas id="chart" height="160" aria-label="RPS chart"></canvas>
+      </div>
+
+      <div id="verdict" class="verdict" hidden></div>
+
+      <details class="log-wrap">
+        <summary>বিস্তারিত লগ <span id="logCount" class="muted"></span></summary>
+        <pre id="log"></pre>
+      </details>
+
+      <p class="warn small">
+        <strong>মনে রাখবেন:</strong> এটি শুধু HTML/পেজ লোড মাপে — মিউজিক API, auth বা অডিও ডাউনলোড নয়।
+        <code>body</code> ডাউনলোড বাতিল করা হয়, তাই মোবাইল ডেটা কম খরচ হয়। ২৫+ concurrency চালানোর আগে নিশ্চিত হোন যে এটি আপনার সাইট।
+      </p>
+    </section>
+
+    <section id="audit" class="panel">
+      <div class="panel-head">
+        <div>
+          <h2>লাইভ পেজ অডিট</h2>
+          <p class="sub">মেটা, ক্যাশিং, PWA, sitemap, admin noindex ও third-party host — এক ক্লিকে।</p>
+        </div>
+        <span class="badge">CORS-readable headers</span>
+      </div>
+
+      <div class="actions">
+        <button id="auditBtn" class="btn primary" type="button">অডিট চালান</button>
+        <label class="check">
+          <input id="deepScan" type="checkbox" />
+          <span>ডিপ স্ক্যান (JS chunk-এ API host খুঁজুন)</span>
+        </label>
+        <span id="auditState" class="run-state">প্রস্তুত</span>
+      </div>
+
+      <div id="auditSummary" class="audit-summary" hidden></div>
+      <div class="table-wrap">
+        <table id="auditTable">
+          <thead>
+            <tr><th>রিসোর্স</th><th>Status</th><th>সময়</th><th>Cache-Control</th><th>Size</th><th>নোট</th></tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+      <div id="auditFindings" class="findings"></div>
+      <div id="hosts" class="hosts" hidden></div>
+    </section>
+
+    <section id="api" class="panel">
+      <div class="panel-head">
+        <div>
+          <h2>API / Backend চেক</h2>
+          <p class="sub">আপনার API-র health বা public GET endpoint থাকলে এখানে দিন। লগইন/ফর্ম endpoint দেবেন না।</p>
+        </div>
+        <span class="badge warn">optional</span>
+      </div>
+      <div class="api-row">
+        <input id="apiUrl" type="url" placeholder="https://your-api.example.com/health" autocomplete="off" />
+        <button id="apiBtn" class="btn primary" type="button">চেক করুন</button>
+      </div>
+      <div id="apiResult" class="api-result" hidden></div>
+      <p class="warn small">২০টি GET রিকোয়েস্ট, concurrency ৫ — একদম হালকা। CORS বন্ধ থাকলে ব্রাউজার থেকে ফল নাও আসতে পারে; সেক্ষেত্রে <code>curl</code> ব্যবহার করুন।</p>
+    </section>
+
+    <section id="report" class="panel">
+      <div class="panel-head">
+        <div>
+          <h2>রিপোর্ট কার্ড</h2>
+          <p class="sub">বিস্তারিত রিপোর্ট: <code>docs/beatnest-audit-bn.md</code></p>
+        </div>
+        <span class="badge">19 Oct 2026</span>
+      </div>
+
+      <div class="grade-grid">
+        <div class="grade"><span>Availability</span><b class="g-a">A</b><small>19/20 nodes</small></div>
+        <div class="grade"><span>Edge / CDN</span><b class="g-a">A</b><small>HTTP/3 · TLS 1.3</small></div>
+        <div class="grade"><span>Caching</span><b class="g-d">D</b><small>max-age=0</small></div>
+        <div class="grade"><span>First load</span><b class="g-c">C−</b><small>2–3 MB</small></div>
+        <div class="grade"><span>SEO</span><b class="g-f">F</b><small>no sitemap / index</small></div>
+        <div class="grade"><span>Admin</span><b class="g-d">D</b><small>no edge gate</small></div>
+      </div>
+
+      <h3>Capacity অনুমান</h3>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr><th>Concurrent</th><th>Page loads/min</th><th>API req/s</th><th>Frontend</th><th>মিউজিক API</th><th>রায়</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>100</td><td>~2,000</td><td>~167</td><td><span class="tag ok">OK</span></td><td><span class="tag ok">সাধারণত OK</span></td><td>আজই চালু</td></tr>
+            <tr><td>500</td><td>~10,000</td><td>~833</td><td><span class="tag ok">OK</span></td><td><span class="tag warn">ঝুঁকি</span></td><td>সতর্ক</td></tr>
+            <tr><td>1,000</td><td>~20,000</td><td>~1,667</td><td><span class="tag ok">OK</span></td><td><span class="tag bad">429</span></td><td>cache দরকার</td></tr>
+            <tr><td>5,000</td><td>~100,000</td><td>~8,333</td><td><span class="tag ok">OK</span></td><td><span class="tag bad">ভাঙবে</span></td><td>hardening</td></tr>
+            <tr><td>10,000+</td><td>200,000+</td><td>~16,667</td><td><span class="tag warn">fair use</span></td><td><span class="tag bad">না</span></td><td>এখনই নয়</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h3>শীর্ষ ৮ কাজ</h3>
+      <ol class="actions-list">
+        <li><b>API cache</b> — ৬০–৩০০ সেকেন্ড edge/KV ক্যাশ; ৮০–৯০% upstream কল কমবে।</li>
+        <li><b>Skeleton + retry</b> — <code>(0 picks)</code> কখনো দেখাবেন না; খালি সেকশনই "সাইট ভাঙা" মনে হয়।</li>
+        <li><b>Immutable cache</b> — <code>/_next/static/*</code> → <code>max-age=31536000, immutable</code>।</li>
+        <li><b>Responsive images</b> — ৫০০px কভারের বদলে ১৫০/৩০০px + <code>srcset</code> + lazy load।</li>
+        <li><b>Admin gate</b> — Cloudflare Access + server-side role/RLS + <code>noindex</code> + rate limit।</li>
+        <li><b>Sitemap + OG</b> — sitemap.xml, robots-এ Sitemap, ১২০০×৬৩০ og:image, Search Console।</li>
+        <li><b>Custom domain</b> — canonical/OG বদলান; <code>beatnest.com</code> আপনার নয় (HugeDomains-এ আছে)।</li>
+        <li><b>Monitoring</b> — Sentry + BetterStack + Cloudflare Web Analytics + API 429 alert।</li>
+      </ol>
+
+      <h3>লঞ্চ চেকলিস্ট <small class="muted">(আপনার ব্রাউজারে সেভ থাকবে)</small></h3>
+      <ul class="checklist" id="checklist">
+        <li><label><input type="checkbox" data-key="cache" /> hashed asset-এ immutable cache</label></li>
+        <li><label><input type="checkbox" data-key="api" /> মিউজিক API ক্যাশ + fallback</label></li>
+        <li><label><input type="checkbox" data-key="skeleton" /> skeleton + error state</label></li>
+        <li><label><input type="checkbox" data-key="images" /> responsive image/srcset</label></li>
+        <li><label><input type="checkbox" data-key="admin" /> Cloudflare Access + server-side auth</label></li>
+        <li><label><input type="checkbox" data-key="noindex" /> admin noindex + robots disallow</label></li>
+        <li><label><input type="checkbox" data-key="sitemap" /> sitemap.xml + Search Console</label></li>
+        <li><label><input type="checkbox" data-key="og" /> og:image + Twitter card</label></li>
+        <li><label><input type="checkbox" data-key="domain" /> নিজের custom domain + canonical</label></li>
+        <li><label><input type="checkbox" data-key="monitor" /> uptime + error monitoring</label></li>
+        <li><label><input type="checkbox" data-key="headers" /> CSP + HSTS + frame-ancestors</label></li>
+        <li><label><input type="checkbox" data-key="pwa" /> PWA icon 192/512 + cache version</label></li>
+      </ul>
+    </section>
+
+    <section class="panel prose">
+      <h2>পদ্ধতি ও সীমাবদ্ধতা</h2>
+      <p>
+        এই ড্যাশবোর্ড ১০০% ক্লায়েন্ট-সাইড। কোনো সার্ভার বা ডেটাবেস নেই; আপনার ব্রাউজার সরাসরি
+        <code>beatnest.pages.dev</code>-এ রিকোয়েস্ট পাঠায়। CORS অনুমতি থাকায় status, latency,
+        <code>Content-Length</code> ও <code>Cache-Control</code> পড়া যায়; HSTS/CSP-এর মতো হেডার ব্রাউজার
+        expose করে না, তাই সেগুলো <code>curl -I</code> দিয়ে দেখতে হবে।
+      </p>
+      <p>
+        লোড টেস্টের সংখ্যা আপনার ইন্টারনেট, ডিভাইস ও দূরত্বের উপর নির্ভর করে — এটি গ্লোবাল capacity নয়।
+        আসল পরীক্ষার জন্য <code>loadtest/k6-beatnest.js</code> ও staging API টেস্ট করুন। কোনো লগইন,
+        পাসওয়ার্ড বা payment endpoint এই টুল স্পর্শ করে না।
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    <span>Beatnest Load Lab · ১৯ অক্টোবর ২০২৬</span>
+    <span class="muted">Built for audit · GET only · no credentials</span>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

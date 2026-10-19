@@ -1,0 +1,30 @@
+name: Beatnest smoke
+
+on:
+  workflow_dispatch:
+  schedule:
+    # প্রতিদিন ০৩:১৭ UTC (08:47 IST) — কম ট্রাফিকের সময়
+    - cron: '17 3 * * *'
+
+permissions:
+  contents: read
+
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run smoke test
+        run: |
+          set -o pipefail
+          bash loadtest/smoke.sh | tee smoke-report.txt
+
+      - name: Upload smoke report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: beatnest-smoke-report
+          path: smoke-report.txt
+          retention-days: 14

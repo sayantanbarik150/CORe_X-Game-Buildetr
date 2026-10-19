@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  উদাহরণ sitemap। শুধু পাবলিক পেজ রাখুন — /admin নয়।
+  custom domain নিলে <loc>-এ সেটাই ব্যবহার করুন।
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://beatnest.pages.dev/</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>

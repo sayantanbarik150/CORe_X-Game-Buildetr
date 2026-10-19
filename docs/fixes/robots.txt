@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api/
+
+# Sitemap (ডোমেইন বদলালে এখানেও বদলান)
+Sitemap: https://beatnest.pages.dev/sitemap.xml
