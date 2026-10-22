@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PS4 Slim ADP-160CR — schematic archive</title>
+<style>
+  :root{
+    --bg:#0b0f17; --panel:#121826; --panel-2:#161d2e; --line:#243049;
+    --txt:#e7ecf3; --mut:#93a1b8; --acc:#4da3ff; --acc2:#ffb020;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--txt);
+       font:15px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+  a{color:var(--acc);text-decoration:none}
+  a:hover{text-decoration:underline}
+  header{padding:34px 26px 26px;border-bottom:1px solid var(--line);
+         background:radial-gradient(1200px 300px at 15% -60%,#1b2b47 0%,transparent 70%)}
+  h1{margin:0 0 8px;font-size:26px;letter-spacing:-.3px}
+  .sub{color:var(--mut);max-width:900px;font-size:14px}
+  .pills{display:flex;gap:8px;flex-wrap:wrap;margin-top:16px}
+  .pill{background:var(--panel-2);border:1px solid var(--line);color:var(--mut);
+        padding:4px 11px;border-radius:999px;font-size:12.5px}
+  .pill b{color:var(--txt);font-weight:600}
+  main{padding:26px}
+  h2{font-size:17px;margin:34px 0 6px;letter-spacing:-.2px}
+  h2 .n{color:var(--acc2);font-variant-numeric:tabular-nums;margin-right:9px}
+  .hint{color:var(--mut);font-size:13px;margin:0 0 16px}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:16px}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:12px;
+        overflow:hidden;display:flex;flex-direction:column;transition:border-color .15s,transform .15s}
+  .card:hover{border-color:#3a4a6b;transform:translateY(-2px)}
+  .thumb{display:block;background:#fff;aspect-ratio:4/3;overflow:hidden;
+         display:flex;align-items:center;justify-content:center}
+  .thumb img{width:100%;height:100%;object-fit:contain;image-rendering:auto}
+  .meta{padding:11px 13px 13px;border-top:1px solid var(--line)}
+  .meta .t{font-weight:600;font-size:13.5px;line-height:1.35}
+  .meta .d{color:var(--mut);font-size:12.5px;margin-top:4px}
+  .big .thumb{aspect-ratio:auto}
+  .big .thumb img{height:auto;max-height:none;width:100%}
+  table{border-collapse:collapse;width:100%;font-size:13.5px;margin-top:10px}
+  th,td{border-bottom:1px solid var(--line);padding:8px 10px;text-align:left;vertical-align:top}
+  th{color:var(--mut);font-weight:600;font-size:12.5px;text-transform:uppercase;letter-spacing:.04em}
+  code{background:#1b2436;border:1px solid var(--line);border-radius:5px;padding:1px 5px;font-size:12.5px}
+  .note{background:var(--panel);border:1px solid var(--line);border-left:3px solid var(--acc2);
+        border-radius:8px;padding:14px 16px;color:var(--mut);font-size:13.5px;max-width:980px}
+  .note b{color:var(--txt)}
+  .warn{border-left-color:#ff6b6b}
+  footer{padding:26px;color:#66748c;font-size:12.5px;border-top:1px solid var(--line);margin-top:40px}
+  #lb{position:fixed;inset:0;background:rgba(5,8,13,.96);display:none;z-index:99;
+      padding:20px;overflow:auto;cursor:zoom-out}
+  #lb.on{display:block}
+  #lb img{display:block;margin:auto;max-width:100%;background:#fff;border-radius:4px}
+  #lb .cap{color:var(--mut);text-align:center;font-size:13px;padding:12px}
+</style>
+</head>
+<body>
+
+<header>
+  <h1>PlayStation 4 Slim — ADP-160CR / N15-160P1A schematic archive</h1>
+  <p class="sub">
+    Full extraction of the document on
+    <a href="https://www.scribd.com/document/689240918/Ps4-Adp-160cr-Psu-schematic">scribd.com/document/689240918</a>
+    — the 2-sheet <b>“SONY PS4 ORIGINAL POWER UNIT ADP-160CR”</b> service schematic — plus
+    enlarged crops, a redrawn block diagram and a full component reference.
+    Click any image to open it full size.
+  </p>
+  <div class="pills">
+    <span class="pill">Consoles <b>CUH-20xx / 21xx / 22xx</b></span>
+    <span class="pill">AC <b>100–240 V, 2.5 A</b></span>
+    <span class="pill">DC <b>+12 V 13 A</b> / <b>+4.8 V 1.5 A</b></span>
+    <span class="pill">Topology <b>PFC + LLC + SR + flyback standby</b></span>
+    <span class="pill">Source <b>2 pages, 523 KB PDF</b></span>
+  </div>
+</header>
+
+<main>
+
+<div class="note">
+  <b>Read this before probing anything.</b> The primary side is mains-live, and C114 / C19 hold
+  more than 380 V for minutes after unplug. Discharge them and verify with a meter first.
+  Never ground a scope on the primary without an isolation transformer and a differential probe.
+  The +12 V / +4.8 V secondary is SELV and safe to probe normally.
+</div>
+
+<h2><span class="n">01</span>The two original sheets</h2>
+<p class="hint">Annotated versions first — each region matches the numbered legend in the sidebar.
+The 3× enhanced versions are the easiest to actually read values from.</p>
+<div class="grid" id="sheets"></div>
+
+<h2><span class="n">02</span>Sheet 1 — standby &amp; protection, zoomed</h2>
+<p class="hint">Quarter-sheet crops at 5–8×, in circuit order: AC inlet → IC101 → switch → transformer → output → feedback → protection.</p>
+<div class="grid" id="p1"></div>
+
+<h2><span class="n">03</span>Sheet 2 — PFC &amp; SMPS, zoomed</h2>
+<p class="hint">AC inlet → PFC (IC41) → LLC (IC32, Q3/Q4) → T2 → synchronous rectifiers (IC104) → +12 V out → feedback.</p>
+<div class="grid" id="p2"></div>
+
+<h2><span class="n">04</span>Redrawn block diagram</h2>
+<p class="hint">My own block view of the supply — power path, standby chain, control layer and rail summary in one picture.</p>
+<div class="grid" id="block"></div>
+
+<h2><span class="n">05</span>Delta house numbers → real chips</h2>
+<p class="hint">This is the part that trips people up when ordering replacements.</p>
+<table>
+  <tr><th>Silkscreen</th><th>Real device</th><th>Job</th></tr>
+  <tr><td><code>DAP041</code> (IC101)</td><td><b>NCP1246</b></td><td>Standby flyback PWM controller</td></tr>
+  <tr><td><code>DDA001AG</code> (IC32)</td><td><b>NCP1396A/B</b></td><td>LLC resonant half-bridge controller</td></tr>
+  <tr><td><code>1812A1</code> / <code>ODEZ</code> (IC41)</td><td><b>NCP1612A1</b></td><td>Transition-mode PFC controller</td></tr>
+  <tr><td><code>MP6922L</code> (IC104)</td><td><b>MP6922</b></td><td>Dual synchronous-rectifier controller</td></tr>
+  <tr><td><code>CNY17A</code> (IC103)</td><td><b>CNY17</b></td><td>12 V feedback opto-coupler</td></tr>
+  <tr><td><code>24N60</code> (Q1)</td><td><b>STB24N60M2</b></td><td>PFC boost switch</td></tr>
+  <tr><td><code>6R099P</code> (Q3/Q4)</td><td>600 V superjunction pair</td><td>LLC half-bridge</td></tr>
+  <tr><td><code>88N06</code> (Q101/Q102)</td><td>60 V N-channel</td><td>Synchronous rectifiers</td></tr>
+  <tr><td><code>GBU406</code> (BD1)</td><td>GBU406</td><td>Input bridge rectifier</td></tr>
+  <tr><td><code>5D-11</code> (NTC01)</td><td>5D-11 NTC</td><td>Inrush current limiter</td></tr>
+</table>
+
+<h2><span class="n">06</span>Documents</h2>
+<table>
+  <tr><th>File</th><th>Contents</th></tr>
+  <tr><td><a href="README.md">README.md</a></td><td>Analysis of the Scribd page, where the file really comes from, mirrors, full image index</td></tr>
+  <tr><td><a href="docs/ADP-160CR-component-reference.md">docs/ADP-160CR-component-reference.md</a></td><td>Every designator transcribed with a confidence grade, + how the supply sequences + common failures</td></tr>
+  <tr><td><a href="docs/PS4-PSU-model-matrix.md">docs/PS4-PSU-model-matrix.md</a></td><td>All ten PS4 PSU models, which console uses which, and where to find the rest</td></tr>
+</table>
+
+<div class="note warn" style="margin-top:34px">
+  <b>Provenance.</b> The two sheets are a third-party reverse-engineering redraw
+  (watermarked <code>randeefigumasekara@yahoo.com 03/02/2022</code>), not an official Sony or
+  Delta document, and they are distributed freely on repair sites. A few designators are debated
+  on repair forums — always confirm against the board in front of you. Not affiliated with Sony
+  Interactive Entertainment, Delta Electronics or Chicony.
+</div>
+
+</main>
+
+<footer>
+  PS4 Slim ADP-160CR schematic archive · generated from the 2-page service PDF ·
+  diagrams redrawn for readability, not reproduced.
+</footer>
+
+<div id="lb"><img alt=""><div class="cap"></div></div>
+
+<script>
+const SHEETS = [
+ ["images/adp-160cr/01-standby-and-protection-circuit-annotated.png","Sheet 1 — Standby &amp; protection circuit (annotated)","15 numbered regions with a legend sidebar"],
+ ["images/adp-160cr/02-pfc-and-smps-circuit-annotated.png","Sheet 2 — PFC &amp; SMPS circuit (annotated)","15 numbered regions with a legend sidebar"],
+ ["images/adp-160cr/01-standby-and-protection-circuit-3x-enhanced.png","Sheet 1 — 3× enhanced","Lanczos upscale + unsharp mask, best for reading values"],
+ ["images/adp-160cr/02-pfc-and-smps-circuit-3x-enhanced.png","Sheet 2 — 3× enhanced","Same treatment"],
+ ["images/adp-160cr/01-standby-and-protection-circuit-original.png","Sheet 1 — raw source","Untouched 1052 × 744 scan"],
+ ["images/adp-160cr/02-pfc-and-smps-circuit-original.png","Sheet 2 — raw source","Untouched 1052 × 744 scan"]
+];
+const P1 = [
+ ["01-page1-01-ac-inlet-fuse-bridge","AC inlet, fuse, bridge","IEC C7 inlet · F1 4 A · D41/D42 · R9/R4 inrush"],
+ ["01-page1-02-ic101-dap041-ncp1246","IC101 DAP041 = NCP1246","Standby flyback controller and its pinout"],
+ ["01-page1-03-startup-resistors-snubber","Startup resistors &amp; snubber","R40 330 K · R37 561 K · R13/R14 · D1 · C15"],
+ ["01-page1-04-q9-3n90k-standby-switch","Q9 3N90K standby switch","R52/R56 · ZD09 · R53/R54 · ZD01"],
+ ["01-page1-05-t1-standby-transformer","T1 standby transformer","Primary 5-7 / 8-9 → secondary 4-1"],
+ ["01-page1-06-4v8-output-filter-connectors","+4.8 V SB output","D101 · C102/C103 · L101 · C120 680 µF/16 V · CN1213/CN1214"],
+ ["01-page1-07-optofeedback-ad-det","Opto feedback","IC102 / IC103 · ZD002 · C43"],
+ ["01-page1-08-q41-bias-regulator","Q41 2SD1803 bias regulator","R141 · R44 · ZD37 20-6V1 · C46/C50"],
+ ["01-page1-09-testpads-acin-acdc","Test pads","CN1212 ACDC_STBY · CN1211 ACIN_DET · R152/R154/R173"],
+ ["01-page1-10-12v-sense-divider","12 V sense divider","R165/R180/R189 · NTC101 · ZD104 · D101"]
+];
+const P2 = [
+ ["02-page2-01-ac-inlet-emi-filter","AC inlet &amp; EMI filter","F1 4 A · BD1 GBU406 · CX5 680n/400V · NTC01 5D-11 · L1"],
+ ["02-page2-02-ic41-ncp1612a1","IC41 NCP1612A1","PFC controller, pin 5 GND / pin 6 VCC"],
+ ["02-page2-03-pfc-buffer-and-bulk","PFC drive buffer &amp; bulk","Q1/Q2 M0620 · ZD101/ZD102 · C114 hold-up cap"],
+ ["02-page2-04-llc-halfbridge-q3-q4","LLC half-bridge","Q3/Q4 6R099P · C19/C15 · L2 · D4 bootstrap"],
+ ["02-page2-05-t2-and-sync-rectifiers","T2 &amp; synchronous rectifiers","T2 · Q101/Q102 88N06 · D5 · C10 472/3KV"],
+ ["02-page2-06-ic104-mp6922","IC104 MP6922L","Dual synchronous-rectifier controller"],
+ ["02-page2-07-output-filter-connectors","+12 V output","C116/C118/C122 · R112 0R05 · CN1213/CN1214"],
+ ["02-page2-08-ic32-ncp1396-llc-ctrl","IC32 DDA001AG = NCP1396A","LLC controller · R63/R80 timing · C73"],
+ ["02-page2-09-vcc-from-standby","VCC from standby","“FROM STBY CCT +19 V” · ZD21 · C35 · NTC41"],
+ ["02-page2-10-feedback-opto-12v","12 V feedback opto","IC103 CNY17A · R191/R193 · C141 · ZD7A"]
+];
+const BLOCK = [
+ ["docs/ADP-160CR-block-diagram.png","ADP-160CR power-flow block diagram","AC → PFC → LLC → SR → +12 V, the standby chain, the control layer and a rail summary",true]
+];
+
+function card(src,title,desc,big){
+  const d=document.createElement('a');
+  d.className='card'+(big?' big':'');
+  d.href=src;
+  d.innerHTML=`<span class="thumb"><img loading="lazy" src="${src}" alt="${title}"></span>
+    <span class="meta"><span class="t">${title}</span><span class="d">${desc}</span></span>`;
+  d.addEventListener('click',e=>{e.preventDefault();openLB(src,title);});
+  return d;
+}
+function fill(id,list,prefix,big){
+  const el=document.getElementById(id);
+  list.forEach(([f,t,d])=>{
+    let src=prefix+f;
+    if(!/\.(png|jpg|jpeg|webp)$/i.test(src)) src+='.png';
+    el.appendChild(card(src,t,d,big));
+  });
+}
+fill('sheets',SHEETS,'',false);
+fill('p1',P1,'images/adp-160cr/crops/',false);
+fill('p2',P2,'images/adp-160cr/crops/',false);
+fill('block',BLOCK,'',true);
+
+const lb=document.getElementById('lb'),lbi=lb.querySelector('img'),lbc=lb.querySelector('.cap');
+function openLB(src,cap){lbi.src=src;lbi.alt=cap;lbc.innerHTML=cap;lb.classList.add('on');}
+lb.addEventListener('click',()=>lb.classList.remove('on'));
+document.addEventListener('keydown',e=>{if(e.key==='Escape')lb.classList.remove('on');});
+</script>
+</body>
+</html>
