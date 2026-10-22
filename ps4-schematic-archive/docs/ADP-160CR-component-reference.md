@@ -35,6 +35,9 @@ who drew it.
 
 ## 2. Controllers and ICs
 
+> The redrawn sheets reuse several designators (`IC101`, `Q1`). Where that happens it is called
+> out explicitly below — on the real board each designator is unique.
+
 The ADP-160CR uses **Delta-branded house numbers**, not the original vendor part numbers.
 The mapping below is the useful bit for repair.
 
@@ -86,9 +89,10 @@ The mapping below is the useful bit for repair.
 | C110 / C112 | 680 p / 1 kV ×2 | snubber | B |
 | R111 | `R1005` (1 Ω?) | output series / fuse resistor | B |
 | L101 | choke | 4.8 V SB output filter | A |
-| C120 | **680 µF / 16 V** | 4.8 V SB bulk | A |
+| C120 | **680 µF / 16 V** (print is blurry, reads like `880p/16V` — 680 µF/16 V fits the rail) | 4.8 V SB bulk | B |
 | C121 | — | 4.8 V SB ceramic | A |
-| CN1213 / CN1214 | test pads / vias | **CN1214 = +4.8 V SB**, **CN1213 = GND** | A |
+| CN1213 / CN1214 | test pads / vias | **CN1214 = +4.8 V SB** (label prints as `4V8SB`), **CN1213 = GND** | B |
+| IC101 (right-hand block) | `DAP0112A21`? | secondary-side 12 V supervisor — **the redraw reuses the IC101 designator here**; do not confuse it with the standby controller on the left | C |
 | IC102 | opto | standby regulation feedback | B |
 | IC103 / IC105 | opto | secondary-side signalling | B |
 | ZD002 | `3V`? | reference clamp | C |
