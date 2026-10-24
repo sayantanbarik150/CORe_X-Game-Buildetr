@@ -4,7 +4,12 @@ Scraped price data from [goextracash.com](https://www.goextracash.com/) (India),
 turned into one Excel workbook where every phone model × storage variant has a
 price for each device condition.
 
-**Deliverable:** `output/GoExtraCash_Condition_Wise_Price_List.xlsx`
+**Deliverables**
+
+* `output/GoExtraCash_Condition_Wise_Price_List.xlsx` – the whole workbook
+* `output/sheets/` – every sheet as its own `.xlsx` **and** `.csv`
+  (`GoExtraCash_Price_by_Condition.xlsx`, `..._All_Conditions.xlsx`, …)
+* `output/GoExtraCash_Sheets.zip` – all of the above in one download
 
 | Sheet | What's in it |
 | --- | --- |
