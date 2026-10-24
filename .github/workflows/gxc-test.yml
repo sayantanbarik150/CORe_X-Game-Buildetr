@@ -5,6 +5,7 @@ on:
     paths:
       - .github/workflows/gxc-test.yml
       - scripts/gxc_probe.py
+      - scripts/gxc_probe2.py
   workflow_dispatch:
 
 permissions:
@@ -18,7 +19,7 @@ jobs:
         with:
           ref: ${{ github.ref_name }}
       - name: Run pricing probe
-        run: python3 scripts/gxc_probe.py > scrape_out/08_pricing_test.txt 2>&1 || true
+        run: python3 scripts/gxc_probe2.py > scrape_out/08_pricing_test.txt 2>&1 || true
       - name: Commit results
         run: |
           git config user.name "arena-bot"
