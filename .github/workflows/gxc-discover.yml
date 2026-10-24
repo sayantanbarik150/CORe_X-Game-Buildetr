@@ -17,48 +17,32 @@ jobs:
         with:
           ref: ${{ github.ref_name }}
 
-      - name: Download frontend bundle
+      - name: Download all lazy chunks
         run: |
-          mkdir -p scrape_out/bundle
-          curl -sL https://www.goextracash.com/ -o /tmp/home.html
-          for f in $(grep -oE '(main|polyfills|runtime)\.[a-z0-9]+\.js' /tmp/home.html | sort -u); do
-            curl -sL "https://www.goextracash.com/$f" -o "scrape_out/bundle/$f"
-            echo "$f $(wc -c < scrape_out/bundle/$f)"
+          mkdir -p scrape_out/chunks
+          for f in common.2d844c25cc9c3890 83.0476dca6d0009aa6 185.70fcecfd07cf8b0f 310.ff93789ab829d0c0 433.97125f8fa6b2dc8b 469.3abdda91e86e673d 505.6ca17ad92be187aa 742.4a9a907c12d63b61 744.965f78c70b8656b0 828.39fb3360bfd91c8b 1207.c31c58ba921c7544 1312.b30a64ba55502e13 1315.7fe5fa9219b74024 1371.5d786b155184e0f4 1372.c332ef5e8689b6a0 1396.6d2fd488c15039d7 1745.1d0e2ead40f0c005 1751.938b5b4334b8b6d7 1802.1f071c9f994ba969 1933.012f4e875366f39e 2061.00d8ab7c1e70f133 polyfills-core-js.93f56369317b7a8e 2543.4ecb9d67baa1006c 2559.9a87c0137e5b832b 2776.8e61e54dd00ed7c1 2841.90d88764b2511758 2975.d4a3a8de95daffe4 3135.9b32e5171ebdb5e5 3150.b385f5653f17897f 3287.3cf1e219f02d3fe4 3483.d45d1ac5dcf2f18d 3544.4e1ffc7d2a8b0060 3672.bd6f90c58351e576 3734.f7e07053d3740a57 3824.021428b568a1b9f0 3998.5777d7784aed56a1 4041.ca6bfdb5684b1261 4087.4d3d6c0045bee110 4090.45a352ecc92a34a2 4148.d498436706ebc7d9 4340.c7b934a07225cd1c 4458.f8733472cc36710a 4530.0b6bc9485fdd65c6 4741.222084961af85f25 4764.097a3d01bd7326d7 4771.a8330af9536a1eb5 5217.55cd7c701a3b5204 5454.a50a882f6f6679fc 5586.17c7417547179648 5675.2171273233c17bee 5860.677f53458c6c1d4c 5962.cb92da0853ab2601 6304.ea84f366beea79ee 6642.f555a673d439add1 6673.84a34147847e39e5 polyfills-dom.516ff539260f3e0d 6754.d1d9a9ace39e263f 7059.1deb0105d4e38418 7116.36079565043dbcf8 7219.ecc1c9bef752449f 7465.0cfd481fe58b2119 7513.c8c9b5ab52a0bbe4 7635.001dbf8d6ae44798 7666.ee5d47d88504157a 8058.92bc3c5df214f8f0 8194.0a73a3dfd278bb59 8382.9b76719cb8b87eb5 8484.06a77f1145488f52 8487.ca1eb243fe230331 8577.273ea792419be5c6 common.2d844c25cc9c3890 8633.78084433b69827de 8764.d806b37050c0758e 8777.0d8d6954de17be3c 8811.59fbd61cb8f382c5 8866.f720f8df21946b48 8877.d87b1dd394db06f1 8881.2d06967bd505116f 9235.acd2c9a6970f1326 9352.4ceb0d17907703d3 9418.7247e87ba38328b6 9588.1cc95fab80f3cf77 9793.b779751b21b0900c 9820.d5a15e4b1f1e048f 9857.a09c73c9efeebb2b 9882.1863743389167ae2; do
+            curl -sL --fail "https://www.goextracash.com/$f" -o "scrape_out/chunks/$f" || echo "FAIL $f"
           done
+          ls scrape_out/chunks | wc -l
+          du -sh scrape_out/chunks
 
-      - name: Probe endpoints around /brands
+      - name: Extract API endpoints from chunks
         run: |
           {
-          probe() {
-            code=$(curl -s -o /tmp/out.bin -w "%{http_code}" -m 20 "$1")
-            size=$(wc -c < /tmp/out.bin)
-            echo "### $1 -> HTTP $code ($size bytes)"
-            if [ "$code" = "200" ]; then head -c 600 /tmp/out.bin | tr -d '\n'; echo; fi
-          }
-          probe "https://api.goextracash.com/brands"
-          for n in 1 2 3; do
-            probe "https://api.goextracash.com/brands/$n"
-            probe "https://api.goextracash.com/brands/$n/series"
-            probe "https://api.goextracash.com/series/$n"
-            probe "https://api.goextracash.com/series?brand=$n"
-            probe "https://api.goextracash.com/series?brand_id=$n"
-            probe "https://api.goextracash.com/devices/$n"
-            probe "https://api.goextracash.com/models/$n"
-            probe "https://api.goextracash.com/variants/$n"
-          done
-          probe "https://api.goextracash.com/series/Apple"
-          probe "https://api.goextracash.com/series?name=Apple"
-          probe "https://api.goextracash.com/device/IPHONE%2013"
-          probe "https://api.goextracash.com/variants/IPHONE%2013"
-          probe "https://api.goextracash.com/devices/IPHONE%2013"
-          probe "https://api.goextracash.com/conditions"
-          probe "https://api.goextracash.com/condition"
-          } > scrape_out/06_probe2.txt 2>&1
+          echo "=== apiurl base refs ==="
+          grep -ohE '"[a-z0-9/_-]{2,40}"' scrape_out/chunks/*.js | sort | uniq -c | sort -rn | head -0
+          echo "=== quoted paths (1 segment+) ==="
+          grep -ohE '(get|post|put)\("[^"]+"' scrape_out/chunks/*.js | sort -u | head -200
+          echo "=== api base concatenations ==="
+          grep -ohE 'apiurl[^,;)]{0,120}' scrape_out/chunks/*.js | sort -u | head -60
+          echo "=== candidates: strings near .get( ==="
+          grep -ohE '\.(get|post)\([^)]{0,80}' scrape_out/chunks/*.js | sort -u | head -120
+          } > scrape_out/07_endpoints.txt 2>&1
 
       - name: Commit results
         run: |
           git config user.name "arena-bot"
           git config user.email "arena-bot@users.noreply.github.com"
           git add -A scrape_out
-          git commit -m "scrape: bundle + probe2 [skip ci]" || echo "nothing to commit"
+          git commit -m "scrape: chunks + endpoints [skip ci]" || echo "nothing to commit"
           git push origin HEAD:${GITHUB_REF_NAME}
