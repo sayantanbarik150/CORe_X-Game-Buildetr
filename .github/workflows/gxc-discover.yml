@@ -17,101 +17,48 @@ jobs:
         with:
           ref: ${{ github.ref_name }}
 
-      - name: Homepage + assets
+      - name: Download frontend bundle
         run: |
-          mkdir -p scrape_out
-          {
-          echo "=== HOMEPAGE ==="
+          mkdir -p scrape_out/bundle
           curl -sL https://www.goextracash.com/ -o /tmp/home.html
-          echo "HOMEBYTES: $(wc -c < /tmp/home.html)"
-          echo "--- buildId ---"
-          grep -oE '"buildId":"[^"]+"' /tmp/home.html | sort -u | head -5
-          echo "--- assets ---"
-          grep -oE '(src|href)="[^"]+\.(js|json)"' /tmp/home.html | sed 's/.*="//;s/"$//' | sort -u | head -80
-          } > scrape_out/01_home.txt 2>&1
+          for f in $(grep -oE '(main|polyfills|runtime)\.[a-z0-9]+\.js' /tmp/home.html | sort -u); do
+            curl -sL "https://www.goextracash.com/$f" -o "scrape_out/bundle/$f"
+            echo "$f $(wc -c < scrape_out/bundle/$f)"
+          done
 
-      - name: JS bundle endpoint extraction
-        run: |
-          cd /tmp
-          grep -oE 'src="[^"]+\.js[^"]*"' /tmp/home.html | sed 's/src="//;s/"$//' | sort -u > assets.txt
-          mkdir -p bundles && cd bundles
-          i=0
-          while read -r u; do
-            case "$u" in
-              http*) full="$u";;
-              /*) full="https://www.goextracash.com$u";;
-              *) full="https://www.goextracash.com/$u";;
-            esac
-            i=$((i+1))
-            curl -sL "$full" -o "b$i.js"
-            echo "GOT $full -> b$i.js ($(wc -c < b$i.js) bytes)"
-          done < ../assets.txt > /tmp/bundle_list.txt
-          {
-          cat /tmp/bundle_list.txt
-          echo "=== api.goextracash.com refs ==="
-          grep -ohE '(https?://)?api\.goextracash\.com/[A-Za-z0-9_./?=&{}$%:-]*' *.js 2>/dev/null | sort -u | head -120
-          echo "=== quoted api paths ==="
-          grep -ohE '"/?api/[A-Za-z0-9_./?=&{}$%:-]*"' *.js 2>/dev/null | sort -u | head -120
-          echo "=== env api vars ==="
-          grep -ohE '(NEXT_PUBLIC|REACT_APP|VITE)_[A-Z0-9_]{0,30}(API|URL)[A-Z0-9_]{0,20}[^,;)]{0,90}' *.js 2>/dev/null | sort -u | head -40
-          echo "=== fetch/axios template calls ==="
-          grep -ohE '(fetch|axios\.(get|post))\([^)]{0,120}' *.js 2>/dev/null | sort -u | head -60
-          } > /tmp/02.txt 2>&1
-          cp /tmp/02.txt "$GITHUB_WORKSPACE/scrape_out/02_bundles.txt"
-
-      - name: Probe candidate API endpoints
+      - name: Probe endpoints around /brands
         run: |
           {
           probe() {
             code=$(curl -s -o /tmp/out.bin -w "%{http_code}" -m 20 "$1")
             size=$(wc -c < /tmp/out.bin)
-            if [ "$code" != "404" ]; then
-              echo "### $1 -> HTTP $code ($size bytes)"
-              head -c 400 /tmp/out.bin | tr -d '\n' ; echo
-            fi
+            echo "### $1 -> HTTP $code ($size bytes)"
+            if [ "$code" = "200" ]; then head -c 600 /tmp/out.bin | tr -d '\n'; echo; fi
           }
-          for pre in "" "/api" "/api/v1" "/api/v2"; do
-            for p in brands brand series devices device models model variants variant prices price products catalog list all; do
-              probe "https://api.goextracash.com${pre}/${p}"
-            done
+          probe "https://api.goextracash.com/brands"
+          for n in 1 2 3; do
+            probe "https://api.goextracash.com/brands/$n"
+            probe "https://api.goextracash.com/brands/$n/series"
+            probe "https://api.goextracash.com/series/$n"
+            probe "https://api.goextracash.com/series?brand=$n"
+            probe "https://api.goextracash.com/series?brand_id=$n"
+            probe "https://api.goextracash.com/devices/$n"
+            probe "https://api.goextracash.com/models/$n"
+            probe "https://api.goextracash.com/variants/$n"
           done
-          for p in get-brands getBrands get-series getSeries get-devices getDevices get-models getModels get-variants getVariants get-prices getPrices brand-list brandList device-list deviceList all-devices allDevices price-list priceList; do
-            probe "https://api.goextracash.com/api/${p}"
-            probe "https://api.goextracash.com/${p}"
-          done
-          } > scrape_out/03_probe.txt 2>&1
-
-      - name: Device page HTML
-        run: |
-          {
-          echo "=== device page ==="
-          curl -sL "https://www.goextracash.com/devices/IPHONE%2013" -o /tmp/dev.html
-          echo "DEVBYTES: $(wc -c < /tmp/dev.html)"
-          echo "--- script srcs ---"
-          grep -oE 'src="[^"]+\.js[^"]*"' /tmp/dev.html | sed 's/src="//;s/"$//' | sort -u | head -80
-          echo "--- buildId ---"
-          grep -oE '"buildId":"[^"]+"' /tmp/dev.html | sort -u | head -3
-          echo "--- self.__next_f payload (first 3000 chars) ---"
-          grep -oE 'self\.__next_f\.push\(\[[0-9]+,"[^"]{20,}"\]\)' /tmp/dev.html | head -c 3000
-          } > scrape_out/04_device.txt 2>&1
-
-      - name: Sitemap device count
-        run: |
-          {
-          curl -sL https://www.goextracash.com/sitemap.xml -o /tmp/sm.xml
-          echo "SITEMAP BYTES: $(wc -c < /tmp/sm.xml)"
-          echo "TOTAL URLS: $(grep -oE '<loc>[^<]+' /tmp/sm.xml | wc -l)"
-          echo "DEVICE URLS: $(grep -oE '<loc>[^<]+/devices/[^<]+' /tmp/sm.xml | wc -l)"
-          echo "--- brand series pages ---"
-          grep -oE '<loc>[^<]+/series/[^<]+' /tmp/sm.xml | sed 's/<loc>//' | head -40
-          echo "--- sample device urls ---"
-          grep -oE '<loc>[^<]+/devices/[^<]+' /tmp/sm.xml | sed 's/<loc>//' | head -10
-          } > scrape_out/05_sitemap.txt 2>&1
+          probe "https://api.goextracash.com/series/Apple"
+          probe "https://api.goextracash.com/series?name=Apple"
+          probe "https://api.goextracash.com/device/IPHONE%2013"
+          probe "https://api.goextracash.com/variants/IPHONE%2013"
+          probe "https://api.goextracash.com/devices/IPHONE%2013"
+          probe "https://api.goextracash.com/conditions"
+          probe "https://api.goextracash.com/condition"
+          } > scrape_out/06_probe2.txt 2>&1
 
       - name: Commit results
         run: |
           git config user.name "arena-bot"
           git config user.email "arena-bot@users.noreply.github.com"
           git add -A scrape_out
-          git commit -m "scrape: discovery report [skip ci]" || echo "nothing to commit"
+          git commit -m "scrape: bundle + probe2 [skip ci]" || echo "nothing to commit"
           git push origin HEAD:${GITHUB_REF_NAME}
