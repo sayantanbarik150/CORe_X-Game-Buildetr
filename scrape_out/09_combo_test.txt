@@ -1,0 +1,19 @@
+
+########## IPHONE 13 128GB variant=1089 msp=26520
+conditions                                                      sum   additive     actual     delta
+face                                                              0      26520      26520         0
+face+wifi                                                         0      26520      26520         0
+scratches_glass+face+wifi                                      6630      19890      19890         0
+scratches_glass+face+wifi+notworking_battery                   9282      17238      17238         0
+scratches_glass+face+wifi+notworking_battery+available_box    10608      15912      15912         0
+mobile_off+wifi                                               18564       7956       7956         0
+touch_notworking+scratches_crack+notworking_face+notworkin    28111      -1591 3182.5999999999985 4773.5999999999985
+scratches_crack+display_heavyspot+touch_notworking+panel_c    29437      -2917     6829.1    9746.1
+mobile_off+touch_notworking+scratches_glass                   31824      -5304          0      5304
+
+########## IPHONE 13 512GB variant=1091 msp=28050
+conditions                                                      sum   additive     actual     delta
+face                                                              0      28050      28050         0
+face+wifi+scratches_glass                                      7012      21038      21038         0
+mobile_off                                                    19635       8415       8415         0
+mobile_off+wifi                                               19635       8415       8415         0
