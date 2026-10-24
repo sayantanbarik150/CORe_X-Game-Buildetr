@@ -4,9 +4,7 @@ on:
   push:
     paths:
       - .github/workflows/gxc-test.yml
-      - scripts/gxc_probe.py
-      - scripts/gxc_probe2.py
-  workflow_dispatch:
+      - scripts/gxc_probe3.py
 
 permissions:
   contents: write
@@ -18,12 +16,12 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: ${{ github.ref_name }}
-      - name: Run pricing probe
-        run: python3 scripts/gxc_probe2.py > scrape_out/08_pricing_test.txt 2>&1 || true
+      - name: Run combination probe
+        run: python3 scripts/gxc_probe3.py > scrape_out/09_combo_test.txt 2>&1 || true
       - name: Commit results
         run: |
           git config user.name "arena-bot"
           git config user.email "arena-bot@users.noreply.github.com"
           git add -A scrape_out
-          git commit -m "scrape: pricing endpoint test [skip ci]" || echo "nothing to commit"
+          git commit -m "scrape: combo test [skip ci]" || echo "nothing to commit"
           git push origin HEAD:${GITHUB_REF_NAME}
