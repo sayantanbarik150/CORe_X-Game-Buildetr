@@ -1,0 +1,2206 @@
+{
+ "scraped_at": "2026-10-24T07:08:43Z",
+ "brands": [
+  {
+   "id": 1,
+   "name": "Apple",
+   "logo": "https://assets.goextracash.com/brands/apple.png",
+   "status": "1",
+   "series": [
+    {
+     "id": 4,
+     "brand": "APPLE",
+     "series": "IPHONE 6S",
+     "series_pic": "https://assets.goextracash.com/series/iphone6s.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 5,
+     "brand": "APPLE",
+     "series": "IPHONE 6S PLUS",
+     "series_pic": "https://assets.goextracash.com/series/iphone6plus.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 7,
+     "brand": "APPLE",
+     "series": "IPHONE 7",
+     "series_pic": "https://assets.goextracash.com/series/iphone7.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 8,
+     "brand": "APPLE",
+     "series": "IPHONE 7 PLUS",
+     "series_pic": "https://assets.goextracash.com/series/iphone7plus.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 9,
+     "brand": "APPLE",
+     "series": "IPHONE 8",
+     "series_pic": "https://assets.goextracash.com/series/iphone8.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 10,
+     "brand": "APPLE",
+     "series": "IPHONE 8 PLUS",
+     "series_pic": "https://assets.goextracash.com/series/iphone8plus.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 11,
+     "brand": "APPLE",
+     "series": "IPHONE X",
+     "series_pic": "https://assets.goextracash.com/series/iphonex.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 12,
+     "brand": "APPLE",
+     "series": "IPHONE XS",
+     "series_pic": "https://assets.goextracash.com/series/iphonexs.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 13,
+     "brand": "APPLE",
+     "series": "IPHONE XS MAX",
+     "series_pic": "https://assets.goextracash.com/series/iphonexsmax.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 14,
+     "brand": "APPLE",
+     "series": "IPHONE XR",
+     "series_pic": "https://assets.goextracash.com/series/iphonexr.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 15,
+     "brand": "APPLE",
+     "series": "IPHONE 11",
+     "series_pic": "https://assets.goextracash.com/series/iphone11.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 16,
+     "brand": "APPLE",
+     "series": "IPHONE 11 PRO",
+     "series_pic": "https://assets.goextracash.com/series/iphone11pro.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 17,
+     "brand": "APPLE",
+     "series": "IPHONE 11 PRO MAX",
+     "series_pic": "https://assets.goextracash.com/series/iphone11promax.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 18,
+     "brand": "APPLE",
+     "series": "IPHONE SE 2020",
+     "series_pic": "https://assets.goextracash.com/series/iphone8.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 19,
+     "brand": "APPLE",
+     "series": "IPHONE 12",
+     "series_pic": "https://assets.goextracash.com/series/iphn12.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 20,
+     "brand": "APPLE",
+     "series": "IPHONE 12 MINI",
+     "series_pic": "https://assets.goextracash.com/series/iphnmini.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 21,
+     "brand": "APPLE",
+     "series": "IPHONE 12 PRO",
+     "series_pic": "https://assets.goextracash.com/series/iphnpro.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 22,
+     "brand": "APPLE",
+     "series": "IPHONE 12 PRO MAX",
+     "series_pic": "https://assets.goextracash.com/series/iphnprom.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 153,
+     "brand": "APPLE",
+     "series": "IPHONE 13",
+     "series_pic": "https://assets.goextracash.com/series/iphone13.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 154,
+     "brand": "APPLE",
+     "series": "IPHONE 13 MINI",
+     "series_pic": "https://assets.goextracash.com/series/iphone13mini.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 155,
+     "brand": "APPLE",
+     "series": "IPHONE 13 PRO",
+     "series_pic": "https://assets.goextracash.com/series/iphone13pro.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 156,
+     "brand": "APPLE",
+     "series": "IPHONE 13 PRO MAX",
+     "series_pic": "https://assets.goextracash.com/series/iphone13pmx.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 168,
+     "brand": "APPLE",
+     "series": "IPHONE SE 2022",
+     "series_pic": "https://assets.goextracash.com/series/iphse22.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 181,
+     "brand": "APPLE",
+     "series": "IPHONE 14",
+     "series_pic": "https://assets.goextracash.com/series/iph14.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 182,
+     "brand": "APPLE",
+     "series": "IPHONE 14 PRO",
+     "series_pic": "https://assets.goextracash.com/series/iph14ppp.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 183,
+     "brand": "APPLE",
+     "series": "IPHONE 14 PRO MAX",
+     "series_pic": "https://assets.goextracash.com/series/iph14ppp.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 184,
+     "brand": "APPLE",
+     "series": "IPHONE 14 PLUS",
+     "series_pic": "https://assets.goextracash.com/series/iph14pls.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 193,
+     "brand": "APPLE",
+     "series": "IPHONE 15",
+     "series_pic": "https://assets.goextracash.com/series/iph15pls.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 194,
+     "brand": "APPLE",
+     "series": "IPHONE 15 PRO",
+     "series_pic": "https://assets.goextracash.com/series/iph15pp.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 195,
+     "brand": "APPLE",
+     "series": "IPHONE 15 PRO MAX",
+     "series_pic": "https://assets.goextracash.com/series/iph15ppmx.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 196,
+     "brand": "APPLE",
+     "series": "IPHONE 15 PLUS",
+     "series_pic": "https://assets.goextracash.com/series/iph15pls.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 209,
+     "brand": "APPLE",
+     "series": "IPHONE 16",
+     "series_pic": "https://api.goextracash.com/uploads/1752584396_iphone 16.png",
+     "created_at": "2025-07-15 18:31:55",
+     "updated_at": "2025-07-15 18:31:55",
+     "status": "1"
+    },
+    {
+     "id": 210,
+     "brand": "APPLE",
+     "series": "IPHONE 16 PRO",
+     "series_pic": "https://api.goextracash.com/uploads/1752588390_16pro.png",
+     "created_at": "2025-07-15 19:36:58",
+     "updated_at": "2025-07-15 19:36:58",
+     "status": "1"
+    },
+    {
+     "id": 211,
+     "brand": "APPLE",
+     "series": "IPHONE 16 PLUS",
+     "series_pic": "https://api.goextracash.com/uploads/1752592148_IPHONE 16 PLUS.png",
+     "created_at": "2025-07-15 20:39:34",
+     "updated_at": "2025-07-15 20:39:34",
+     "status": "1"
+    },
+    {
+     "id": 212,
+     "brand": "APPLE",
+     "series": "IPHONE 16 PRO MAX",
+     "series_pic": "https://api.goextracash.com/uploads/1752736071_16promax.png",
+     "created_at": "2025-07-17 12:38:17",
+     "updated_at": "2025-07-17 12:38:17",
+     "status": "1"
+    },
+    {
+     "id": 213,
+     "brand": "APPLE",
+     "series": "IPHONE 16E",
+     "series_pic": "https://api.goextracash.com/uploads/1752736666_Untitled design (1).png",
+     "created_at": "2025-07-17 12:51:09",
+     "updated_at": "2025-07-17 12:51:09",
+     "status": "1"
+    },
+    {
+     "id": 214,
+     "brand": "APPLE",
+     "series": "IPHONE 17",
+     "series_pic": "https://api.goextracash.com/uploads/1779786359_iPHONE17.png",
+     "created_at": "2026-05-26 14:36:20",
+     "updated_at": "2026-05-26 14:36:20",
+     "status": "1"
+    },
+    {
+     "id": 215,
+     "brand": "APPLE",
+     "series": "IPHONE 17 PRO",
+     "series_pic": "https://api.goextracash.com/uploads/1779788540_17PROIPHONE.png",
+     "created_at": "2026-05-26 15:12:44",
+     "updated_at": "2026-05-26 15:12:44",
+     "status": "1"
+    },
+    {
+     "id": 217,
+     "brand": "APPLE",
+     "series": "IPHONE 17 PRO MAX",
+     "series_pic": "https://api.goextracash.com/uploads/1779864160_17 PRO MAX.png",
+     "created_at": "2026-05-27 12:13:09",
+     "updated_at": "2026-05-27 12:13:09",
+     "status": "1"
+    },
+    {
+     "id": 218,
+     "brand": "APPLE",
+     "series": "IPHONE AIR",
+     "series_pic": "https://api.goextracash.com/uploads/1779865778_17AIR.png",
+     "created_at": "2026-05-27 12:40:17",
+     "updated_at": "2026-05-27 12:40:17",
+     "status": "1"
+    },
+    {
+     "id": 219,
+     "brand": "APPLE",
+     "series": "IPHONE 17E",
+     "series_pic": "https://api.goextracash.com/uploads/1779865989_17EIPHONE.png",
+     "created_at": "2026-05-27 12:43:32",
+     "updated_at": "2026-05-27 12:43:32",
+     "status": "1"
+    },
+    {
+     "id": 251,
+     "brand": "APPLE",
+     "series": "IPHONE 18 PRO",
+     "series_pic": "https://api.goextracash.com/uploads/1791439013_I Phone 18 Pro Max.png",
+     "created_at": "2026-10-08 11:27:25",
+     "updated_at": "2026-10-08 11:27:25",
+     "status": "1"
+    },
+    {
+     "id": 252,
+     "brand": "APPLE",
+     "series": "IPHONE 18 PRO MAX",
+     "series_pic": "https://api.goextracash.com/uploads/1791439013_I Phone 16 Pro Max (1).png",
+     "created_at": "2026-10-08 11:27:48",
+     "updated_at": "2026-10-08 11:27:48",
+     "status": "1"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "name": "Samsung",
+   "logo": "https://assets.goextracash.com/brands/samsung.png",
+   "status": "1",
+   "series": [
+    {
+     "id": 23,
+     "brand": "SAMSUNG",
+     "series": "GALAXY A SERIES",
+     "series_pic": "https://assets.goextracash.com/series/samsung.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 24,
+     "brand": "SAMSUNG",
+     "series": "GALAXY J SERIES",
+     "series_pic": "https://assets.goextracash.com/series/samsung.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 25,
+     "brand": "SAMSUNG",
+     "series": "GALAXY NOTE SERIES",
+     "series_pic": "https://assets.goextracash.com/series/samsung.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 26,
+     "brand": "SAMSUNG",
+     "series": "GALAXY ON SERIES",
+     "series_pic": "https://assets.goextracash.com/series/samsung.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 27,
+     "brand": "SAMSUNG",
+     "series": "GALAXY S SERIES",
+     "series_pic": "https://assets.goextracash.com/series/samsung.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 28,
+     "brand": "SAMSUNG",
+     "series": "GALAXY C SERIES",
+     "series_pic": "https://assets.goextracash.com/series/samsung.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 29,
+     "brand": "SAMSUNG",
+     "series": "GALAXY M SERIES",
+     "series_pic": "https://assets.goextracash.com/series/samsung.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 149,
+     "brand": "SAMSUNG",
+     "series": "GALAXY FOLD SERIES",
+     "series_pic": "https://assets.goextracash.com/series/samsung.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 150,
+     "brand": "SAMSUNG",
+     "series": "GALAXY Z FLIP SERIES",
+     "series_pic": "https://assets.goextracash.com/series/samsung.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 151,
+     "brand": "SAMSUNG",
+     "series": "GALAXY F SERIES",
+     "series_pic": "https://assets.goextracash.com/series/samsung.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "name": "GOOGLE PIXEL",
+   "logo": "https://assets.goextracash.com/brands/google.png",
+   "status": "1",
+   "series": [
+    {
+     "id": 48,
+     "brand": "GOOGLE PIXEL",
+     "series": "PIXEL SERIES",
+     "series_pic": "https://assets.goextracash.com/series/3.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 49,
+     "brand": "GOOGLE PIXEL",
+     "series": "PIXEL 2 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/3.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 50,
+     "brand": "GOOGLE PIXEL",
+     "series": "PIXEL 3 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/3.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 141,
+     "brand": "GOOGLE PIXEL",
+     "series": "PIXEL 4 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/3.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 186,
+     "brand": "GOOGLE PIXEL",
+     "series": "PIXEL 6 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/3.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 187,
+     "brand": "GOOGLE PIXEL",
+     "series": "PIXEL 7 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/3.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 228,
+     "brand": "GOOGLE PIXEL",
+     "series": "PIXEL 8 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/3.png",
+     "created_at": "2026-09-17 13:49:43",
+     "updated_at": "2026-09-17 13:49:43",
+     "status": "1"
+    },
+    {
+     "id": 229,
+     "brand": "GOOGLE PIXEL",
+     "series": "PIXEL 9 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/3.png",
+     "created_at": "2026-09-17 13:50:27",
+     "updated_at": "2026-09-17 13:50:27",
+     "status": "1"
+    },
+    {
+     "id": 230,
+     "brand": "GOOGLE PIXEL",
+     "series": "PIXEL 10 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/3.png",
+     "created_at": "2026-09-17 13:52:57",
+     "updated_at": "2026-09-17 13:52:57",
+     "status": "1"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "name": "MI",
+   "logo": "https://assets.goextracash.com/brands/xiaomi.png",
+   "status": "1",
+   "series": [
+    {
+     "id": 30,
+     "brand": "MI",
+     "series": "14 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/4.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2026-08-17 21:47:09",
+     "status": "1"
+    },
+    {
+     "id": 35,
+     "brand": "MI",
+     "series": "REDMI 5 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/4.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 36,
+     "brand": "MI",
+     "series": "REDMI 6 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/4.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 37,
+     "brand": "MI",
+     "series": "REDMI NOTE SERIES",
+     "series_pic": "https://assets.goextracash.com/series/4.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 38,
+     "brand": "MI",
+     "series": "REDMI Y SERIES",
+     "series_pic": "https://assets.goextracash.com/series/4.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 39,
+     "brand": "MI",
+     "series": "REDMI 7 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/4.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 40,
+     "brand": "MI",
+     "series": "REDMI K SERIES",
+     "series_pic": "https://assets.goextracash.com/series/4.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 115,
+     "brand": "MI",
+     "series": "REDMI 8 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/4.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 130,
+     "brand": "MI",
+     "series": "REDMI 9 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/4.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 157,
+     "brand": "MI",
+     "series": "REDMI 10 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/4.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 169,
+     "brand": "MI",
+     "series": "11 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/4.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 172,
+     "brand": "MI",
+     "series": "12 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/4.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 188,
+     "brand": "MI",
+     "series": "13 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/4.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 220,
+     "brand": "MI",
+     "series": "XIAOMI 15 SERIES",
+     "series_pic": "https://api.goextracash.com/uploads/1786964061_mi.png.png",
+     "created_at": "2026-08-17 16:24:52",
+     "updated_at": "2026-08-17 16:24:52",
+     "status": "1"
+    },
+    {
+     "id": 221,
+     "brand": "MI",
+     "series": "REDMI 15 SERIES",
+     "series_pic": "https://api.goextracash.com/uploads/1786964061_mi.png.png",
+     "created_at": "2026-08-17 16:25:19",
+     "updated_at": "2026-08-17 16:25:19",
+     "status": "1"
+    },
+    {
+     "id": 222,
+     "brand": "MI",
+     "series": "17 SERIES",
+     "series_pic": "https://api.goextracash.com/uploads/1786964061_mi.png.png",
+     "created_at": "2026-08-17 16:25:34",
+     "updated_at": "2026-08-17 22:06:42",
+     "status": "1"
+    },
+    {
+     "id": 223,
+     "brand": "MI",
+     "series": "TURBO SERIES",
+     "series_pic": "https://api.goextracash.com/uploads/1786964061_mi.png.png",
+     "created_at": "2026-08-17 16:25:54",
+     "updated_at": "2026-08-17 16:25:54",
+     "status": "1"
+    },
+    {
+     "id": 224,
+     "brand": "MI",
+     "series": "REDMI 14 SERIES",
+     "series_pic": "https://api.goextracash.com/uploads/1786983337_mi.png.png",
+     "created_at": "2026-08-17 21:45:57",
+     "updated_at": "2026-08-17 21:45:57",
+     "status": "1"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "name": "Motorola",
+   "logo": "https://assets.goextracash.com/brands/motorola.png",
+   "status": "1",
+   "series": [
+    {
+     "id": 41,
+     "brand": "MOTOROLA",
+     "series": "MOTO E SERIES",
+     "series_pic": "https://assets.goextracash.com/series/5.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 42,
+     "brand": "MOTOROLA",
+     "series": "MOTO G SERIES",
+     "series_pic": "https://assets.goextracash.com/series/5.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 43,
+     "brand": "MOTOROLA",
+     "series": "MOTO X SERIES",
+     "series_pic": "https://assets.goextracash.com/series/5.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 44,
+     "brand": "MOTOROLA",
+     "series": "MOTO Z SERIES",
+     "series_pic": "https://assets.goextracash.com/series/5.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 47,
+     "brand": "MOTOROLA",
+     "series": "MOTO ONE SERIES",
+     "series_pic": "https://assets.goextracash.com/series/5.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 160,
+     "brand": "MOTOROLA",
+     "series": "MOTO RAZR SERIES",
+     "series_pic": "https://assets.goextracash.com/series/5.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 161,
+     "brand": "MOTOROLA",
+     "series": "MOTO EDGE SERIES",
+     "series_pic": "https://assets.goextracash.com/series/5.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "name": "Lenovo",
+   "logo": "https://assets.goextracash.com/brands/lenovo.png",
+   "status": "1",
+   "series": [
+    {
+     "id": 65,
+     "brand": "LENOVO",
+     "series": "LENOVO K SERIES",
+     "series_pic": "https://assets.goextracash.com/series/6.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 67,
+     "brand": "LENOVO",
+     "series": "LENOVO Z SERIES",
+     "series_pic": "https://assets.goextracash.com/series/6.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "name": "OnePlus",
+   "logo": "https://assets.goextracash.com/brands/oneplus.png",
+   "status": "1",
+   "series": [
+    {
+     "id": 54,
+     "brand": "ONEPLUS",
+     "series": "ONEPLUS 3",
+     "series_pic": "https://assets.goextracash.com/series/onp3.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 55,
+     "brand": "ONEPLUS",
+     "series": "ONEPLUS 3T",
+     "series_pic": "https://assets.goextracash.com/series/onp3t.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 56,
+     "brand": "ONEPLUS",
+     "series": "ONEPLUS 5",
+     "series_pic": "https://assets.goextracash.com/series/onp5.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 57,
+     "brand": "ONEPLUS",
+     "series": "ONEPLUS 5T",
+     "series_pic": "https://assets.goextracash.com/series/on5t.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 58,
+     "brand": "ONEPLUS",
+     "series": "ONEPLUS 6",
+     "series_pic": "https://assets.goextracash.com/series/onp6.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 59,
+     "brand": "ONEPLUS",
+     "series": "ONEPLUS 6T",
+     "series_pic": "https://assets.goextracash.com/series/onp6t.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 60,
+     "brand": "ONEPLUS",
+     "series": "ONEPLUS 6T MCLAREN EDITION",
+     "series_pic": "https://assets.goextracash.com/series/onp6t.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 61,
+     "brand": "ONEPLUS",
+     "series": "ONEPLUS 7",
+     "series_pic": "https://assets.goextracash.com/series/onp7.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 62,
+     "brand": "ONEPLUS",
+     "series": "ONEPLUS 7 PRO",
+     "series_pic": "https://assets.goextracash.com/series/on7pp.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 63,
+     "brand": "ONEPLUS",
+     "series": "ONEPLUS 7T",
+     "series_pic": "https://assets.goextracash.com/series/onp7t.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 116,
+     "brand": "ONEPLUS",
+     "series": "ONEPLUS 7T PRO",
+     "series_pic": "https://assets.goextracash.com/series/on7pp.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 117,
+     "brand": "ONEPLUS",
+     "series": "ONEPLUS 8",
+     "series_pic": "https://assets.goextracash.com/series/onplus8.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 118,
+     "brand": "ONEPLUS",
+     "series": "ONEPLUS 8 PRO",
+     "series_pic": "https://assets.goextracash.com/series/onplus8p.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 119,
+     "brand": "ONEPLUS",
+     "series": "ONEPLUS NORD",
+     "series_pic": "https://assets.goextracash.com/series/onplusn.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 142,
+     "brand": "ONEPLUS",
+     "series": "ONEPLUS 8T",
+     "series_pic": "https://assets.goextracash.com/series/op8tt.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 143,
+     "brand": "ONEPLUS",
+     "series": "ONEPLUS 9 5G",
+     "series_pic": "https://assets.goextracash.com/series/op95g.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 144,
+     "brand": "ONEPLUS",
+     "series": "ONEPLUS 9R 5G",
+     "series_pic": "https://assets.goextracash.com/series/op9rg.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 145,
+     "brand": "ONEPLUS",
+     "series": "ONEPLUS 9 PRO 5G",
+     "series_pic": "https://assets.goextracash.com/series/op9prgg.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 146,
+     "brand": "ONEPLUS",
+     "series": "ONEPLUS NORD CE 5G",
+     "series_pic": "https://assets.goextracash.com/series/onpsnc.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 158,
+     "brand": "ONEPLUS",
+     "series": "ONEPLUS NORD 2 5G",
+     "series_pic": "https://assets.goextracash.com/series/onplsnrd2.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 173,
+     "brand": "ONEPLUS",
+     "series": "ONEPLUS 9RT 5G",
+     "series_pic": "https://assets.goextracash.com/series/onpls9rt.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 174,
+     "brand": "ONEPLUS",
+     "series": "ONEPLUS NORD CE 2 5G",
+     "series_pic": "https://assets.goextracash.com/series/ce22.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 175,
+     "brand": "ONEPLUS",
+     "series": "ONEPLUS 10 PRO 5G",
+     "series_pic": "https://assets.goextracash.com/series/onpls10pr.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 176,
+     "brand": "ONEPLUS",
+     "series": "ONEPLUS NORD CE 2 LITE 5G",
+     "series_pic": "https://assets.goextracash.com/series/onplscecece.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 177,
+     "brand": "ONEPLUS",
+     "series": "ONEPLUS 10R 5G",
+     "series_pic": "https://assets.goextracash.com/series/onpls10rr.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 178,
+     "brand": "ONEPLUS",
+     "series": "ONEPLUS NORD 2T 5G",
+     "series_pic": "https://assets.goextracash.com/series/onplsn2t.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 179,
+     "brand": "ONEPLUS",
+     "series": "ONEPLUS 10T 5G",
+     "series_pic": "https://assets.goextracash.com/series/onppls10t.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 189,
+     "brand": "ONEPLUS",
+     "series": "ONEPLUS 11 5G",
+     "series_pic": "https://assets.goextracash.com/series/oneplus11.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 190,
+     "brand": "ONEPLUS",
+     "series": "ONEPLUS 11R 5G",
+     "series_pic": "https://assets.goextracash.com/series/oneplus11r.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 191,
+     "brand": "ONEPLUS",
+     "series": "ONEPLUS NORD CE 3 LITE 5G",
+     "series_pic": "https://assets.goextracash.com/series/onplsce3.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 199,
+     "brand": "ONEPLUS",
+     "series": "ONEPLUS NORD 3 5G",
+     "series_pic": "https://assets.goextracash.com/series/onplsnrd3.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 200,
+     "brand": "ONEPLUS",
+     "series": "ONEPLUS NORD CE 3 5G",
+     "series_pic": "https://assets.goextracash.com/series/onplsnrdc.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 201,
+     "brand": "ONEPLUS",
+     "series": "ONEPLUS OPEN",
+     "series_pic": "https://assets.goextracash.com/series/open.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 206,
+     "brand": "ONEPLUS",
+     "series": "ONEPLUS 12",
+     "series_pic": "https://assets.goextracash.com/series/op12op12.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 207,
+     "brand": "ONEPLUS",
+     "series": "ONEPLUS 12R",
+     "series_pic": "https://assets.goextracash.com/series/op12rop12r.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 208,
+     "brand": "ONEPLUS",
+     "series": "ONEPLUS NORD CE 4 5G",
+     "series_pic": "https://assets.goextracash.com/series/opnce45g.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 225,
+     "brand": "ONEPLUS",
+     "series": "ONEPLUS NORD 4",
+     "series_pic": "https://api.goextracash.com/uploads/1788200365_oneplusnord 4.png",
+     "created_at": "2026-09-01 00:00:56",
+     "updated_at": "2026-09-01 00:00:56",
+     "status": "1"
+    },
+    {
+     "id": 226,
+     "brand": "ONEPLUS",
+     "series": "ONEPLUS 13",
+     "series_pic": "https://api.goextracash.com/uploads/1788200365_oneplus13.png",
+     "created_at": "2026-09-01 00:01:44",
+     "updated_at": "2026-09-01 00:01:44",
+     "status": "1"
+    },
+    {
+     "id": 227,
+     "brand": "ONEPLUS",
+     "series": "ONEPLUS 13R",
+     "series_pic": "https://api.goextracash.com/uploads/1788200365_oneplus13r.png",
+     "created_at": "2026-09-01 00:02:11",
+     "updated_at": "2026-09-01 00:02:11",
+     "status": "1"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "name": "Oppo",
+   "logo": "https://assets.goextracash.com/brands/oppo.png",
+   "status": "1",
+   "series": [
+    {
+     "id": 69,
+     "brand": "OPPO",
+     "series": "OPPO F SERIES",
+     "series_pic": "https://assets.goextracash.com/series/8.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 71,
+     "brand": "OPPO",
+     "series": "OPPO R SERIES",
+     "series_pic": "https://assets.goextracash.com/series/8.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 72,
+     "brand": "OPPO",
+     "series": "OPPO A SERIES",
+     "series_pic": "https://assets.goextracash.com/series/8.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 73,
+     "brand": "OPPO",
+     "series": "OPPO K SERIES",
+     "series_pic": "https://assets.goextracash.com/series/8.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 74,
+     "brand": "OPPO",
+     "series": "RENO SERIES",
+     "series_pic": "https://assets.goextracash.com/series/8.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 165,
+     "brand": "OPPO",
+     "series": "OPPO FIND SERIES",
+     "series_pic": "https://assets.goextracash.com/series/8.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "name": "Vivo",
+   "logo": "https://assets.goextracash.com/brands/vivo.png",
+   "status": "1",
+   "series": [
+    {
+     "id": 75,
+     "brand": "VIVO",
+     "series": "VIVO V SERIES",
+     "series_pic": "https://assets.goextracash.com/series/9.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 76,
+     "brand": "VIVO",
+     "series": "VIVO X SERIES",
+     "series_pic": "https://assets.goextracash.com/series/9.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 77,
+     "brand": "VIVO",
+     "series": "VIVO Y SERIES",
+     "series_pic": "https://assets.goextracash.com/series/9.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 78,
+     "brand": "VIVO",
+     "series": "NEX SERIES",
+     "series_pic": "https://assets.goextracash.com/series/9.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 79,
+     "brand": "VIVO",
+     "series": "VIVO Z SERIES",
+     "series_pic": "https://assets.goextracash.com/series/9.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 80,
+     "brand": "VIVO",
+     "series": "VIVO S SERIES",
+     "series_pic": "https://assets.goextracash.com/series/9.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 129,
+     "brand": "VIVO",
+     "series": "VIVO U SERIES",
+     "series_pic": "https://assets.goextracash.com/series/9.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 171,
+     "brand": "VIVO",
+     "series": "VIVO T SERIES",
+     "series_pic": "https://assets.goextracash.com/series/9.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "name": "Huawei",
+   "logo": "https://assets.goextracash.com/brands/huawei.png",
+   "status": "1",
+   "series": [
+    {
+     "id": 81,
+     "brand": "HUAWEI",
+     "series": "HUAWEI P SERIES",
+     "series_pic": "https://assets.goextracash.com/series/10.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 82,
+     "brand": "HUAWEI",
+     "series": "HUAWEI Y SERIES",
+     "series_pic": "https://assets.goextracash.com/series/10.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 83,
+     "brand": "HUAWEI",
+     "series": "HUAWEI NOVA SERIES",
+     "series_pic": "https://assets.goextracash.com/series/10.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 84,
+     "brand": "HUAWEI",
+     "series": "HUAWEI MATE SERIES",
+     "series_pic": "https://assets.goextracash.com/series/10.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "name": "Honor",
+   "logo": "https://assets.goextracash.com/brands/honor.png",
+   "status": "1",
+   "series": [
+    {
+     "id": 85,
+     "brand": "HONOR",
+     "series": "HONOR 7 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/11.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 86,
+     "brand": "HONOR",
+     "series": "HONOR 8 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/11.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 87,
+     "brand": "HONOR",
+     "series": "HONOR 9 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/11.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 88,
+     "brand": "HONOR",
+     "series": "HONOR HOLLY SERIES",
+     "series_pic": "https://assets.goextracash.com/series/11.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 89,
+     "brand": "HONOR",
+     "series": "HONOR 10 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/11.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 90,
+     "brand": "HONOR",
+     "series": "HONOR 6 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/11.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 91,
+     "brand": "HONOR",
+     "series": "HONOR PLAY SERIES",
+     "series_pic": "https://assets.goextracash.com/series/11.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 92,
+     "brand": "HONOR",
+     "series": "HONOR 20 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/11.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "name": "Asus",
+   "logo": "https://assets.goextracash.com/brands/asus.png",
+   "status": "1",
+   "series": [
+    {
+     "id": 95,
+     "brand": "ASUS",
+     "series": "ZENFONE 5 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/12.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 96,
+     "brand": "ASUS",
+     "series": "ZENFONE MAX SERIES",
+     "series_pic": "https://assets.goextracash.com/series/12.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 97,
+     "brand": "ASUS",
+     "series": "ZENFONE 6 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/12.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 159,
+     "brand": "ASUS",
+     "series": "ROG SERIES",
+     "series_pic": "https://assets.goextracash.com/series/12.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 185,
+     "brand": "ASUS",
+     "series": "8 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/12.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "name": "NOKIA",
+   "logo": "https://assets.goextracash.com/brands/nokia.png",
+   "status": "1",
+   "series": [
+    {
+     "id": 102,
+     "brand": "NOKIA",
+     "series": "NOKIA 2 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/13.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 103,
+     "brand": "NOKIA",
+     "series": "NOKIA 3 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/13.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 104,
+     "brand": "NOKIA",
+     "series": "NOKIA 5 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/13.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 105,
+     "brand": "NOKIA",
+     "series": "NOKIA 6 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/13.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 106,
+     "brand": "NOKIA",
+     "series": "NOKIA 7 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/13.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 107,
+     "brand": "NOKIA",
+     "series": "NOKIA 8 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/13.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 108,
+     "brand": "NOKIA",
+     "series": "NOKIA 4 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/13.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 162,
+     "brand": "NOKIA",
+     "series": "NOKIA 9 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/13.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 163,
+     "brand": "NOKIA",
+     "series": "NOKIA C SERIES",
+     "series_pic": "https://assets.goextracash.com/series/13.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 164,
+     "brand": "NOKIA",
+     "series": "NOKIA G SERIES",
+     "series_pic": "https://assets.goextracash.com/series/13.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "name": "Gionee",
+   "logo": "https://assets.goextracash.com/brands/gionee.png",
+   "status": "1",
+   "series": [
+    {
+     "id": 111,
+     "brand": "GIONEE",
+     "series": "GIONEE A SERIES",
+     "series_pic": "https://assets.goextracash.com/series/14.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 112,
+     "brand": "GIONEE",
+     "series": "GIONEE F SERIES",
+     "series_pic": "https://assets.goextracash.com/series/14.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 114,
+     "brand": "GIONEE",
+     "series": "GIONEE S SERIES",
+     "series_pic": "https://assets.goextracash.com/series/14.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "name": "LeTv",
+   "logo": "https://assets.goextracash.com/brands/letv.png",
+   "status": "1",
+   "series": [
+    {
+     "id": 99,
+     "brand": "LETV",
+     "series": "LE 2 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/15.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 100,
+     "brand": "LETV",
+     "series": "LE MAX SERIES",
+     "series_pic": "https://assets.goextracash.com/series/15.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "name": "RealMe",
+   "logo": "https://assets.goextracash.com/brands/realme.png",
+   "status": "1",
+   "series": [
+    {
+     "id": 120,
+     "brand": "REALME",
+     "series": "REALME 1 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/16.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 121,
+     "brand": "REALME",
+     "series": "REALME 2 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/16.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 122,
+     "brand": "REALME",
+     "series": "REALME 3 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/16.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 123,
+     "brand": "REALME",
+     "series": "REALME 5 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/16.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 124,
+     "brand": "REALME",
+     "series": "REALME 6 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/16.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 125,
+     "brand": "REALME",
+     "series": "REALME C SERIES",
+     "series_pic": "https://assets.goextracash.com/series/16.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 126,
+     "brand": "REALME",
+     "series": "REALME NARZO SERIES",
+     "series_pic": "https://assets.goextracash.com/series/16.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 127,
+     "brand": "REALME",
+     "series": "REALME U SERIES",
+     "series_pic": "https://assets.goextracash.com/series/16.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 128,
+     "brand": "REALME",
+     "series": "REALME X SERIES",
+     "series_pic": "https://assets.goextracash.com/series/16.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 147,
+     "brand": "REALME",
+     "series": "REALME 7 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/16.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 148,
+     "brand": "REALME",
+     "series": "REALME 8 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/16.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 152,
+     "brand": "REALME",
+     "series": "REALME GT SERIES",
+     "series_pic": "https://assets.goextracash.com/series/16.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 170,
+     "brand": "REALME",
+     "series": "REALME 9 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/16.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 192,
+     "brand": "REALME",
+     "series": "REALME 10 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/16.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 202,
+     "brand": "REALME",
+     "series": "REALME 11 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/16.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 203,
+     "brand": "REALME",
+     "series": "REALME 12 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/16.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 204,
+     "brand": "REALME",
+     "series": "REALME P SERIES",
+     "series_pic": "https://assets.goextracash.com/series/16.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 240,
+     "brand": "REALME",
+     "series": "REALME 13 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/16.png",
+     "created_at": "2026-09-19 01:59:31",
+     "updated_at": "2026-09-19 01:59:31",
+     "status": "1"
+    },
+    {
+     "id": 241,
+     "brand": "REALME",
+     "series": "REALME 14 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/16.png",
+     "created_at": "2026-09-19 01:59:49",
+     "updated_at": "2026-09-19 01:59:49",
+     "status": "1"
+    },
+    {
+     "id": 242,
+     "brand": "REALME",
+     "series": "REALME 15 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/16.png",
+     "created_at": "2026-09-19 02:00:01",
+     "updated_at": "2026-09-19 02:00:01",
+     "status": "1"
+    },
+    {
+     "id": 243,
+     "brand": "REALME",
+     "series": "REALME 16 SERIES",
+     "series_pic": "https://assets.goextracash.com/series/16.png",
+     "created_at": "2026-09-19 02:00:14",
+     "updated_at": "2026-09-19 02:00:14",
+     "status": "1"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "name": "POCO",
+   "logo": "https://assets.goextracash.com/brands/poco.png",
+   "status": "1",
+   "series": [
+    {
+     "id": 247,
+     "brand": "POCO",
+     "series": "POCO X SERIES",
+     "series_pic": "https://assets.goextracash.com/series/17.png",
+     "created_at": "2026-09-19 03:49:54",
+     "updated_at": "2026-09-19 03:49:54",
+     "status": "1"
+    },
+    {
+     "id": 248,
+     "brand": "POCO",
+     "series": "POCO F SERIES",
+     "series_pic": "https://assets.goextracash.com/series/17.png",
+     "created_at": "2026-09-19 03:50:10",
+     "updated_at": "2026-09-19 03:50:10",
+     "status": "1"
+    },
+    {
+     "id": 249,
+     "brand": "POCO",
+     "series": "POCO M SERIES",
+     "series_pic": "https://assets.goextracash.com/series/17.png",
+     "created_at": "2026-09-19 03:50:38",
+     "updated_at": "2026-09-19 03:50:38",
+     "status": "1"
+    },
+    {
+     "id": 250,
+     "brand": "POCO",
+     "series": "POCO C SERIES",
+     "series_pic": "https://assets.goextracash.com/series/17.png",
+     "created_at": "2026-09-19 03:50:50",
+     "updated_at": "2026-09-19 03:50:50",
+     "status": "1"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "name": "INFINIX",
+   "logo": "https://assets.goextracash.com/brands/infinix.png",
+   "status": "1",
+   "series": [
+    {
+     "id": 133,
+     "brand": "INFINIX",
+     "series": "INFINIX S SERIES",
+     "series_pic": "https://assets.goextracash.com/series/18.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 134,
+     "brand": "INFINIX",
+     "series": "INFINIX ZERO SERIES",
+     "series_pic": "https://assets.goextracash.com/series/18.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 135,
+     "brand": "INFINIX",
+     "series": "INFINIX HOT SERIES",
+     "series_pic": "https://assets.goextracash.com/series/18.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 136,
+     "brand": "INFINIX",
+     "series": "INFINIX NOTE SERIES",
+     "series_pic": "https://assets.goextracash.com/series/18.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 197,
+     "brand": "INFINIX",
+     "series": "INFINIX GT SERIES",
+     "series_pic": "https://assets.goextracash.com/series/18.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "name": "TECNO",
+   "logo": "https://assets.goextracash.com/brands/tecno.png",
+   "status": "1",
+   "series": [
+    {
+     "id": 132,
+     "brand": "TECNO",
+     "series": "TECNO SPARK SERIES",
+     "series_pic": "https://assets.goextracash.com/series/19.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 166,
+     "brand": "TECNO",
+     "series": "TECNO POVA SERIES",
+     "series_pic": "https://assets.goextracash.com/series/19.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 244,
+     "brand": "TECNO",
+     "series": "TECNO CAMON SERIES",
+     "series_pic": "https://assets.goextracash.com/series/19.png",
+     "created_at": "2026-09-19 02:38:26",
+     "updated_at": "2026-09-19 02:38:26",
+     "status": "1"
+    },
+    {
+     "id": 245,
+     "brand": "TECNO",
+     "series": "TECNO PHANTOM SERIES",
+     "series_pic": "https://assets.goextracash.com/series/19.png",
+     "created_at": "2026-09-19 02:38:45",
+     "updated_at": "2026-09-19 02:38:45",
+     "status": "1"
+    },
+    {
+     "id": 246,
+     "brand": "TECNO",
+     "series": "TECNO POP SERIES",
+     "series_pic": "https://assets.goextracash.com/series/19.png",
+     "created_at": "2026-09-19 02:39:03",
+     "updated_at": "2026-09-19 02:39:03",
+     "status": "1"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "name": "LG",
+   "logo": "https://assets.goextracash.com/brands/lg.png",
+   "status": "1",
+   "series": [
+    {
+     "id": 137,
+     "brand": "LG",
+     "series": "LG G SERIES",
+     "series_pic": "https://assets.goextracash.com/series/20.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 138,
+     "brand": "LG",
+     "series": "LG W SERIES",
+     "series_pic": "https://assets.goextracash.com/series/20.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 139,
+     "brand": "LG",
+     "series": "LG V SERIES",
+     "series_pic": "https://assets.goextracash.com/series/20.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "name": "IQOO",
+   "logo": "https://assets.goextracash.com/brands/iqoo.png",
+   "status": "1",
+   "series": [
+    {
+     "id": 167,
+     "brand": "IQOO",
+     "series": "IQOO SERIES",
+     "series_pic": "https://assets.goextracash.com/series/21.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "name": "NOTHING",
+   "logo": "https://assets.goextracash.com/brands/nothing.png",
+   "status": "1",
+   "series": [
+    {
+     "id": 180,
+     "brand": "NOTHING",
+     "series": "NOTHING PHONE 1",
+     "series_pic": "https://assets.goextracash.com/series/nothchphone1.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 198,
+     "brand": "NOTHING",
+     "series": "NOTHING PHONE 2",
+     "series_pic": "https://assets.goextracash.com/series/nothingphon22.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 205,
+     "brand": "NOTHING",
+     "series": "NOTHING PHONE 2A 5G",
+     "series_pic": "https://assets.goextracash.com/series/nothingphon2a.png",
+     "created_at": "2019-09-09 02:50:00",
+     "updated_at": "2019-09-09 02:50:00",
+     "status": "1"
+    },
+    {
+     "id": 231,
+     "brand": "NOTHING",
+     "series": "CMF BY NOTHING PHONE 1",
+     "series_pic": "https://api.goextracash.com/uploads/1789756965_CMF BY NOTHING PHONE 1.png",
+     "created_at": "2026-09-19 00:13:14",
+     "updated_at": "2026-09-19 00:13:14",
+     "status": "1"
+    },
+    {
+     "id": 232,
+     "brand": "NOTHING",
+     "series": "CMF BY NOTHING PHONE 2 PRO",
+     "series_pic": "https://api.goextracash.com/uploads/1789757144_CMF BY NOTHING PHONE 2 PRO.png",
+     "created_at": "2026-09-19 00:16:27",
+     "updated_at": "2026-09-19 00:16:27",
+     "status": "1"
+    },
+    {
+     "id": 233,
+     "brand": "NOTHING",
+     "series": "NOTHING PHONE 3A",
+     "series_pic": "https://api.goextracash.com/uploads/1789757589_NOTHING PHONE 3A PRO.png",
+     "created_at": "2026-09-19 00:23:46",
+     "updated_at": "2026-09-19 00:23:46",
+     "status": "1"
+    },
+    {
+     "id": 234,
+     "brand": "NOTHING",
+     "series": "NOTHING PHONE 3A PRO",
+     "series_pic": "https://api.goextracash.com/uploads/1789757216_NOTHING PHONE 3A PRO.png",
+     "created_at": "2026-09-19 00:24:10",
+     "updated_at": "2026-09-19 00:24:10",
+     "status": "1"
+    },
+    {
+     "id": 235,
+     "brand": "NOTHING",
+     "series": "NOTHING PHONE 3",
+     "series_pic": "https://api.goextracash.com/uploads/1789757216_NOTHING PHONE 3.png",
+     "created_at": "2026-09-19 00:24:55",
+     "updated_at": "2026-09-19 00:24:55",
+     "status": "1"
+    },
+    {
+     "id": 236,
+     "brand": "NOTHING",
+     "series": "NOTHING PHONE 3A LITE",
+     "series_pic": "https://api.goextracash.com/uploads/1789757216_NOTHING PHONE 3A LITE.png",
+     "created_at": "2026-09-19 00:25:10",
+     "updated_at": "2026-09-19 00:25:10",
+     "status": "1"
+    },
+    {
+     "id": 237,
+     "brand": "NOTHING",
+     "series": "NOTHING PHONE 4A",
+     "series_pic": "https://api.goextracash.com/uploads/1789757216_NOTHING PHONE 4A.png",
+     "created_at": "2026-09-19 00:25:27",
+     "updated_at": "2026-09-19 00:25:27",
+     "status": "1"
+    },
+    {
+     "id": 238,
+     "brand": "NOTHING",
+     "series": "NOTHING PHONE 4A PRO",
+     "series_pic": "https://api.goextracash.com/uploads/1789757216_NOTHING PHONE 4A PRO.png",
+     "created_at": "2026-09-19 00:25:43",
+     "updated_at": "2026-09-19 00:25:43",
+     "status": "1"
+    },
+    {
+     "id": 239,
+     "brand": "NOTHING",
+     "series": "NOTHING PHONE 2A PLUS",
+     "series_pic": "https://api.goextracash.com/uploads/1789757216_NOTHING PHONE 2A PLUS (2).png",
+     "created_at": "2026-09-19 00:26:29",
+     "updated_at": "2026-09-19 00:26:29",
+     "status": "1"
+    }
+   ]
+  }
+ ]
+}

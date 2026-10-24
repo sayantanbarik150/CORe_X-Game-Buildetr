@@ -1,0 +1,1127 @@
+[
+ {
+  "brand": "Apple",
+  "series": "IPHONE 6S",
+  "series_id": 4
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 6S PLUS",
+  "series_id": 5
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 7",
+  "series_id": 7
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 7 PLUS",
+  "series_id": 8
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 8",
+  "series_id": 9
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 8 PLUS",
+  "series_id": 10
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE X",
+  "series_id": 11
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE XS",
+  "series_id": 12
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE XS MAX",
+  "series_id": 13
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE XR",
+  "series_id": 14
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 11",
+  "series_id": 15
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 11 PRO",
+  "series_id": 16
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 11 PRO MAX",
+  "series_id": 17
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE SE 2020",
+  "series_id": 18
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 12",
+  "series_id": 19
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 12 MINI",
+  "series_id": 20
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 12 PRO",
+  "series_id": 21
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 12 PRO MAX",
+  "series_id": 22
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 13",
+  "series_id": 153
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 13 MINI",
+  "series_id": 154
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 13 PRO",
+  "series_id": 155
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 13 PRO MAX",
+  "series_id": 156
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE SE 2022",
+  "series_id": 168
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 14",
+  "series_id": 181
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 14 PRO",
+  "series_id": 182
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 14 PRO MAX",
+  "series_id": 183
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 14 PLUS",
+  "series_id": 184
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 15",
+  "series_id": 193
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 15 PRO",
+  "series_id": 194
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 15 PRO MAX",
+  "series_id": 195
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 15 PLUS",
+  "series_id": 196
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 16",
+  "series_id": 209
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 16 PRO",
+  "series_id": 210
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 16 PLUS",
+  "series_id": 211
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 16 PRO MAX",
+  "series_id": 212
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 16E",
+  "series_id": 213
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 17",
+  "series_id": 214
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 17 PRO",
+  "series_id": 215
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 17 PRO MAX",
+  "series_id": 217
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE AIR",
+  "series_id": 218
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 17E",
+  "series_id": 219
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 18 PRO",
+  "series_id": 251
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 18 PRO MAX",
+  "series_id": 252
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "series_id": 23
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY J SERIES",
+  "series_id": 24
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY NOTE SERIES",
+  "series_id": 25
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY ON SERIES",
+  "series_id": 26
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY S SERIES",
+  "series_id": 27
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY C SERIES",
+  "series_id": 28
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY M SERIES",
+  "series_id": 29
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY FOLD SERIES",
+  "series_id": 149
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY Z FLIP SERIES",
+  "series_id": 150
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY F SERIES",
+  "series_id": 151
+ },
+ {
+  "brand": "GOOGLE PIXEL",
+  "series": "PIXEL SERIES",
+  "series_id": 48
+ },
+ {
+  "brand": "GOOGLE PIXEL",
+  "series": "PIXEL 2 SERIES",
+  "series_id": 49
+ },
+ {
+  "brand": "GOOGLE PIXEL",
+  "series": "PIXEL 3 SERIES",
+  "series_id": 50
+ },
+ {
+  "brand": "GOOGLE PIXEL",
+  "series": "PIXEL 4 SERIES",
+  "series_id": 141
+ },
+ {
+  "brand": "GOOGLE PIXEL",
+  "series": "PIXEL 6 SERIES",
+  "series_id": 186
+ },
+ {
+  "brand": "GOOGLE PIXEL",
+  "series": "PIXEL 7 SERIES",
+  "series_id": 187
+ },
+ {
+  "brand": "GOOGLE PIXEL",
+  "series": "PIXEL 8 SERIES",
+  "series_id": 228
+ },
+ {
+  "brand": "GOOGLE PIXEL",
+  "series": "PIXEL 9 SERIES",
+  "series_id": 229
+ },
+ {
+  "brand": "GOOGLE PIXEL",
+  "series": "PIXEL 10 SERIES",
+  "series_id": 230
+ },
+ {
+  "brand": "MI",
+  "series": "14 SERIES",
+  "series_id": 30
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI 5 SERIES",
+  "series_id": 35
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI 6 SERIES",
+  "series_id": 36
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI NOTE SERIES",
+  "series_id": 37
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI Y SERIES",
+  "series_id": 38
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI 7 SERIES",
+  "series_id": 39
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI K SERIES",
+  "series_id": 40
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI 8 SERIES",
+  "series_id": 115
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI 9 SERIES",
+  "series_id": 130
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI 10 SERIES",
+  "series_id": 157
+ },
+ {
+  "brand": "MI",
+  "series": "11 SERIES",
+  "series_id": 169
+ },
+ {
+  "brand": "MI",
+  "series": "12 SERIES",
+  "series_id": 172
+ },
+ {
+  "brand": "MI",
+  "series": "13 SERIES",
+  "series_id": 188
+ },
+ {
+  "brand": "MI",
+  "series": "XIAOMI 15 SERIES",
+  "series_id": 220
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI 15 SERIES",
+  "series_id": 221
+ },
+ {
+  "brand": "MI",
+  "series": "17 SERIES",
+  "series_id": 222
+ },
+ {
+  "brand": "MI",
+  "series": "TURBO SERIES",
+  "series_id": 223
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI 14 SERIES",
+  "series_id": 224
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO E SERIES",
+  "series_id": 41
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO G SERIES",
+  "series_id": 42
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO X SERIES",
+  "series_id": 43
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO Z SERIES",
+  "series_id": 44
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO ONE SERIES",
+  "series_id": 47
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO RAZR SERIES",
+  "series_id": 160
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO EDGE SERIES",
+  "series_id": 161
+ },
+ {
+  "brand": "Lenovo",
+  "series": "LENOVO K SERIES",
+  "series_id": 65
+ },
+ {
+  "brand": "Lenovo",
+  "series": "LENOVO Z SERIES",
+  "series_id": 67
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 3",
+  "series_id": 54
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 3T",
+  "series_id": 55
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 5",
+  "series_id": 56
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 5T",
+  "series_id": 57
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 6",
+  "series_id": 58
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 6T",
+  "series_id": 59
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 6T MCLAREN EDITION",
+  "series_id": 60
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 7",
+  "series_id": 61
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 7 PRO",
+  "series_id": 62
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 7T",
+  "series_id": 63
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 7T PRO",
+  "series_id": 116
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 8",
+  "series_id": 117
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 8 PRO",
+  "series_id": 118
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS NORD",
+  "series_id": 119
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 8T",
+  "series_id": 142
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 9 5G",
+  "series_id": 143
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 9R 5G",
+  "series_id": 144
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 9 PRO 5G",
+  "series_id": 145
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS NORD CE 5G",
+  "series_id": 146
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS NORD 2 5G",
+  "series_id": 158
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 9RT 5G",
+  "series_id": 173
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS NORD CE 2 5G",
+  "series_id": 174
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 10 PRO 5G",
+  "series_id": 175
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS NORD CE 2 LITE 5G",
+  "series_id": 176
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 10R 5G",
+  "series_id": 177
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS NORD 2T 5G",
+  "series_id": 178
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 10T 5G",
+  "series_id": 179
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 11 5G",
+  "series_id": 189
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 11R 5G",
+  "series_id": 190
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS NORD CE 3 LITE 5G",
+  "series_id": 191
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS NORD 3 5G",
+  "series_id": 199
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS NORD CE 3 5G",
+  "series_id": 200
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS OPEN",
+  "series_id": 201
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 12",
+  "series_id": 206
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 12R",
+  "series_id": 207
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS NORD CE 4 5G",
+  "series_id": 208
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS NORD 4",
+  "series_id": 225
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 13",
+  "series_id": 226
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 13R",
+  "series_id": 227
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO F SERIES",
+  "series_id": 69
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO R SERIES",
+  "series_id": 71
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "series_id": 72
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO K SERIES",
+  "series_id": 73
+ },
+ {
+  "brand": "Oppo",
+  "series": "RENO SERIES",
+  "series_id": 74
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO FIND SERIES",
+  "series_id": 165
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO V SERIES",
+  "series_id": 75
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO X SERIES",
+  "series_id": 76
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "series_id": 77
+ },
+ {
+  "brand": "Vivo",
+  "series": "NEX SERIES",
+  "series_id": 78
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Z SERIES",
+  "series_id": 79
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO S SERIES",
+  "series_id": 80
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO U SERIES",
+  "series_id": 129
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO T SERIES",
+  "series_id": 171
+ },
+ {
+  "brand": "Huawei",
+  "series": "HUAWEI P SERIES",
+  "series_id": 81
+ },
+ {
+  "brand": "Huawei",
+  "series": "HUAWEI Y SERIES",
+  "series_id": 82
+ },
+ {
+  "brand": "Huawei",
+  "series": "HUAWEI NOVA SERIES",
+  "series_id": 83
+ },
+ {
+  "brand": "Huawei",
+  "series": "HUAWEI MATE SERIES",
+  "series_id": 84
+ },
+ {
+  "brand": "Honor",
+  "series": "HONOR 7 SERIES",
+  "series_id": 85
+ },
+ {
+  "brand": "Honor",
+  "series": "HONOR 8 SERIES",
+  "series_id": 86
+ },
+ {
+  "brand": "Honor",
+  "series": "HONOR 9 SERIES",
+  "series_id": 87
+ },
+ {
+  "brand": "Honor",
+  "series": "HONOR HOLLY SERIES",
+  "series_id": 88
+ },
+ {
+  "brand": "Honor",
+  "series": "HONOR 10 SERIES",
+  "series_id": 89
+ },
+ {
+  "brand": "Honor",
+  "series": "HONOR 6 SERIES",
+  "series_id": 90
+ },
+ {
+  "brand": "Honor",
+  "series": "HONOR PLAY SERIES",
+  "series_id": 91
+ },
+ {
+  "brand": "Honor",
+  "series": "HONOR 20 SERIES",
+  "series_id": 92
+ },
+ {
+  "brand": "Asus",
+  "series": "ZENFONE 5 SERIES",
+  "series_id": 95
+ },
+ {
+  "brand": "Asus",
+  "series": "ZENFONE MAX SERIES",
+  "series_id": 96
+ },
+ {
+  "brand": "Asus",
+  "series": "ZENFONE 6 SERIES",
+  "series_id": 97
+ },
+ {
+  "brand": "Asus",
+  "series": "ROG SERIES",
+  "series_id": 159
+ },
+ {
+  "brand": "Asus",
+  "series": "8 SERIES",
+  "series_id": 185
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA 2 SERIES",
+  "series_id": 102
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA 3 SERIES",
+  "series_id": 103
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA 5 SERIES",
+  "series_id": 104
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA 6 SERIES",
+  "series_id": 105
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA 7 SERIES",
+  "series_id": 106
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA 8 SERIES",
+  "series_id": 107
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA 4 SERIES",
+  "series_id": 108
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA 9 SERIES",
+  "series_id": 162
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA C SERIES",
+  "series_id": 163
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA G SERIES",
+  "series_id": 164
+ },
+ {
+  "brand": "Gionee",
+  "series": "GIONEE A SERIES",
+  "series_id": 111
+ },
+ {
+  "brand": "Gionee",
+  "series": "GIONEE F SERIES",
+  "series_id": 112
+ },
+ {
+  "brand": "Gionee",
+  "series": "GIONEE S SERIES",
+  "series_id": 114
+ },
+ {
+  "brand": "LeTv",
+  "series": "LE 2 SERIES",
+  "series_id": 99
+ },
+ {
+  "brand": "LeTv",
+  "series": "LE MAX SERIES",
+  "series_id": 100
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 1 SERIES",
+  "series_id": 120
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 2 SERIES",
+  "series_id": 121
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 3 SERIES",
+  "series_id": 122
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 5 SERIES",
+  "series_id": 123
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 6 SERIES",
+  "series_id": 124
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME C SERIES",
+  "series_id": 125
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME NARZO SERIES",
+  "series_id": 126
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME U SERIES",
+  "series_id": 127
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME X SERIES",
+  "series_id": 128
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 7 SERIES",
+  "series_id": 147
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 8 SERIES",
+  "series_id": 148
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME GT SERIES",
+  "series_id": 152
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 9 SERIES",
+  "series_id": 170
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 10 SERIES",
+  "series_id": 192
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 11 SERIES",
+  "series_id": 202
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 12 SERIES",
+  "series_id": 203
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME P SERIES",
+  "series_id": 204
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 13 SERIES",
+  "series_id": 240
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 14 SERIES",
+  "series_id": 241
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 15 SERIES",
+  "series_id": 242
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 16 SERIES",
+  "series_id": 243
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO X SERIES",
+  "series_id": 247
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO F SERIES",
+  "series_id": 248
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO M SERIES",
+  "series_id": 249
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO C SERIES",
+  "series_id": 250
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX S SERIES",
+  "series_id": 133
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX ZERO SERIES",
+  "series_id": 134
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX HOT SERIES",
+  "series_id": 135
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX NOTE SERIES",
+  "series_id": 136
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX GT SERIES",
+  "series_id": 197
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO SPARK SERIES",
+  "series_id": 132
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO POVA SERIES",
+  "series_id": 166
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO CAMON SERIES",
+  "series_id": 244
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO PHANTOM SERIES",
+  "series_id": 245
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO POP SERIES",
+  "series_id": 246
+ },
+ {
+  "brand": "LG",
+  "series": "LG G SERIES",
+  "series_id": 137
+ },
+ {
+  "brand": "LG",
+  "series": "LG W SERIES",
+  "series_id": 138
+ },
+ {
+  "brand": "LG",
+  "series": "LG V SERIES",
+  "series_id": 139
+ },
+ {
+  "brand": "IQOO",
+  "series": "IQOO SERIES",
+  "series_id": 167
+ },
+ {
+  "brand": "NOTHING",
+  "series": "NOTHING PHONE 1",
+  "series_id": 180
+ },
+ {
+  "brand": "NOTHING",
+  "series": "NOTHING PHONE 2",
+  "series_id": 198
+ },
+ {
+  "brand": "NOTHING",
+  "series": "NOTHING PHONE 2A 5G",
+  "series_id": 205
+ },
+ {
+  "brand": "NOTHING",
+  "series": "CMF BY NOTHING PHONE 1",
+  "series_id": 231
+ },
+ {
+  "brand": "NOTHING",
+  "series": "CMF BY NOTHING PHONE 2 PRO",
+  "series_id": 232
+ },
+ {
+  "brand": "NOTHING",
+  "series": "NOTHING PHONE 3A",
+  "series_id": 233
+ },
+ {
+  "brand": "NOTHING",
+  "series": "NOTHING PHONE 3A PRO",
+  "series_id": 234
+ },
+ {
+  "brand": "NOTHING",
+  "series": "NOTHING PHONE 3",
+  "series_id": 235
+ },
+ {
+  "brand": "NOTHING",
+  "series": "NOTHING PHONE 3A LITE",
+  "series_id": 236
+ },
+ {
+  "brand": "NOTHING",
+  "series": "NOTHING PHONE 4A",
+  "series_id": 237
+ },
+ {
+  "brand": "NOTHING",
+  "series": "NOTHING PHONE 4A PRO",
+  "series_id": 238
+ },
+ {
+  "brand": "NOTHING",
+  "series": "NOTHING PHONE 2A PLUS",
+  "series_id": 239
+ }
+]

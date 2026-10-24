@@ -1,0 +1,6082 @@
+[
+ {
+  "brand": "Apple",
+  "series": "IPHONE 6S",
+  "model": "IPHONE 6S"
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 6S PLUS",
+  "model": "IPHONE 6S PLUS"
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 7",
+  "model": "IPHONE 7"
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 7 PLUS",
+  "model": "IPHONE 7 PLUS"
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 8",
+  "model": "IPHONE 8"
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 8 PLUS",
+  "model": "IPHONE 8 PLUS"
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE X",
+  "model": "IPHONE X"
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE XS",
+  "model": "IPHONE XS"
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE XS MAX",
+  "model": "IPHONE XS MAX"
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE XR",
+  "model": "IPHONE XR"
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 11",
+  "model": "IPHONE 11"
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 11 PRO",
+  "model": "IPHONE 11 PRO"
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 11 PRO MAX",
+  "model": "IPHONE 11 PRO MAX"
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE SE 2020",
+  "model": "IPHONE SE 2020"
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 12",
+  "model": "IPHONE 12"
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 12 MINI",
+  "model": "IPHONE 12 MINI"
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 12 PRO",
+  "model": "IPHONE 12 PRO"
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 12 PRO MAX",
+  "model": "IPHONE 12 PRO MAX"
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 13",
+  "model": "IPHONE 13"
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 13 MINI",
+  "model": "IPHONE 13 MINI"
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 13 PRO",
+  "model": "IPHONE 13 PRO"
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 13 PRO MAX",
+  "model": "IPHONE 13 PRO MAX"
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE SE 2022",
+  "model": "IPHONE SE 2022"
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 14",
+  "model": "IPHONE 14"
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 14 PRO",
+  "model": "IPHONE 14 PRO"
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 14 PRO MAX",
+  "model": "IPHONE 14 PRO MAX"
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 14 PLUS",
+  "model": "IPHONE 14 PLUS"
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 15",
+  "model": "IPHONE 15"
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 15 PRO",
+  "model": "IPHONE 15 PRO"
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 15 PRO MAX",
+  "model": "IPHONE 15 PRO MAX"
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 15 PLUS",
+  "model": "IPHONE 15 PLUS"
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 16",
+  "model": "IPHONE 16"
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 16 PRO",
+  "model": "IPHONE 16 PRO"
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 16 PLUS",
+  "model": "IPHONE 16 PLUS"
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 16 PRO MAX",
+  "model": "IPHONE 16 PRO MAX"
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 16E",
+  "model": "IPHONE 16E"
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 17",
+  "model": "IPHONE 17"
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 17 PRO",
+  "model": "IPHONE 17 PRO"
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 17 PRO MAX",
+  "model": "IPHONE 17 PRO MAX"
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE AIR",
+  "model": "IPHONE AIR"
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 17E",
+  "model": "IPHONE 17E"
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 18 PRO",
+  "model": "IPHONE 18 PRO"
+ },
+ {
+  "brand": "Apple",
+  "series": "IPHONE 18 PRO MAX",
+  "model": "IPHONE 18 PRO MAX"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "GALAXY A9 PRO"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "GALAXY A20"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "GALAXY A80"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "GALAXY A50S"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "GALAXY A10S"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "GALAXY A70"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "GALAXY A70S"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "GALAXY A50"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "GALAXY A30S"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "GALAXY A10"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "GALAXY A30"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "GALAXY A9 2018"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "GALAXY A51"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "GALAXY A71"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "GALAXY A21S"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "GALAXY A31"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "GALAXY A12"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "GALAXY A32"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "GALAXY A52"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "GALAXY A72"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "GALAXY A22"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "GALAXY A22 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "GALAXY A03S"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "GALAXY A52S 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "GALAXY A23"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "GALAXY A53 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "GALAXY A72"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "GALAXY A73 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "GALAXY A33 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "GALAXY A04S"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "GALAXY A04E"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "GALAXY A14 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "GALAXY A04"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "GALAXY A23 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "GALAXY A34 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "GALAXY A54 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "GALAXY A25 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "GALAXY A15 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "GALAXY A05S 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "GALAXY A05"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "GALAXY A55 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "GALAXY A35 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "SAMSUNG GALAXY A06"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "SAMSUNG GALAXY A16 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "SAMSUNG GALAXY A56 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "SAMSUNG GALAXY A36 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "SAMSUNG GALAXY A06 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "SAMSUNG GALAXY A17 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "SAMSUNG GALAXY A07"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "SAMSUNG GALAXY A07 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "SAMSUNG GALAXY A57 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY A SERIES",
+  "model": "SAMSUNG GALAXY A37 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY J SERIES",
+  "model": "GALAXY J6 PLUS"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY J SERIES",
+  "model": "GALAXY J6"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY J SERIES",
+  "model": "GALAXY J8"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY NOTE SERIES",
+  "model": "GALAXY NOTE 5 DUAL SIM"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY NOTE SERIES",
+  "model": "GALAXY NOTE 9"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY NOTE SERIES",
+  "model": "GALAXY NOTE 5"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY NOTE SERIES",
+  "model": "GALAXY NOTE 10"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY NOTE SERIES",
+  "model": "GALAXY NOTE 8"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY NOTE SERIES",
+  "model": "GALAXY NOTE 10 PLUS"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY NOTE SERIES",
+  "model": "GALAXY NOTE 10 LITE"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY NOTE SERIES",
+  "model": "GALAXY NOTE 10 PLUS 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY NOTE SERIES",
+  "model": "GALAXY NOTE 20"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY NOTE SERIES",
+  "model": "GALAXY NOTE 20 ULTRA 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY ON SERIES",
+  "model": "GALAXY ON8"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY ON SERIES",
+  "model": "GALAXY ON8 2018"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY S SERIES",
+  "model": "GALAXY S8"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY S SERIES",
+  "model": "GALAXY S10E"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY S SERIES",
+  "model": "GALAXY S7 EDGE"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY S SERIES",
+  "model": "GALAXY S6 EDGE PLUS"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY S SERIES",
+  "model": "GALAXY S7"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY S SERIES",
+  "model": "GALAXY S8 PLUS"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY S SERIES",
+  "model": "GALAXY S6 EDGE"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY S SERIES",
+  "model": "GALAXY S10"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY S SERIES",
+  "model": "GALAXY S9 PLUS"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY S SERIES",
+  "model": "GALAXY S9"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY S SERIES",
+  "model": "GALAXY S10 PLUS"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY S SERIES",
+  "model": "GALAXY S10 LITE"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY S SERIES",
+  "model": "GALAXY S20"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY S SERIES",
+  "model": "GALAXY S20 PLUS"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY S SERIES",
+  "model": "GALAXY S20 ULTRA"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY S SERIES",
+  "model": "GALAXY S20 FE"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY S SERIES",
+  "model": "GALAXY S21 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY S SERIES",
+  "model": "GALAXY S21 PLUS 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY S SERIES",
+  "model": "GALAXY S21 ULTRA 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY S SERIES",
+  "model": "GALAXY S20 FE 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY S SERIES",
+  "model": "GALAXY S23 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY S SERIES",
+  "model": "GALAXY S23 PLUS 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY S SERIES",
+  "model": "GALAXY S23 ULTRA 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY S SERIES",
+  "model": "GALAXY S22 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY S SERIES",
+  "model": "GALAXY S21 FE 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY S SERIES",
+  "model": "GALAXY S22 ULTRA 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY S SERIES",
+  "model": "GALAXY S21 PLUS 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY S SERIES",
+  "model": "GALAXY S23 FE 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY S SERIES",
+  "model": "GALAXY S24 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY S SERIES",
+  "model": "GALAXY S24 PLUS 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY S SERIES",
+  "model": "GALAXY S24 ULTRA 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY S SERIES",
+  "model": "GALAXY S24FE 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY S SERIES",
+  "model": "GALAXY S25 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY S SERIES",
+  "model": "GALAXY S25 PLUS 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY S SERIES",
+  "model": "GALAXY S25 ULTRA 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY S SERIES",
+  "model": "GALAXY S26 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY S SERIES",
+  "model": "GALAXY S26 PLUS 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY S SERIES",
+  "model": "GALAXY S26 ULTRA 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY M SERIES",
+  "model": "GALAXY M40"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY M SERIES",
+  "model": "GALAXY M30"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY M SERIES",
+  "model": "GALAXY M10"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY M SERIES",
+  "model": "GALAXY M30S"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY M SERIES",
+  "model": "GALAXY M10S"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY M SERIES",
+  "model": "GALAXY M20"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY M SERIES",
+  "model": "GALAXY M31"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY M SERIES",
+  "model": "GALAXY M21"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY M SERIES",
+  "model": "GALAXY M11"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY M SERIES",
+  "model": "GALAXY M01S"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY M SERIES",
+  "model": "GALAXY M31S"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY M SERIES",
+  "model": "GALAXY M01 CORE"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY M SERIES",
+  "model": "GALAXY M12"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY M SERIES",
+  "model": "GALAXY M42 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY M SERIES",
+  "model": "GALAXY M01"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY M SERIES",
+  "model": "GALAXY M51"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY M SERIES",
+  "model": "GALAXY M02S"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY M SERIES",
+  "model": "GALAXY M02"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY M SERIES",
+  "model": "GALAXY M32"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY M SERIES",
+  "model": "GALAXY M32 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY M SERIES",
+  "model": "GALAXY M52 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY M SERIES",
+  "model": "GALAXY M33 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY M SERIES",
+  "model": "GALAXY M53 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY M SERIES",
+  "model": "GALAXY M13"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY M SERIES",
+  "model": "GALAXY M13 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY M SERIES",
+  "model": "GALAXY M04"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY M SERIES",
+  "model": "GALAXY M14 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY M SERIES",
+  "model": "GALAXY M34 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY M SERIES",
+  "model": "SAMSUNG GALAXY M55 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY M SERIES",
+  "model": "SAMSUNG GALAXY M56 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY M SERIES",
+  "model": "SAMSUNG GALAXY M57 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY M SERIES",
+  "model": "SAMSUNG GALAXY M15 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY M SERIES",
+  "model": "SAMSUNG GALAXY M14 4G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY M SERIES",
+  "model": "SAMSUNG GALAXYM35 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY FOLD SERIES",
+  "model": "GALAXY FOLD"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY FOLD SERIES",
+  "model": "GALAXY Z FOLD2 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY FOLD SERIES",
+  "model": "GALAXY Z FOLD3 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY FOLD SERIES",
+  "model": "GALAXY Z FOLD4 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY FOLD SERIES",
+  "model": "GALAXY Z FOLD5 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY FOLD SERIES",
+  "model": "SAMSUNG GALAXY Z FOLD6 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY FOLD SERIES",
+  "model": "SAMSUNG GALAXY Z FOLD 7"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY FOLD SERIES",
+  "model": "SAMSUNG GALAXY Z FOLD 7"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY FOLD SERIES",
+  "model": "SAMSUNG GALAXY Z FOLD 7"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY Z FLIP SERIES",
+  "model": "GALAXY Z FLIP"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY Z FLIP SERIES",
+  "model": "GALAXY Z FLIP3 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY Z FLIP SERIES",
+  "model": "GALAXY Z FLIP4"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY Z FLIP SERIES",
+  "model": "GALAXY Z FLIP5"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY Z FLIP SERIES",
+  "model": "SAMSUNG GALAXY Z FLIP 6 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY Z FLIP SERIES",
+  "model": "SAMSUNG GALAXY Z FLIP7"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY Z FLIP SERIES",
+  "model": "SAMSUNG GALAXY Z FLIP7 FE 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY F SERIES",
+  "model": "GALAXY F41"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY F SERIES",
+  "model": "GALAXY F62"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY F SERIES",
+  "model": "GALAXY F02S"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY F SERIES",
+  "model": "GALAXY F12"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY F SERIES",
+  "model": "GALAXY F22"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY F SERIES",
+  "model": "GALAXY F42 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY F SERIES",
+  "model": "GALAXY F23 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY F SERIES",
+  "model": "GALAXY F13"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY F SERIES",
+  "model": "GALAXY F14 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY F SERIES",
+  "model": "GALAXY F04"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY F SERIES",
+  "model": "GALAXY F54 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY F SERIES",
+  "model": "GALAXY F34 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY F SERIES",
+  "model": "GALAXY F15 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY F SERIES",
+  "model": "SAMSUNG GALAXY F55 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY F SERIES",
+  "model": "SMASUNG GALAXY F14"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY F SERIES",
+  "model": "SAMSUNG GALAXY F05 "
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY F SERIES",
+  "model": "SAMSUNG GALAXY F06 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY F SERIES",
+  "model": "SAMSUNG GALAXY F16 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY F SERIES",
+  "model": "SAMSUNG GALAXY F36 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY F SERIES",
+  "model": "SAMSUNG GALAXY F07"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY F SERIES",
+  "model": "SAMSUNG GALAXY F17 5G"
+ },
+ {
+  "brand": "Samsung",
+  "series": "GALAXY F SERIES",
+  "model": "SAMSUNG GALAXY F70E 5G"
+ },
+ {
+  "brand": "GOOGLE PIXEL",
+  "series": "PIXEL SERIES",
+  "model": "GOOGLE PIXEL XL LTE"
+ },
+ {
+  "brand": "GOOGLE PIXEL",
+  "series": "PIXEL SERIES",
+  "model": "GOOGLE PIXEL"
+ },
+ {
+  "brand": "GOOGLE PIXEL",
+  "series": "PIXEL 2 SERIES",
+  "model": "GOOGLE PIXEL 2 XL"
+ },
+ {
+  "brand": "GOOGLE PIXEL",
+  "series": "PIXEL 2 SERIES",
+  "model": "GOOGLE PIXEL 2"
+ },
+ {
+  "brand": "GOOGLE PIXEL",
+  "series": "PIXEL 3 SERIES",
+  "model": "GOOGLE PIXEL 3A XL"
+ },
+ {
+  "brand": "GOOGLE PIXEL",
+  "series": "PIXEL 3 SERIES",
+  "model": "GOOGLE PIXEL 3A"
+ },
+ {
+  "brand": "GOOGLE PIXEL",
+  "series": "PIXEL 3 SERIES",
+  "model": "GOOGLE PIXEL 3 XL"
+ },
+ {
+  "brand": "GOOGLE PIXEL",
+  "series": "PIXEL 3 SERIES",
+  "model": "GOOGLE PIXEL 3"
+ },
+ {
+  "brand": "GOOGLE PIXEL",
+  "series": "PIXEL 4 SERIES",
+  "model": "GOOGLE PIXEL 4A"
+ },
+ {
+  "brand": "GOOGLE PIXEL",
+  "series": "PIXEL 6 SERIES",
+  "model": "GOOGLE PIXEL 6A"
+ },
+ {
+  "brand": "GOOGLE PIXEL",
+  "series": "PIXEL 7 SERIES",
+  "model": "GOOGLE PIXEL 7"
+ },
+ {
+  "brand": "GOOGLE PIXEL",
+  "series": "PIXEL 7 SERIES",
+  "model": "GOOGLE PIXEL 7 PRO"
+ },
+ {
+  "brand": "GOOGLE PIXEL",
+  "series": "PIXEL 7 SERIES",
+  "model": "GOOGLE PIXEL 7A"
+ },
+ {
+  "brand": "GOOGLE PIXEL",
+  "series": "PIXEL 8 SERIES",
+  "model": "GOOGLE PIXEL 8"
+ },
+ {
+  "brand": "GOOGLE PIXEL",
+  "series": "PIXEL 8 SERIES",
+  "model": "GOOGLE PIXEL8 PRO"
+ },
+ {
+  "brand": "GOOGLE PIXEL",
+  "series": "PIXEL 8 SERIES",
+  "model": "GOOGLE PIXEL 8A"
+ },
+ {
+  "brand": "GOOGLE PIXEL",
+  "series": "PIXEL 9 SERIES",
+  "model": "GOOGLE PIXEL 9"
+ },
+ {
+  "brand": "GOOGLE PIXEL",
+  "series": "PIXEL 9 SERIES",
+  "model": "GOOGLE PIXEL 9 PRO XL"
+ },
+ {
+  "brand": "GOOGLE PIXEL",
+  "series": "PIXEL 9 SERIES",
+  "model": "GOOGLE PIXEL 9 PRO FOLD"
+ },
+ {
+  "brand": "GOOGLE PIXEL",
+  "series": "PIXEL 9 SERIES",
+  "model": "GOOGLE PIXEL 9 PRO"
+ },
+ {
+  "brand": "GOOGLE PIXEL",
+  "series": "PIXEL 9 SERIES",
+  "model": "GOOGLE PIXEL 9A"
+ },
+ {
+  "brand": "GOOGLE PIXEL",
+  "series": "PIXEL 10 SERIES",
+  "model": "GOOGLE PIXEL 10"
+ },
+ {
+  "brand": "GOOGLE PIXEL",
+  "series": "PIXEL 10 SERIES",
+  "model": "GOOGLE PIXEL 10 PRO"
+ },
+ {
+  "brand": "GOOGLE PIXEL",
+  "series": "PIXEL 10 SERIES",
+  "model": "GOOGLE PIXEL 10 PRO XL"
+ },
+ {
+  "brand": "GOOGLE PIXEL",
+  "series": "PIXEL 10 SERIES",
+  "model": "GOOGLE PIXEL 10 PRO FOLD"
+ },
+ {
+  "brand": "GOOGLE PIXEL",
+  "series": "PIXEL 10 SERIES",
+  "model": "GOOGLE PIXEL 10A"
+ },
+ {
+  "brand": "MI",
+  "series": "14 SERIES",
+  "model": "XIAOMI 14"
+ },
+ {
+  "brand": "MI",
+  "series": "14 SERIES",
+  "model": "XIAOMI 14 ULTRA"
+ },
+ {
+  "brand": "MI",
+  "series": "14 SERIES",
+  "model": "XIAOMI 14 CIVI"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI 5 SERIES",
+  "model": "REDMI 5A"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI 5 SERIES",
+  "model": "REDMI 5"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI 6 SERIES",
+  "model": "REDMI 6"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI 6 SERIES",
+  "model": "REDMI 6A"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI 6 SERIES",
+  "model": "REDMI 6 PRO"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI NOTE SERIES",
+  "model": "REDMI NOTE 4"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI NOTE SERIES",
+  "model": "REDMI NOTE 6 PRO"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI NOTE SERIES",
+  "model": "REDMI NOTE 5 PRO"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI NOTE SERIES",
+  "model": "REDMI NOTE 7"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI NOTE SERIES",
+  "model": "REDMI NOTE 7 PRO"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI NOTE SERIES",
+  "model": "REDMI NOTE 5"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI NOTE SERIES",
+  "model": "REDMI NOTE 7S"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI NOTE SERIES",
+  "model": "REDMI NOTE 8"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI NOTE SERIES",
+  "model": "REDMI NOTE 8 PRO"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI NOTE SERIES",
+  "model": "REDMI NOTE 9"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI NOTE SERIES",
+  "model": "REDMI NOTE 9 PRO"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI NOTE SERIES",
+  "model": "REDMI NOTE 9 PRO MAX"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI NOTE SERIES",
+  "model": "REDMI NOTE 10"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI NOTE SERIES",
+  "model": "REDMI NOTE 10 PRO"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI NOTE SERIES",
+  "model": "REDMI NOTE 10 PRO MAX"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI NOTE SERIES",
+  "model": "REDMI NOTE 10S"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI NOTE SERIES",
+  "model": "REDMI NOTE 10T 5G"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI NOTE SERIES",
+  "model": "REDMI NOTE 10 LITE"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI NOTE SERIES",
+  "model": "REDMI NOTE 11"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI NOTE SERIES",
+  "model": "REDMI NOTE 11S"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI NOTE SERIES",
+  "model": "REDMI NOTE 11 PRO PLUS 5G"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI NOTE SERIES",
+  "model": "REDMI NOTE 11T 5G"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI NOTE SERIES",
+  "model": "REDMI NOTE 11 PRO"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI NOTE SERIES",
+  "model": "REDMI NOTE 11 SE"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI NOTE SERIES",
+  "model": "REDMI NOTE 12 PRO PLUS 5G"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI NOTE SERIES",
+  "model": "REDMI NOTE 12 5G"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI NOTE SERIES",
+  "model": "REDMI NOTE 12 PRO 5G"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI NOTE SERIES",
+  "model": "REDMI NOTE 12"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI NOTE SERIES",
+  "model": "REDMI NOTE 13 5G"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI NOTE SERIES",
+  "model": "REDMI NOTE 13 PRO PLUS 5G"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI Y SERIES",
+  "model": "REDMI Y3"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI Y SERIES",
+  "model": "REDMI Y2"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI 7 SERIES",
+  "model": "REDMI 7"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI 7 SERIES",
+  "model": "REDMI 7A"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI K SERIES",
+  "model": "REDMI K20"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI K SERIES",
+  "model": "REDMI K20 PRO"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI K SERIES",
+  "model": "REDMI K50I 5G"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI 8 SERIES",
+  "model": "REDMI 8"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI 8 SERIES",
+  "model": "REDMI 8A"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI 8 SERIES",
+  "model": "REDMI 8A DUAL"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI 9 SERIES",
+  "model": "REDMI 9"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI 9 SERIES",
+  "model": "REDMI 9A"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI 9 SERIES",
+  "model": "REDMI 9I"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI 9 SERIES",
+  "model": "REDMI 9 PRIME"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI 9 SERIES",
+  "model": "REDMI 9 POWER"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI 9 SERIES",
+  "model": "REDMI 9 ACTIVE"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI 10 SERIES",
+  "model": "XIAOMI REDMI 10 PRIME"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI 10 SERIES",
+  "model": "XIAOMI REDMI 10"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI 10 SERIES",
+  "model": "XIAOMI REDMI 10 PRIME 2022"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI 10 SERIES",
+  "model": "REDMI 10 POWER"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI 10 SERIES",
+  "model": "XIAOMI REDMI 10A"
+ },
+ {
+  "brand": "MI",
+  "series": "11 SERIES",
+  "model": "XIAOMI 11I 5G"
+ },
+ {
+  "brand": "MI",
+  "series": "11 SERIES",
+  "model": "XIAOMI 11I HYPERCHARGE 5G"
+ },
+ {
+  "brand": "MI",
+  "series": "11 SERIES",
+  "model": "XIAOMI 11T PRO 5G"
+ },
+ {
+  "brand": "MI",
+  "series": "11 SERIES",
+  "model": "XIAOMI REDMI 11 PRIME 5G"
+ },
+ {
+  "brand": "MI",
+  "series": "11 SERIES",
+  "model": "XIAOMI REDMI 11 PRIME"
+ },
+ {
+  "brand": "MI",
+  "series": "11 SERIES",
+  "model": "XIAOMI 11 LITE NE 5G"
+ },
+ {
+  "brand": "MI",
+  "series": "12 SERIES",
+  "model": "XIAOMI 12 PRO 5G"
+ },
+ {
+  "brand": "MI",
+  "series": "12 SERIES",
+  "model": "XIAOMI REDMI 12 5G"
+ },
+ {
+  "brand": "MI",
+  "series": "12 SERIES",
+  "model": "XIAOMI REDMI 12C"
+ },
+ {
+  "brand": "MI",
+  "series": "12 SERIES",
+  "model": "XIAOMI REDMI 12"
+ },
+ {
+  "brand": "MI",
+  "series": "13 SERIES",
+  "model": "XIAOMI 13 PRO 5G"
+ },
+ {
+  "brand": "MI",
+  "series": "13 SERIES",
+  "model": "XIAOMI REDMI 13C"
+ },
+ {
+  "brand": "MI",
+  "series": "13 SERIES",
+  "model": "XIAOMI REDMI 13C 5G"
+ },
+ {
+  "brand": "MI",
+  "series": "13 SERIES",
+  "model": "XIAOMI REDMI 13 5G"
+ },
+ {
+  "brand": "MI",
+  "series": "XIAOMI 15 SERIES",
+  "model": "XIAOMI 15"
+ },
+ {
+  "brand": "MI",
+  "series": "XIAOMI 15 SERIES",
+  "model": "XIAOMI 15 ULTRA"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI 15 SERIES",
+  "model": "REDMI 15 5G"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI 15 SERIES",
+  "model": "REDMI 15 5G"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI 15 SERIES",
+  "model": "REDMI 15C 5G"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI 15 SERIES",
+  "model": "REDMI 15C 5G"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI 15 SERIES",
+  "model": "REDMI 15A 5G"
+ },
+ {
+  "brand": "MI",
+  "series": "17 SERIES",
+  "model": "XIAOMI 17 ULTRA"
+ },
+ {
+  "brand": "MI",
+  "series": "17 SERIES",
+  "model": "XIAOMI 17"
+ },
+ {
+  "brand": "MI",
+  "series": "17 SERIES",
+  "model": "XIAOMI 17T"
+ },
+ {
+  "brand": "MI",
+  "series": "TURBO SERIES",
+  "model": "XIAOMI TURBO 5"
+ },
+ {
+  "brand": "MI",
+  "series": "REDMI 14 SERIES",
+  "model": "REDMI 14C 5G"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO E SERIES",
+  "model": "MOTO E6S"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO E SERIES",
+  "model": "MOTO E7 PLUS"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO E SERIES",
+  "model": "MOTO E7 POWER"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO E SERIES",
+  "model": "MOTO E40"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO E SERIES",
+  "model": "MOTO E32S"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO E SERIES",
+  "model": "MOTO E13"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO E SERIES",
+  "model": "MOTO E32"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO E SERIES",
+  "model": "MOTO E22S"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO G SERIES",
+  "model": "MOTO G6 PLUS"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO G SERIES",
+  "model": "MOTO G7"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO G SERIES",
+  "model": "MOTO G7 POWER"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO G SERIES",
+  "model": "MOTO G6"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO G SERIES",
+  "model": "MOTO G8 PLUS"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO G SERIES",
+  "model": "MOTO G8 POWER LITE"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO G SERIES",
+  "model": "MOTO G9"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO G SERIES",
+  "model": "MOTO G9 POWER"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO G SERIES",
+  "model": "MOTO G 5G"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO G SERIES",
+  "model": "MOTO G30"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO G SERIES",
+  "model": "MOTO G10 POWER"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO G SERIES",
+  "model": "MOTO G60"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO G SERIES",
+  "model": "MOTO G40 FUSION"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO G SERIES",
+  "model": "MOTO G31"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO G SERIES",
+  "model": "MOTO G51 5G"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO G SERIES",
+  "model": "MOTO G52"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO G SERIES",
+  "model": "MOTO G71 5G"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO G SERIES",
+  "model": "MOTO G82 5G"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO G SERIES",
+  "model": "MOTO G22"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO G SERIES",
+  "model": "MOTO G42"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO G SERIES",
+  "model": "MOTO G32"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO G SERIES",
+  "model": "MOTO G72"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO G SERIES",
+  "model": "MOTO G62 5G"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO G SERIES",
+  "model": "MOTO G73 5G"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO G SERIES",
+  "model": "MOTO G8 PLUS"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO G SERIES",
+  "model": "MOTO G13"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO G SERIES",
+  "model": "MOTO G14"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO G SERIES",
+  "model": "MOTO G54 5G"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO G SERIES",
+  "model": "MOTO G84 5G"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO G SERIES",
+  "model": "MOTO G34 5G"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO G SERIES",
+  "model": "MOTO G64 5G"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO G SERIES",
+  "model": "MOTO G04"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO G SERIES",
+  "model": "MOTO G24 POWER"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO G SERIES",
+  "model": "MOTO G85 5G"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO G SERIES",
+  "model": "MOTO G04S"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO G SERIES",
+  "model": "MOTO G45 5G"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO G SERIES",
+  "model": "MOTO G35 5G"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO G SERIES",
+  "model": "MOTO G05"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO G SERIES",
+  "model": "MOTO G96 5G"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO G SERIES",
+  "model": "MOTO G86 POWER 5G"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO G SERIES",
+  "model": "MOTO G57 POWER 5G"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO G SERIES",
+  "model": "MOTO G06 POWER"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO G SERIES",
+  "model": "MOTO G67 POWER 5G"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO G SERIES",
+  "model": "MOTO G37 POWER"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO ONE SERIES",
+  "model": "MOTO ONE VISION"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO ONE SERIES",
+  "model": "MOTO ONE POWER"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO ONE SERIES",
+  "model": "MOTO ONE ACTION"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO ONE SERIES",
+  "model": "MOTO ONE"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO ONE SERIES",
+  "model": "MOTO ONE MACRO"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO ONE SERIES",
+  "model": "MOTO ONE FUSION PLUS"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO RAZR SERIES",
+  "model": "MOTO RAZR"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO RAZR SERIES",
+  "model": "MOTO RAZR 5G"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO RAZR SERIES",
+  "model": "MOTO RAZR 40 ULTRA"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO RAZR SERIES",
+  "model": "MOTO RAZR 50 ULTRA"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO RAZR SERIES",
+  "model": "MOTO RAZR 60"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO RAZR SERIES",
+  "model": "MOTO RAZR 60 ULTRA"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO EDGE SERIES",
+  "model": "MOTO EDGE PLUS"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO EDGE SERIES",
+  "model": "MOTO EDGE 20 PRO"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO EDGE SERIES",
+  "model": "MOTO EDGE 20 FUSION"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO EDGE SERIES",
+  "model": "MOTO EDGE 20"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO EDGE SERIES",
+  "model": "MOTO EDGE 30 PLUS"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO EDGE SERIES",
+  "model": "MOTO EDGE 30 PRO"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO EDGE SERIES",
+  "model": "MOTO EDGE 30"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO EDGE SERIES",
+  "model": "MOTO EDGE 30 FUSION"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO EDGE SERIES",
+  "model": "MOTO EDGE 30 ULTRA"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO EDGE SERIES",
+  "model": "MOTO EDGE 40"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO EDGE SERIES",
+  "model": "MOTO EDGE 40 NEO"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO EDGE SERIES",
+  "model": "MOTO EDGE 50 PRO"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO EDGE SERIES",
+  "model": "MOTO EDGE 50 FUSION"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO EDGE SERIES",
+  "model": "MOTO EDGE 50 ULTRA"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO EDGE SERIES",
+  "model": "MOTO EDGE 50"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO EDGE SERIES",
+  "model": "MOTO EDGE 50 NEO"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO EDGE SERIES",
+  "model": "MOTO EDGE 60 PRO"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO EDGE SERIES",
+  "model": "MOTO EDGE 60 FUSION"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO EDGE SERIES",
+  "model": "MOTO EDGE 60 STYLUS"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO EDGE SERIES",
+  "model": "MOTO EDGE 60"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO EDGE SERIES",
+  "model": "MOTO EDGE 70"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO EDGE SERIES",
+  "model": "MOTO EDGE 70 FUSION"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO EDGE SERIES",
+  "model": "MOTO EDGE 70 PRO 5G"
+ },
+ {
+  "brand": "Motorola",
+  "series": "MOTO EDGE SERIES",
+  "model": "MOTO EDGE 70 PRO PLUS 5G"
+ },
+ {
+  "brand": "Lenovo",
+  "series": "LENOVO Z SERIES",
+  "model": "LENOVO Z6 PRO"
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 3",
+  "model": "ONEPLUS 3"
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 3T",
+  "model": "ONEPLUS 3T"
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 5",
+  "model": "ONEPLUS 5"
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 5T",
+  "model": "ONEPLUS 5T"
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 6",
+  "model": "ONEPLUS 6"
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 6T",
+  "model": "ONEPLUS 6T"
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 6T MCLAREN EDITION",
+  "model": "ONEPLUS 6T MCLAREN EDITION"
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 7",
+  "model": "ONEPLUS 7"
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 7 PRO",
+  "model": "ONEPLUS 7 PRO"
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 7T",
+  "model": "ONEPLUS 7T"
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 7T PRO",
+  "model": "ONEPLUS 7T PRO"
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 8",
+  "model": "ONEPLUS 8"
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 8 PRO",
+  "model": "ONEPLUS 8 PRO"
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS NORD",
+  "model": "ONEPLUS NORD"
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 8T",
+  "model": "ONEPLUS 8T"
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 9 5G",
+  "model": "ONEPLUS 9 5G"
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 9R 5G",
+  "model": "ONEPLUS 9R 5G"
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 9 PRO 5G",
+  "model": "ONEPLUS 9 PRO 5G"
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS NORD CE 5G",
+  "model": "ONEPLUS NORD CE 5G"
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS NORD 2 5G",
+  "model": "ONEPLUS NORD 2 5G"
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 9RT 5G",
+  "model": "ONEPLUS 9RT 5G"
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS NORD CE 2 5G",
+  "model": "ONEPLUS NORD CE 2 5G"
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 10 PRO 5G",
+  "model": "ONEPLUS 10 PRO 5G"
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS NORD CE 2 LITE 5G",
+  "model": "ONEPLUS NORD CE 2 LITE 5G"
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 10R 5G",
+  "model": "ONEPLUS 10R 5G"
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS NORD 2T 5G",
+  "model": "ONEPLUS NORD 2T 5G"
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 10T 5G",
+  "model": "ONEPLUS 10T 5G"
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 11 5G",
+  "model": "ONEPLUS 11 5G"
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 11R 5G",
+  "model": "ONEPLUS 11R 5G"
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS NORD CE 3 LITE 5G",
+  "model": "ONEPLUS NORD CE 3 LITE 5G"
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS NORD 3 5G",
+  "model": "ONEPLUS NORD 3 5G"
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS NORD CE 3 5G",
+  "model": "ONEPLUS NORD CE 3 5G"
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS OPEN",
+  "model": "ONEPLUS OPEN"
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 12",
+  "model": "ONEPLUS 12"
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 12R",
+  "model": "ONEPLUS 12R"
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS NORD CE 4 5G",
+  "model": "ONEPLUS NORD CE 4 5G"
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS NORD 4",
+  "model": "ONEPLUS NORD 4"
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 13",
+  "model": "ONEPLUS 13"
+ },
+ {
+  "brand": "OnePlus",
+  "series": "ONEPLUS 13R",
+  "model": "ONEPLUS 13R"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO F SERIES",
+  "model": "OPPO F11"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO F SERIES",
+  "model": "OPPO F9"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO F SERIES",
+  "model": "OPPO F9 PRO"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO F SERIES",
+  "model": "OPPO F7"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO F SERIES",
+  "model": "OPPO F11 PRO"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO F SERIES",
+  "model": "OPPO F5"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO F SERIES",
+  "model": "OPPO F3 PLUS"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO F SERIES",
+  "model": "OPPO F11 PRO AVENGER EDITION"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO F SERIES",
+  "model": "OPPO F15"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO F SERIES",
+  "model": "OPPO F17"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO F SERIES",
+  "model": "OPPO F17 PRO"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO F SERIES",
+  "model": "OPPO F19 PRO"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO F SERIES",
+  "model": "OPPO F19 PRO PLUS 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO F SERIES",
+  "model": "OPPO F19"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO F SERIES",
+  "model": "OPPO F19S"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO F SERIES",
+  "model": "OPPO F21 PRO"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO F SERIES",
+  "model": "OPPO F21 PRO 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO F SERIES",
+  "model": "OPPO F21S PRO"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO F SERIES",
+  "model": "OPPO F21S PRO 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO F SERIES",
+  "model": "OPPO F23 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO F SERIES",
+  "model": "OPPO F25 PRO 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO F SERIES",
+  "model": "OPPO F27 PRO PLUS 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO F SERIES",
+  "model": "OPPO F27 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO F SERIES",
+  "model": "OPPO F29 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO F SERIES",
+  "model": "OPPO F29 PRO 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO F SERIES",
+  "model": "OPPO F31 PRO 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO F SERIES",
+  "model": "OPPO F31 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO F SERIES",
+  "model": "OPPO F31 PRO PLUS 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO F SERIES",
+  "model": "OPPO F33 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO F SERIES",
+  "model": "OPPO F33 PRO 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO R SERIES",
+  "model": "OPPO R17"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO R SERIES",
+  "model": "OPPO R17 PRO"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO R SERIES",
+  "model": "OPPO R11 PLUS"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO R SERIES",
+  "model": "OPPO R15 PRO"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO R SERIES",
+  "model": "OPPO R11"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A5S"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A9"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A1K"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A77"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A57"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A9 2020"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A7"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A83"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A3S"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A5"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A5 2020"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A31"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A12"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A52"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A11K"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A53"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A33 2020"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A15"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A15S"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A54"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A53S 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A74 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A55"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A16"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A16K"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A76"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A16E"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A96"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A17K"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A57 2022"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A77 2022"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A77S"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A78 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A78"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A58"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A38"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A17"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A18"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A79 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A59 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A3 PRO 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A3X 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A3 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A3X"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A5 PRO 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A5 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A5X 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A5X"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A6X 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A6 PRO 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A6 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO A SERIES",
+  "model": "OPPO A6S 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO K SERIES",
+  "model": "OPPO K3"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO K SERIES",
+  "model": "OPPO K1"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO K SERIES",
+  "model": "OPPO K10"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO K SERIES",
+  "model": "OPPO K10 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO K SERIES",
+  "model": "OPPO K12X 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO K SERIES",
+  "model": "OPPO K13 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO K SERIES",
+  "model": "OPPO K13X 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO K SERIES",
+  "model": "OPPO K13 TURBO PRO 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO K SERIES",
+  "model": "OPPO K13 TURBO 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO K SERIES",
+  "model": "OPPO K14X 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO K SERIES",
+  "model": "OPPO K14 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "RENO SERIES",
+  "model": "OPPO RENO 2"
+ },
+ {
+  "brand": "Oppo",
+  "series": "RENO SERIES",
+  "model": "OPPO RENO 10X ZOOM"
+ },
+ {
+  "brand": "Oppo",
+  "series": "RENO SERIES",
+  "model": "OPPO RENO"
+ },
+ {
+  "brand": "Oppo",
+  "series": "RENO SERIES",
+  "model": "OPPO RENO 2Z"
+ },
+ {
+  "brand": "Oppo",
+  "series": "RENO SERIES",
+  "model": "OPPO RENO 2F"
+ },
+ {
+  "brand": "Oppo",
+  "series": "RENO SERIES",
+  "model": "OPPO RENO 3 PRO"
+ },
+ {
+  "brand": "Oppo",
+  "series": "RENO SERIES",
+  "model": "OPPO RENO 4 PRO"
+ },
+ {
+  "brand": "Oppo",
+  "series": "RENO SERIES",
+  "model": "OPPO RENO 5 PRO 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "RENO SERIES",
+  "model": "OPPO RENO 6 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "RENO SERIES",
+  "model": "OPPO RENO 6 PRO 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "RENO SERIES",
+  "model": "OPPO RENO 7 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "RENO SERIES",
+  "model": "OPPO RENO 7 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "RENO SERIES",
+  "model": "OPPO RENO8 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "RENO SERIES",
+  "model": "OPPO RENO 8T 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "RENO SERIES",
+  "model": "OPPO RENO 8 PRO 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "RENO SERIES",
+  "model": "OPPO RENO 10 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "RENO SERIES",
+  "model": "OPPO RENO 10 PRO 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "RENO SERIES",
+  "model": "OPPO RENO 10 PRO PLUS 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "RENO SERIES",
+  "model": "OPPO RENO 11 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "RENO SERIES",
+  "model": "OPPO RENO 11 PRO 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "RENO SERIES",
+  "model": "OPPO RENO 12 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "RENO SERIES",
+  "model": "OPPO RENO 12 PRO 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "RENO SERIES",
+  "model": "OPPO RENO 13 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "RENO SERIES",
+  "model": "OPPO RENO 13 PRO 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "RENO SERIES",
+  "model": "OPPO RENO 14 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "RENO SERIES",
+  "model": "OPPO RENO 14 PRO 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "RENO SERIES",
+  "model": "OPPO RENO 15 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "RENO SERIES",
+  "model": "OPPO RENO 15 PRO 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "RENO SERIES",
+  "model": "OPPO RENO 15 PRO MINI 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "RENO SERIES",
+  "model": "OPPO RENO 15C 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "RENO SERIES",
+  "model": "OPPO RENO 16 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "RENO SERIES",
+  "model": "OPPO RENO 16C 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO FIND SERIES",
+  "model": "OPPO FIND X"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO FIND SERIES",
+  "model": "OPPO FIND X2"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO FIND SERIES",
+  "model": "OPPO FIND N2 FLIP 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO FIND SERIES",
+  "model": "OPPO FIND N3 FLIP 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO FIND SERIES",
+  "model": "OPPO FIND X8 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO FIND SERIES",
+  "model": "OPPO FIND X8 PRO 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO FIND SERIES",
+  "model": "OPPO FIND X9 5G"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO FIND SERIES",
+  "model": "OPPO FIND X9 PRO"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO FIND SERIES",
+  "model": "OPPO FIND X9S"
+ },
+ {
+  "brand": "Oppo",
+  "series": "OPPO FIND SERIES",
+  "model": "OPPO FIND X9 ULTRA"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO V SERIES",
+  "model": "VIVO V7 PLUS"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO V SERIES",
+  "model": "VIVO V9 PRO"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO V SERIES",
+  "model": "VIVO V15"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO V SERIES",
+  "model": "VIVO V11"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO V SERIES",
+  "model": "VIVO V11 PRO"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO V SERIES",
+  "model": "VIVO V15 PRO"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO V SERIES",
+  "model": "VIVO V5 PLUS"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO V SERIES",
+  "model": "VIVO V5S"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO V SERIES",
+  "model": "VIVO V17 PRO"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO V SERIES",
+  "model": "VIVO V9 YOUTH"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO V SERIES",
+  "model": "VIVO V9"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO V SERIES",
+  "model": "VIVO V17"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO V SERIES",
+  "model": "VIVO V19"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO V SERIES",
+  "model": "VIVO V20"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO V SERIES",
+  "model": "VIVO V20 SE"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO V SERIES",
+  "model": "VIVO V20 PRO"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO V SERIES",
+  "model": "VIVO V20 2021"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO V SERIES",
+  "model": "VIVO V21 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO V SERIES",
+  "model": "VIVO V21E 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO V SERIES",
+  "model": "VIVO V23 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO V SERIES",
+  "model": "VIVO V23 PRO"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO V SERIES",
+  "model": "VIVO V23E 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO V SERIES",
+  "model": "VIVO V25 PRO 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO V SERIES",
+  "model": "VIVO V25 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO V SERIES",
+  "model": "VIVO V27 PRO"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO V SERIES",
+  "model": "VIVO V27"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO V SERIES",
+  "model": "VIVO V29E 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO V SERIES",
+  "model": "VIVO V29 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO V SERIES",
+  "model": "VIVO V29 PRO 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO V SERIES",
+  "model": "VIVO V30"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO V SERIES",
+  "model": "VIVO V30 PRO"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO V SERIES",
+  "model": "VIVO V30E"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO V SERIES",
+  "model": "VIVO V40"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO V SERIES",
+  "model": "VIVO V40 PRO"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO V SERIES",
+  "model": "VIVO V40E"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO V SERIES",
+  "model": "VIVO V50"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO V SERIES",
+  "model": "VIVO V50E"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO V SERIES",
+  "model": "VIVO V60"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO V SERIES",
+  "model": "VIVO V60E"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO V SERIES",
+  "model": "VIVO V70"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO V SERIES",
+  "model": "VIVO V70 ELITE"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO V SERIES",
+  "model": "VIVO V70 FE"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO X SERIES",
+  "model": "VIVO X21"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO X SERIES",
+  "model": "VIVO X50"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO X SERIES",
+  "model": "VIVO X50 PRO"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO X SERIES",
+  "model": "VIVO X60"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO X SERIES",
+  "model": "VIVO X60 PRO"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO X SERIES",
+  "model": "VIVO X60 PRO PLUS"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO X SERIES",
+  "model": "VIVO X70 PRO"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO X SERIES",
+  "model": "VIVO X80"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO X SERIES",
+  "model": "VIVO X80 PRO"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO X SERIES",
+  "model": "VIVO X90"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO X SERIES",
+  "model": "VIVO X90 PRO"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO X SERIES",
+  "model": "VIVO X100"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO X SERIES",
+  "model": "VIVO X100 PRO"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO X SERIES",
+  "model": "VIVO X3 FOLD PRO"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO X SERIES",
+  "model": "VIVO X200"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO X SERIES",
+  "model": "VIVO X200 PRO"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO X SERIES",
+  "model": "VIVO X200 FE"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO X SERIES",
+  "model": "VIVO X FOLD 5"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO X SERIES",
+  "model": "VIVO X300"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO X SERIES",
+  "model": "VIVO X300 PRO"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO X SERIES",
+  "model": "VIVO X200T"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO X SERIES",
+  "model": "VIVO X300 FE"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO X SERIES",
+  "model": "VIVO X300 ULTRA"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y83 PRO"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y91"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y93"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y66"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y17"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y90"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y12"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y83"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y81I"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y81"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y69"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y15 2019"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y91I"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y95"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y19"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y50"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y30"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y12S"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y20I"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y20"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y51 2020"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y20G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y51A"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y20A"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y31 2021"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y21 2021"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y73"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y72 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y12S"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y1S"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y53S"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y12G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y33S"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y21T"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y21A"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y20T"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y75 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y15C"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y21E"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y75"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y01"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y15S 2021"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y22 2022"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y16"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y35"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y02"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y100 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y56 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y01A"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y100A 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y02T"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y27"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y36"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y17S"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y200 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y28 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y200E 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y18"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y18E"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y200 PRO 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y28S 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y18I"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y28E 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y58 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y18T"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y300 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y300 PLUS 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y29 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y19 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y19E"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y39 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y31 PRO 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y19S 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y51 PRO 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y11 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y21 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Y SERIES",
+  "model": "VIVO Y05"
+ },
+ {
+  "brand": "Vivo",
+  "series": "NEX SERIES",
+  "model": "VIVO NEX"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Z SERIES",
+  "model": "VIVO Z10"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Z SERIES",
+  "model": "VIVO Z1 PRO"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO Z SERIES",
+  "model": "VIVO Z1X"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO S SERIES",
+  "model": "VIVO S1"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO S SERIES",
+  "model": "VIVO S1 PRO"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO U SERIES",
+  "model": "VIVO U10"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO U SERIES",
+  "model": "VIVO U20"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO T SERIES",
+  "model": "VIVO T1 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO T SERIES",
+  "model": "VIVO T1 PRO 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO T SERIES",
+  "model": "VIVO T1"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO T SERIES",
+  "model": "VIVO T1X"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO T SERIES",
+  "model": "VIVO T2 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO T SERIES",
+  "model": "VIVO T2X 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO T SERIES",
+  "model": "VIVO T2 PRO 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO T SERIES",
+  "model": "VIVO T3X 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO T SERIES",
+  "model": "VIVO T3 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO T SERIES",
+  "model": "VIVO T3 LITE 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO T SERIES",
+  "model": "VIVO T3 PRO 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO T SERIES",
+  "model": "VIVO T3 ULTRA"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO T SERIES",
+  "model": "VIVO T4X 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO T SERIES",
+  "model": "VIVO T4 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO T SERIES",
+  "model": "VIVO T4 ULTRA 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO T SERIES",
+  "model": "VIVO T4 LITE 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO T SERIES",
+  "model": "VIVO T4R 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO T SERIES",
+  "model": "VIVO T4 PRO 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO T SERIES",
+  "model": "VIVO T5X 5G"
+ },
+ {
+  "brand": "Vivo",
+  "series": "VIVO T SERIES",
+  "model": "VIVO T5 PRO 5G"
+ },
+ {
+  "brand": "Huawei",
+  "series": "HUAWEI P SERIES",
+  "model": "HUAWEI P20 PRO"
+ },
+ {
+  "brand": "Huawei",
+  "series": "HUAWEI P SERIES",
+  "model": "HUAWEI P9"
+ },
+ {
+  "brand": "Huawei",
+  "series": "HUAWEI P SERIES",
+  "model": "HUAWEI P30 LITE"
+ },
+ {
+  "brand": "Huawei",
+  "series": "HUAWEI P SERIES",
+  "model": "HUAWEI P30 PRO"
+ },
+ {
+  "brand": "Huawei",
+  "series": "HUAWEI P SERIES",
+  "model": "HUAWEI P9 PLUS"
+ },
+ {
+  "brand": "Huawei",
+  "series": "HUAWEI P SERIES",
+  "model": "HUAWEI P20 LITE"
+ },
+ {
+  "brand": "Huawei",
+  "series": "HUAWEI Y SERIES",
+  "model": "HUAWEI Y9 2019"
+ },
+ {
+  "brand": "Huawei",
+  "series": "HUAWEI Y SERIES",
+  "model": "HUAWEI Y7 PRIME"
+ },
+ {
+  "brand": "Huawei",
+  "series": "HUAWEI Y SERIES",
+  "model": "HUAWEI Y9 PRIME 2019"
+ },
+ {
+  "brand": "Huawei",
+  "series": "HUAWEI NOVA SERIES",
+  "model": "HUAWEI NOVA 3"
+ },
+ {
+  "brand": "Huawei",
+  "series": "HUAWEI NOVA SERIES",
+  "model": "HUAWEI NOVA 3I"
+ },
+ {
+  "brand": "Huawei",
+  "series": "HUAWEI MATE SERIES",
+  "model": "HUAWEI MATE 10"
+ },
+ {
+  "brand": "Huawei",
+  "series": "HUAWEI MATE SERIES",
+  "model": "HUAWEI MATE 20 PRO"
+ },
+ {
+  "brand": "Huawei",
+  "series": "HUAWEI MATE SERIES",
+  "model": "HUAWEI MATE 20"
+ },
+ {
+  "brand": "Honor",
+  "series": "HONOR 7 SERIES",
+  "model": "HONOR 7X"
+ },
+ {
+  "brand": "Honor",
+  "series": "HONOR 8 SERIES",
+  "model": "HONOR 8 LITE"
+ },
+ {
+  "brand": "Honor",
+  "series": "HONOR 8 SERIES",
+  "model": "HONOR 8C"
+ },
+ {
+  "brand": "Honor",
+  "series": "HONOR 8 SERIES",
+  "model": "HONOR 8 PRO"
+ },
+ {
+  "brand": "Honor",
+  "series": "HONOR 8 SERIES",
+  "model": "HONOR 8X"
+ },
+ {
+  "brand": "Honor",
+  "series": "HONOR 9 SERIES",
+  "model": "HONOR 9N"
+ },
+ {
+  "brand": "Honor",
+  "series": "HONOR 9 SERIES",
+  "model": "HONOR 9 LITE"
+ },
+ {
+  "brand": "Honor",
+  "series": "HONOR 9 SERIES",
+  "model": "HONOR 9I"
+ },
+ {
+  "brand": "Honor",
+  "series": "HONOR 9 SERIES",
+  "model": "HONOR 9X"
+ },
+ {
+  "brand": "Honor",
+  "series": "HONOR 9 SERIES",
+  "model": "HONOR 9X PRO"
+ },
+ {
+  "brand": "Honor",
+  "series": "HONOR 9 SERIES",
+  "model": "HONOR 9S"
+ },
+ {
+  "brand": "Honor",
+  "series": "HONOR 10 SERIES",
+  "model": "HONOR 10 LITE"
+ },
+ {
+  "brand": "Honor",
+  "series": "HONOR 10 SERIES",
+  "model": "HONOR 10"
+ },
+ {
+  "brand": "Honor",
+  "series": "HONOR 10 SERIES",
+  "model": "HONOR VIEW 10"
+ },
+ {
+  "brand": "Honor",
+  "series": "HONOR PLAY SERIES",
+  "model": "HONOR PLAY"
+ },
+ {
+  "brand": "Honor",
+  "series": "HONOR 20 SERIES",
+  "model": "HONOR VIEW 20"
+ },
+ {
+  "brand": "Honor",
+  "series": "HONOR 20 SERIES",
+  "model": "HONOR 20I"
+ },
+ {
+  "brand": "Asus",
+  "series": "ZENFONE 5 SERIES",
+  "model": "ZENFONE 5Z"
+ },
+ {
+  "brand": "Asus",
+  "series": "ZENFONE MAX SERIES",
+  "model": "ZENFONE MAX PRO M1"
+ },
+ {
+  "brand": "Asus",
+  "series": "ZENFONE MAX SERIES",
+  "model": "ZENFONE MAX PRO M2"
+ },
+ {
+  "brand": "Asus",
+  "series": "ZENFONE 6 SERIES",
+  "model": "ZENFONE 6Z"
+ },
+ {
+  "brand": "Asus",
+  "series": "ROG SERIES",
+  "model": "ROG PHONE ZS600KL"
+ },
+ {
+  "brand": "Asus",
+  "series": "ROG SERIES",
+  "model": "ROG PHONE 2 ZS660KL"
+ },
+ {
+  "brand": "Asus",
+  "series": "ROG SERIES",
+  "model": "ROG PHONE 3"
+ },
+ {
+  "brand": "Asus",
+  "series": "ROG SERIES",
+  "model": "ROG PHONE 5"
+ },
+ {
+  "brand": "Asus",
+  "series": "ROG SERIES",
+  "model": "ROG PHONE 5 PRO"
+ },
+ {
+  "brand": "Asus",
+  "series": "ROG SERIES",
+  "model": "ROG PHONE 5S"
+ },
+ {
+  "brand": "Asus",
+  "series": "8 SERIES",
+  "model": "ASUS 8Z"
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA 2 SERIES",
+  "model": "NOKIA 2.4"
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA 3 SERIES",
+  "model": "NOKIA 3.2"
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA 3 SERIES",
+  "model": "NOKIA 3.1 PLUS"
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA 3 SERIES",
+  "model": "NOKIA 3.2"
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA 3 SERIES",
+  "model": "NOKIA 3.4"
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA 5 SERIES",
+  "model": "NOKIA 5"
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA 5 SERIES",
+  "model": "NOKIA 5.1"
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA 5 SERIES",
+  "model": "NOKIA 5.1 PLUS"
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA 5 SERIES",
+  "model": "NOKIA 5.3"
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA 5 SERIES",
+  "model": "NOKIA 5.4"
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA 6 SERIES",
+  "model": "NOKIA 6"
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA 6 SERIES",
+  "model": "NOKIA 6.1"
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA 6 SERIES",
+  "model": "NOKIA 6.1 PLUS"
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA 6 SERIES",
+  "model": "NOKIA 6.2"
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA 7 SERIES",
+  "model": "NOKIA 7.1"
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA 7 SERIES",
+  "model": "NOKIA 7"
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA 7 SERIES",
+  "model": "NOKIA 7 PLUS"
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA 7 SERIES",
+  "model": "NOKIA 7.2"
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA 8 SERIES",
+  "model": "NOKIA 8.1"
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA 8 SERIES",
+  "model": "NOKIA 8 SIROCCO"
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA 8 SERIES",
+  "model": "NOKIA 8"
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA 4 SERIES",
+  "model": "NOKIA 4.2"
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA 9 SERIES",
+  "model": "NOKIA 9 PUREVIEW"
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA C SERIES",
+  "model": "NOKIA C3 2020"
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA C SERIES",
+  "model": "NOKIA C20 PLUS"
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA C SERIES",
+  "model": "NOKIA C30"
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA C SERIES",
+  "model": "NOKIA C21 PLUS"
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA C SERIES",
+  "model": "NOKIA C12"
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA C SERIES",
+  "model": "NOKIA C12 PRO"
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA C SERIES",
+  "model": "NOKIA C31"
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA C SERIES",
+  "model": "NOKIA C32"
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA C SERIES",
+  "model": "NOKIA C22"
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA G SERIES",
+  "model": "NOKIA G20"
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA G SERIES",
+  "model": "NOKIA G10"
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA G SERIES",
+  "model": "NOKIA G21"
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA G SERIES",
+  "model": "NOKIA G60 5G"
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA G SERIES",
+  "model": "NOKIA G42 5G"
+ },
+ {
+  "brand": "NOKIA",
+  "series": "NOKIA G SERIES",
+  "model": "NOKIA G11 PLUS"
+ },
+ {
+  "brand": "Gionee",
+  "series": "GIONEE F SERIES",
+  "model": "GIONEE F9"
+ },
+ {
+  "brand": "LeTv",
+  "series": "LE MAX SERIES",
+  "model": "LEECO LE MAX 2"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 1 SERIES",
+  "model": "REALME 1"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 2 SERIES",
+  "model": "REALME 2 PRO"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 2 SERIES",
+  "model": "REALME 2"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 3 SERIES",
+  "model": "REALME 3 PRO"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 3 SERIES",
+  "model": "REALME 3I"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 3 SERIES",
+  "model": "REALME 3"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 5 SERIES",
+  "model": "REALME 5 PRO"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 5 SERIES",
+  "model": "REALME 5"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 5 SERIES",
+  "model": "REALME 5S"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 5 SERIES",
+  "model": "REALME 5i"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 6 SERIES",
+  "model": "REALME 6"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 6 SERIES",
+  "model": "REALME 6 PRO"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 6 SERIES",
+  "model": "REALME 6I"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME C SERIES",
+  "model": "REALME C1 2019"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME C SERIES",
+  "model": "REALME C1"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME C SERIES",
+  "model": "REALME C2"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME C SERIES",
+  "model": "REALME C3"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME C SERIES",
+  "model": "REALME C11"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME C SERIES",
+  "model": "REALME C12"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME C SERIES",
+  "model": "REALME C15"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME C SERIES",
+  "model": "REALME C21"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME C SERIES",
+  "model": "REALME C20"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME C SERIES",
+  "model": "REALME C25"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME C SERIES",
+  "model": "REALME C25S"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME C SERIES",
+  "model": "REALME C11 2021"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME C SERIES",
+  "model": "REALME C21Y"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME C SERIES",
+  "model": "REALME C25Y"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME C SERIES",
+  "model": "REALME C35"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME C SERIES",
+  "model": "REALME C31"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME C SERIES",
+  "model": "REALME C30"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME C SERIES",
+  "model": "REALME C33"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME C SERIES",
+  "model": "REALME C30S"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME NARZO SERIES",
+  "model": "REALME NARZO 10"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME NARZO SERIES",
+  "model": "REALME NARZO 10A"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME NARZO SERIES",
+  "model": "REALME NARZO 20 PRO"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME NARZO SERIES",
+  "model": "REALME NARZO 20"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME NARZO SERIES",
+  "model": "REALME NARZO 20A"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME NARZO SERIES",
+  "model": "REALME NARZO 30A"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME NARZO SERIES",
+  "model": "REALME NARZO 30 PRO 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME NARZO SERIES",
+  "model": "REALME NARZO 30"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME NARZO SERIES",
+  "model": "REALME NARZO 30 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME NARZO SERIES",
+  "model": "REALME NARZO 50A"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME NARZO SERIES",
+  "model": "REALME NARZO 50I"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME NARZO SERIES",
+  "model": "REALME NARZO 50"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME NARZO SERIES",
+  "model": "REALME NARZO 50A PRIME"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME NARZO SERIES",
+  "model": "REALME NARZO 50 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME NARZO SERIES",
+  "model": "REALME NARZO 50 PRO 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME NARZO SERIES",
+  "model": "REALME NARZO 50I PRIME"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME U SERIES",
+  "model": "REALME U1"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME X SERIES",
+  "model": "REALME X"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME X SERIES",
+  "model": "REALME XT"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME X SERIES",
+  "model": "REALME X2 PRO"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME X SERIES",
+  "model": "REALME X2"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME X SERIES",
+  "model": "REALME X50 PRO"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME X SERIES",
+  "model": "REALME X3"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME X SERIES",
+  "model": "REALME X3 SUPERZOOM"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME X SERIES",
+  "model": "REALME X7"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME X SERIES",
+  "model": "REALME X7 PRO"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME X SERIES",
+  "model": "REALME X7 MAX 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 7 SERIES",
+  "model": "REALME 7 PRO"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 7 SERIES",
+  "model": "REALME 7"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 7 SERIES",
+  "model": "REALME 7I"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 8 SERIES",
+  "model": "REALME 8"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 8 SERIES",
+  "model": "REALME 8 PRO"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 8 SERIES",
+  "model": "REALME 8 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 8 SERIES",
+  "model": "REALME 8I"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 8 SERIES",
+  "model": "REALME 8S 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME GT SERIES",
+  "model": "REALME GT 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME GT SERIES",
+  "model": "REALME GT MASTER EDITION 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME GT SERIES",
+  "model": "REALME GT NEO 2"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME GT SERIES",
+  "model": "REALME GT 2"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME GT SERIES",
+  "model": "REALME GT 2 PRO"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME GT SERIES",
+  "model": "REALME GT NEO 3"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME GT SERIES",
+  "model": "REALME GT NEO 3 150W"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME GT SERIES",
+  "model": "REALME GT NEO 3T"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 9 SERIES",
+  "model": "REALME 9I"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 9 SERIES",
+  "model": "REALME 9 PRO 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 9 SERIES",
+  "model": "REALME 9 PRO PLUS 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 9 SERIES",
+  "model": "REALME 9 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 9 SERIES",
+  "model": "REALME 9 5G SPEED EDITION"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 9 SERIES",
+  "model": "REALME 9"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 9 SERIES",
+  "model": "REALME 9I 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 10 SERIES",
+  "model": "REALME 10 PRO 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 10 SERIES",
+  "model": "REALME 10 PRO PLUS 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 10 SERIES",
+  "model": "REALME 10"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 11 SERIES",
+  "model": "REALME 11 PRO 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 11 SERIES",
+  "model": "REALME 11 PRO PLUS 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 11 SERIES",
+  "model": "REALME 11 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 11 SERIES",
+  "model": "REALME 11X 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 12 SERIES",
+  "model": "REALME 12 PRO 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 12 SERIES",
+  "model": "REALME 12 PRO PLUS 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 12 SERIES",
+  "model": "REALME 12 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 12 SERIES",
+  "model": "REALME 12 PLUS 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 12 SERIES",
+  "model": "REALME 12X 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME P SERIES",
+  "model": "REALME P1 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME P SERIES",
+  "model": "REALME P1 PRO 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME P SERIES",
+  "model": "REALME P2 PRO 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME P SERIES",
+  "model": "REALME P1 SPEED 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME P SERIES",
+  "model": "REALME P3X 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME P SERIES",
+  "model": "REALME P3 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME P SERIES",
+  "model": "REALME P3 PRO 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME P SERIES",
+  "model": "REALME P3 ULTRA 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME P SERIES",
+  "model": "REALME P3 LITE 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME P SERIES",
+  "model": "REALME P4 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME P SERIES",
+  "model": "REALME P4 PRO 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME P SERIES",
+  "model": "REALME P4 LITE"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME P SERIES",
+  "model": "REALME P4X 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME P SERIES",
+  "model": "REALME P4 POWER 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME P SERIES",
+  "model": "REALME P4 LITE 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME P SERIES",
+  "model": "REALME P4R 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 13 SERIES",
+  "model": "REALME 13 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 13 SERIES",
+  "model": "REALME 13 PLUS 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 13 SERIES",
+  "model": "REALME 13 PRO 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 13 SERIES",
+  "model": "REALME 13 PRO PLUS 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 14 SERIES",
+  "model": "REALME 14X 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 14 SERIES",
+  "model": "REALME 14 PRO 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 14 SERIES",
+  "model": "REALME 14 PRO PLUS 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 14 SERIES",
+  "model": "REALME 14 PRO LITE 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 14 SERIES",
+  "model": "REALME 14T 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 15 SERIES",
+  "model": "REALME 15 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 15 SERIES",
+  "model": "REALME 15 PRO 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 15 SERIES",
+  "model": "REALME 15T 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 15 SERIES",
+  "model": "REALME 15X 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 16 SERIES",
+  "model": "REALME 16 PRO 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 16 SERIES",
+  "model": "REALME 16 PRO PLUS 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 16 SERIES",
+  "model": "REALME 16 5G"
+ },
+ {
+  "brand": "RealMe",
+  "series": "REALME 16 SERIES",
+  "model": "REALME 16T 5G"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO X SERIES",
+  "model": "POCO X2"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO X SERIES",
+  "model": "POCO X3"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO X SERIES",
+  "model": "POCO X3 PRO"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO X SERIES",
+  "model": "POCO X4 PRO 5G"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO X SERIES",
+  "model": "POCO X5 PRO 5G"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO X SERIES",
+  "model": "POCO X5 5G"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO X SERIES",
+  "model": "POCO X6 5G"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO X SERIES",
+  "model": "POCO X6 PRO 5G"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO X SERIES",
+  "model": "POCO X6 NEO 5G"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO X SERIES",
+  "model": "POCO X7 5G"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO X SERIES",
+  "model": "POCO X7 PRO 5G"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO X SERIES",
+  "model": "POCO X8 PRO"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO X SERIES",
+  "model": "POCO X8 PRO MAX 5G"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO F SERIES",
+  "model": "POCO F1"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO F SERIES",
+  "model": "POCO F3 GT"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO F SERIES",
+  "model": "POCO F4 5G"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO F SERIES",
+  "model": "POCO F5 5G"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO F SERIES",
+  "model": "POCO F6 5G"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO F SERIES",
+  "model": "POCO F7 5G"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO M SERIES",
+  "model": "POCO M2"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO M SERIES",
+  "model": "POCO M2 PRO"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO M SERIES",
+  "model": "POCO M3"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO M SERIES",
+  "model": "POCO M3 PRO 5G"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO M SERIES",
+  "model": "POCO M2 RELODED"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO M SERIES",
+  "model": "POCO M4 PRO 5G"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO M SERIES",
+  "model": "POCO M4 PRO"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO M SERIES",
+  "model": "POCO M4 5G"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO M SERIES",
+  "model": "POCO M5"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO M SERIES",
+  "model": "POCO M6 PRO 5G"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO M SERIES",
+  "model": "POCO M6 5G"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO M SERIES",
+  "model": "POCO M7 PRO 5G"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO M SERIES",
+  "model": "POCO M6 PLUS 5G"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO M SERIES",
+  "model": "POCO M7 5G"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO M SERIES",
+  "model": "POCO M7 PLUS 5G"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO M SERIES",
+  "model": "POCO M8 5G"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO C SERIES",
+  "model": "POCO C3"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO C SERIES",
+  "model": "POCO C31"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO C SERIES",
+  "model": "POCO C50"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO C SERIES",
+  "model": "POCO C55"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO C SERIES",
+  "model": "POCO C51"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO C SERIES",
+  "model": "POCO C65"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO C SERIES",
+  "model": "POCO C61"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO C SERIES",
+  "model": "POCO C75 5G"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO C SERIES",
+  "model": "POCO C71"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO C SERIES",
+  "model": "POCO C85 5G"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO C SERIES",
+  "model": "POCO C85X"
+ },
+ {
+  "brand": "POCO",
+  "series": "POCO C SERIES",
+  "model": "POCO C81"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX S SERIES",
+  "model": "INFINIX SMART 4 PLUS"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX S SERIES",
+  "model": "INFINIX S5 PRO"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX S SERIES",
+  "model": "INFINIX SMART HD 2021"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX S SERIES",
+  "model": "INFINIX SMART 5"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX S SERIES",
+  "model": "INFINIX SMART 6"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX S SERIES",
+  "model": "INFINIX SMART 6 PLUS"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX S SERIES",
+  "model": "INFINIX SMART 6 HD"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX S SERIES",
+  "model": "INFINIX SMART 7"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX S SERIES",
+  "model": "INFINIX SMART 7 HD"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX S SERIES",
+  "model": "INFINIX SMART 8 HD"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX S SERIES",
+  "model": "INFINIX SMART 8"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX S SERIES",
+  "model": "INFINIX SMART 9 HD"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX S SERIES",
+  "model": "INFINIX SMART 10"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX ZERO SERIES",
+  "model": "INFINIX ZERO 5 PRO"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX ZERO SERIES",
+  "model": "INFINIX ZERO 8I"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX ZERO SERIES",
+  "model": "INFINIX ZERO 5G"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX ZERO SERIES",
+  "model": "INFINIX ZERO ULTRA"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX ZERO SERIES",
+  "model": "INFINIX ZERO 20"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX ZERO SERIES",
+  "model": "INFINIX ZERO 5G 2023"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX ZERO SERIES",
+  "model": "INFINIX ZERO 5G 2023 TURBO"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX ZERO SERIES",
+  "model": "INFINIX ZERO FLIP 5G"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX ZERO SERIES",
+  "model": "INFINIX ZERO 40 5G"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX HOT SERIES",
+  "model": "INFINIX HOT 9"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX HOT SERIES",
+  "model": "INFINIX HOT 7 PRO"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX HOT SERIES",
+  "model": "INFINIX HOT 6 PRO"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX HOT SERIES",
+  "model": "INFINIX HOT 7"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX HOT SERIES",
+  "model": "INFINIX HOT 8"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX HOT SERIES",
+  "model": "INFINIX HOT 9 PRO"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX HOT SERIES",
+  "model": "INFINIX HOT 10"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX HOT SERIES",
+  "model": "INFINIX HOT 10 Play"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX HOT SERIES",
+  "model": "INFINIX HOT 10S"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX HOT SERIES",
+  "model": "INFINIX HOT 11"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX HOT SERIES",
+  "model": "INFINIX HOT 11S"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX HOT SERIES",
+  "model": "INFINIX HOT 12 PLAY"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX HOT SERIES",
+  "model": "INFINIX HOT 11 2022"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX HOT SERIES",
+  "model": "INFINIX HOT 12 PRO"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX HOT SERIES",
+  "model": "INFINIX HOT 20 5G"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX HOT SERIES",
+  "model": "INFINIX HOT 20 PLAY"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX HOT SERIES",
+  "model": "INFINIX HOT 30I"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX HOT SERIES",
+  "model": "INFINIX HOT 30 5G"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX HOT SERIES",
+  "model": "INFINIX HOT 40I"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX HOT SERIES",
+  "model": "INFINIX HOT 50 5G"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX HOT SERIES",
+  "model": "INFINIX HOT 60I 5G"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX HOT SERIES",
+  "model": "INFINIX HOT 60 PLUS 5G"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX NOTE SERIES",
+  "model": "INFINIX NOTE 5"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX NOTE SERIES",
+  "model": "INFINIX NOTE 7"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX NOTE SERIES",
+  "model": "INFINIX NOTE 10"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX NOTE SERIES",
+  "model": "INFINIX NOTE 10 PRO"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX NOTE SERIES",
+  "model": "INFINIX NOTE 11S"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX NOTE SERIES",
+  "model": "INFINIX NOTE 11"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX NOTE SERIES",
+  "model": "INFINIX NOTE 11S FREE FIRE EDITION"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX NOTE SERIES",
+  "model": "INFINIX NOTE 12 TURBO"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX NOTE SERIES",
+  "model": "INFINIX NOTE 12"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX NOTE SERIES",
+  "model": "INFINIX NOTE 12 PRO 4G"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX NOTE SERIES",
+  "model": "INFINIX NOTE 12 PRO 5G"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX NOTE SERIES",
+  "model": "INFINIX NOTE 12 5G"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX NOTE SERIES",
+  "model": "INFINIX NOTE 12I"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX NOTE SERIES",
+  "model": "INFINIX NOTE 30 5G"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX NOTE SERIES",
+  "model": "INFINIX NOTE 40 PRO 5G"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX NOTE SERIES",
+  "model": "INFINIX NOTE 40 5G"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX NOTE SERIES",
+  "model": "INFINIX NOTE 40 PRO PLUS 5G"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX NOTE SERIES",
+  "model": "INFINIX NOTE 40X 5G"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX NOTE SERIES",
+  "model": "INFINIX NOTE 50X 5G"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX GT SERIES",
+  "model": "INFINIX GT 10 PRO"
+ },
+ {
+  "brand": "INFINIX",
+  "series": "INFINIX GT SERIES",
+  "model": "INFINIX GT 20 PRO"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO SPARK SERIES",
+  "model": "TECNO SPARK POWER"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO SPARK SERIES",
+  "model": "TECNO SPARK 4"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO SPARK SERIES",
+  "model": "TECNO SPARK 4 AIR"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO SPARK SERIES",
+  "model": "TECNO SPARK GO"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO SPARK SERIES",
+  "model": "TECNO SPARK 5"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO SPARK SERIES",
+  "model": "TECNO SPARK POWER 2"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO SPARK SERIES",
+  "model": "TECNO SPARK POWER 2 AIR"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO SPARK SERIES",
+  "model": "TECNO SPARK 6 GO"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO SPARK SERIES",
+  "model": "TECNO SPARK 7"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO SPARK SERIES",
+  "model": "TECNO SPARK 7 PRO"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO SPARK SERIES",
+  "model": "TECNO SPARK 6 AIR"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO SPARK SERIES",
+  "model": "TECNO SPARK 5 PRO"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO SPARK SERIES",
+  "model": "TECNO SPARK GO 2021"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO SPARK SERIES",
+  "model": "TECNO SPARK 7T"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO SPARK SERIES",
+  "model": "TECNO SPARK 8"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO SPARK SERIES",
+  "model": "TECNO SPARK 8T"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO SPARK SERIES",
+  "model": "TECNO SPARK GO 2022"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO SPARK SERIES",
+  "model": "TECNO SPARK 8 PRO"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO SPARK SERIES",
+  "model": "TECNO SPARK 8C"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO SPARK SERIES",
+  "model": "TECNO SPARK 8P"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO SPARK SERIES",
+  "model": "TECNO SPARK 9"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO SPARK SERIES",
+  "model": "TECNO SPARK 10 5G"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO SPARK SERIES",
+  "model": "TECNO SPARK 7P"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO SPARK SERIES",
+  "model": "TECNO SPARK GO 2023"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO SPARK SERIES",
+  "model": "TECNO SPARK GO 3"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO SPARK SERIES",
+  "model": "TECNO SPARK 30C 5G"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO SPARK SERIES",
+  "model": "TECNO SPARK GO 5G"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO SPARK SERIES",
+  "model": "TECNO SPARK 20 PRO 5G"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO POVA SERIES",
+  "model": "TECNO POVA"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO POVA SERIES",
+  "model": "TECNO POVA 2"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO POVA SERIES",
+  "model": "TECNO POVA 5G"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO POVA SERIES",
+  "model": "TECNO POVA NEO"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO POVA SERIES",
+  "model": "TECNO POVA 3"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO POVA SERIES",
+  "model": "TECNO POVA 4"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO POVA SERIES",
+  "model": "TECNO POVA 7 5G"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO POVA SERIES",
+  "model": "TECNO POVA 7 PRO 5G"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO POVA SERIES",
+  "model": "TECNO POVA CURVE 5G"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO POVA SERIES",
+  "model": "TECNO POVA SLIM 5G"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO POVA SERIES",
+  "model": "TECNO POVA 6 PRO 5G"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO POVA SERIES",
+  "model": "TECNO POVA 6 NEO 5G"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO POVA SERIES",
+  "model": "TECNO POVA 5 PRO 5G"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO POVA SERIES",
+  "model": "TECNO POVA CURVE 2 5G"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO CAMON SERIES",
+  "model": "TECNO CAMON 12 AIR"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO CAMON SERIES",
+  "model": "TECNO CAMON 15 PRO"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO CAMON SERIES",
+  "model": "TECNO CAMON 16"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO CAMON SERIES",
+  "model": "TECNO CAMON 16 PREMIER"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO CAMON SERIES",
+  "model": "TECNO CAMON 17"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO CAMON SERIES",
+  "model": "TECNO CAMON 18"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO CAMON SERIES",
+  "model": "TECNO CAMON 19"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO CAMON SERIES",
+  "model": "TECNO CAMON 19 NEO"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO CAMON SERIES",
+  "model": "TECNO CAMON 19 PRO 5G"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO CAMON SERIES",
+  "model": "TECNO CAMON 20"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO CAMON SERIES",
+  "model": "TECNO CAMON 20 PREMIER 5G"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO CAMON SERIES",
+  "model": "TECNO CAMON 20 PRO 5G"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO CAMON SERIES",
+  "model": "TECNO CAMON 30 5G"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO CAMON SERIES",
+  "model": "TECNO CAMON 20S PRO 5G"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO PHANTOM SERIES",
+  "model": "TECNO PHANTOM X"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO PHANTOM SERIES",
+  "model": "TECNO PHANTOM V FOLD 5G"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO PHANTOM SERIES",
+  "model": "TECNO PHANTOM X2 5G"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO PHANTOM SERIES",
+  "model": "TECNO PHANTOM X2 PRO 5G"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO PHANTOM SERIES",
+  "model": "TECNO PHANTOM V FLIP 2 5G"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO PHANTOM SERIES",
+  "model": "TECNO PHANTOM V FOLD2 5G"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO PHANTOM SERIES",
+  "model": "TECNO PHANTOM V FLIP 5G"
+ },
+ {
+  "brand": "TECNO",
+  "series": "TECNO POP SERIES",
+  "model": "TECNO POP X"
+ },
+ {
+  "brand": "LG",
+  "series": "LG G SERIES",
+  "model": "LG G7 PLUS THINQ"
+ },
+ {
+  "brand": "LG",
+  "series": "LG G SERIES",
+  "model": "LG G7 THINQ"
+ },
+ {
+  "brand": "LG",
+  "series": "LG G SERIES",
+  "model": "LG G8S THINQ"
+ },
+ {
+  "brand": "LG",
+  "series": "LG G SERIES",
+  "model": "LG G8X THINQ"
+ },
+ {
+  "brand": "LG",
+  "series": "LG W SERIES",
+  "model": "LG W30"
+ },
+ {
+  "brand": "LG",
+  "series": "LG W SERIES",
+  "model": "LG W10"
+ },
+ {
+  "brand": "LG",
+  "series": "LG W SERIES",
+  "model": "LG W30 PRO"
+ },
+ {
+  "brand": "LG",
+  "series": "LG W SERIES",
+  "model": "LG W31"
+ },
+ {
+  "brand": "LG",
+  "series": "LG W SERIES",
+  "model": "LG WING"
+ },
+ {
+  "brand": "LG",
+  "series": "LG W SERIES",
+  "model": "LG W31 PLUS"
+ },
+ {
+  "brand": "LG",
+  "series": "LG W SERIES",
+  "model": "LG W41"
+ },
+ {
+  "brand": "LG",
+  "series": "LG W SERIES",
+  "model": "LG W10 ALPHA"
+ },
+ {
+  "brand": "LG",
+  "series": "LG V SERIES",
+  "model": "LG V30 PLUS"
+ },
+ {
+  "brand": "LG",
+  "series": "LG V SERIES",
+  "model": "LG V40 THINQ"
+ },
+ {
+  "brand": "LG",
+  "series": "LG V SERIES",
+  "model": "LG VELVET DUAL SCREEN"
+ },
+ {
+  "brand": "IQOO",
+  "series": "IQOO SERIES",
+  "model": "IQOO 3"
+ },
+ {
+  "brand": "IQOO",
+  "series": "IQOO SERIES",
+  "model": "IQOO 7 5G"
+ },
+ {
+  "brand": "IQOO",
+  "series": "IQOO SERIES",
+  "model": "IQOO 7 LEGEND 5G"
+ },
+ {
+  "brand": "IQOO",
+  "series": "IQOO SERIES",
+  "model": "IQOO Z3 5G"
+ },
+ {
+  "brand": "IQOO",
+  "series": "IQOO SERIES",
+  "model": "IQOO Z5 5G"
+ },
+ {
+  "brand": "IQOO",
+  "series": "IQOO SERIES",
+  "model": "IQOO 9 5G"
+ },
+ {
+  "brand": "IQOO",
+  "series": "IQOO SERIES",
+  "model": "IQOO 9 PRO 5G"
+ },
+ {
+  "brand": "IQOO",
+  "series": "IQOO SERIES",
+  "model": "IQOO 9 SE 5G"
+ },
+ {
+  "brand": "IQOO",
+  "series": "IQOO SERIES",
+  "model": "IQOO Z6 PRO 5G"
+ },
+ {
+  "brand": "IQOO",
+  "series": "IQOO SERIES",
+  "model": "IQOO Z6 5G"
+ },
+ {
+  "brand": "IQOO",
+  "series": "IQOO SERIES",
+  "model": "IQOO Z6"
+ },
+ {
+  "brand": "IQOO",
+  "series": "IQOO SERIES",
+  "model": "IQOO NEO 6 5G"
+ },
+ {
+  "brand": "IQOO",
+  "series": "IQOO SERIES",
+  "model": "IQOO 9T 5G"
+ },
+ {
+  "brand": "IQOO",
+  "series": "IQOO SERIES",
+  "model": "IQOO 3 5G"
+ },
+ {
+  "brand": "IQOO",
+  "series": "IQOO SERIES",
+  "model": "IQOO Z6 LITE 5G"
+ },
+ {
+  "brand": "IQOO",
+  "series": "IQOO SERIES",
+  "model": "IQOO 11 5G"
+ },
+ {
+  "brand": "IQOO",
+  "series": "IQOO SERIES",
+  "model": "IQOO NEO 7 5G"
+ },
+ {
+  "brand": "IQOO",
+  "series": "IQOO SERIES",
+  "model": "IQOO Z7 5G"
+ },
+ {
+  "brand": "IQOO",
+  "series": "IQOO SERIES",
+  "model": "IQOO Z7S 5G"
+ },
+ {
+  "brand": "IQOO",
+  "series": "IQOO SERIES",
+  "model": "IQOO NEO 7 PRO 5G"
+ },
+ {
+  "brand": "IQOO",
+  "series": "IQOO SERIES",
+  "model": "IQOO Z7 PRO 5G"
+ },
+ {
+  "brand": "IQOO",
+  "series": "IQOO SERIES",
+  "model": "IQOO 12 5G"
+ },
+ {
+  "brand": "IQOO",
+  "series": "IQOO SERIES",
+  "model": "IQOO NEO 9 PRO 5G"
+ },
+ {
+  "brand": "IQOO",
+  "series": "IQOO SERIES",
+  "model": "IQOO Z9 5G"
+ },
+ {
+  "brand": "IQOO",
+  "series": "IQOO SERIES",
+  "model": "IQOO Z9S PRO 5G"
+ },
+ {
+  "brand": "IQOO",
+  "series": "IQOO SERIES",
+  "model": "IQOO 13 5G"
+ },
+ {
+  "brand": "IQOO",
+  "series": "IQOO SERIES",
+  "model": "IQOO NEO 10R 5G"
+ },
+ {
+  "brand": "IQOO",
+  "series": "IQOO SERIES",
+  "model": "IQOO Z10 5G"
+ },
+ {
+  "brand": "IQOO",
+  "series": "IQOO SERIES",
+  "model": "IQOO Z10X 5G"
+ },
+ {
+  "brand": "IQOO",
+  "series": "IQOO SERIES",
+  "model": "IQOO NEO 10"
+ },
+ {
+  "brand": "IQOO",
+  "series": "IQOO SERIES",
+  "model": "IQOO Z10 LITE 5G"
+ },
+ {
+  "brand": "IQOO",
+  "series": "IQOO SERIES",
+  "model": "IQOO Z10R 5G"
+ },
+ {
+  "brand": "IQOO",
+  "series": "IQOO SERIES",
+  "model": "IQOO 15 5G"
+ },
+ {
+  "brand": "IQOO",
+  "series": "IQOO SERIES",
+  "model": "IQOO 15R"
+ },
+ {
+  "brand": "IQOO",
+  "series": "IQOO SERIES",
+  "model": "IQOO Z11X 5G"
+ },
+ {
+  "brand": "NOTHING",
+  "series": "NOTHING PHONE 1",
+  "model": "NOTHING PHONE 1"
+ },
+ {
+  "brand": "NOTHING",
+  "series": "NOTHING PHONE 2",
+  "model": "NOTHING PHONE 2"
+ },
+ {
+  "brand": "NOTHING",
+  "series": "NOTHING PHONE 2A 5G",
+  "model": "NOTHING PHONE 2A 5G"
+ },
+ {
+  "brand": "NOTHING",
+  "series": "CMF BY NOTHING PHONE 1",
+  "model": "CMF BY NOTHING PHONE 1"
+ },
+ {
+  "brand": "NOTHING",
+  "series": "CMF BY NOTHING PHONE 2 PRO",
+  "model": "CMF BY NOTHING PHONE 2 PRO"
+ },
+ {
+  "brand": "NOTHING",
+  "series": "NOTHING PHONE 3A",
+  "model": "NOTHING PHONE 3A"
+ },
+ {
+  "brand": "NOTHING",
+  "series": "NOTHING PHONE 3A PRO",
+  "model": "NOTHING PHONE 3A PRO"
+ },
+ {
+  "brand": "NOTHING",
+  "series": "NOTHING PHONE 3",
+  "model": "NOTHING PHONE 3"
+ },
+ {
+  "brand": "NOTHING",
+  "series": "NOTHING PHONE 3A LITE",
+  "model": "NOTHING PHONE 3A LITE"
+ },
+ {
+  "brand": "NOTHING",
+  "series": "NOTHING PHONE 4A",
+  "model": "NOTHING PHONE 4A"
+ },
+ {
+  "brand": "NOTHING",
+  "series": "NOTHING PHONE 4A PRO",
+  "model": "NOTHING PHONE 4A PRO"
+ },
+ {
+  "brand": "NOTHING",
+  "series": "NOTHING PHONE 2A PLUS",
+  "model": "NOTHING PHONE 2A PLUS"
+ }
+]
