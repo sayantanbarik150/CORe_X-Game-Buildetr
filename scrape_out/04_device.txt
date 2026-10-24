@@ -1,8 +1,0 @@
-=== device page ===
-DEVBYTES: 41958
---- script srcs ---
-main.b25781a17aa39910.js
-polyfills.9f41cc2f57381254.js
-runtime.54110ed87e465a99.js
---- buildId ---
---- self.__next_f payload (first 3000 chars) ---

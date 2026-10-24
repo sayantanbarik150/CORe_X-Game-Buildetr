@@ -1,9 +1,0 @@
-GOT https://www.goextracash.com/main.b25781a17aa39910.js -> b1.js (686575 bytes)
-GOT https://www.goextracash.com/polyfills.9f41cc2f57381254.js -> b2.js (33971 bytes)
-GOT https://www.goextracash.com/runtime.54110ed87e465a99.js -> b3.js (5296 bytes)
-=== api.goextracash.com refs ===
-https://api.goextracash.com/
-=== quoted api paths ===
-=== env api vars ===
-=== fetch/axios template calls ===
-fetch(ct,_e

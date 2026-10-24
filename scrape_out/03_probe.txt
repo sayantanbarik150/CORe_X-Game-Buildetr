@@ -1,2 +1,0 @@
-### https://api.goextracash.com/brands -> HTTP 200 (2188 bytes)
-[{"id":1,"name":"Apple","logo":"https:\/\/assets.goextracash.com\/brands\/apple.png","status":"1"},{"id":2,"name":"Samsung","logo":"https:\/\/assets.goextracash.com\/brands\/samsung.png","status":"1"},{"id":3,"name":"GOOGLE PIXEL","logo":"https:\/\/assets.goextracash.com\/brands\/google.png","status":"1"},{"id":4,"name":"MI","logo":"https:\/\/assets.goextracash.com\/brands\/xiaomi.png","status":"1
