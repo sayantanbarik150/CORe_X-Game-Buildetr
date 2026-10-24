@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - .github/workflows/gxc-test.yml
+      - scripts/gxc_probe.py
   workflow_dispatch:
 
 permissions:
