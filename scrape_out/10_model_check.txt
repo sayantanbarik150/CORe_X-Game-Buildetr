@@ -1,0 +1,39 @@
+variant  model                  combo                                                 expected    actual match
+1015     VIVO Y51A              notworking_face                                           3927      3927 True
+1015     VIVO Y51A              display_line+body_dent_minor                              4039      4039 True
+1015     VIVO Y51A              scratches_heavy                                           5049      5049 True
+1487     REDMI NOTE 12 PRO 5G   scratches_minor+display_line                              8445      8445 True
+1487     REDMI NOTE 12 PRO 5G   notworking_charging                                      10557     10557 True
+1487     REDMI NOTE 12 PRO 5G   notworking_charging                                      10557     10557 True
+1155     NOKIA G20              notworking_face+scratches_minor+body_dent_minor           2790      2790 True
+1155     NOKIA G20              scratches_heavy                                           4406      4406 True
+1155     NOKIA G20              available_box                                             4651      4651 True
+1574     GALAXY A04             notworking_wifi+scratches_heavy                           2448      2448 True
+1574     GALAXY A04             notworking_charging                                       2754      2754 True
+1574     GALAXY A04             scratches_heavy+notworking_wifi                           2448      2448 True
+971      GALAXY S20             notworking_charging                                       8721      8721 True
+971      GALAXY S20             body_dent_minor+warranty_12month+display_line             4168      4168 True
+971      GALAXY S20             display_line+scratches_minor+body_dent_minor              4071      4071 True
+2567     TECNO CAMON 30 5G      scratches_heavy+notworking_face                           7956      7956 True
+2567     TECNO CAMON 30 5G      panel_crack+notworking_charging                          10608     10608 True
+2567     TECNO CAMON 30 5G      available_box+body_dent_minor                            11801     11801 True
+1052     GALAXY M02S            body_dent_minor                                           3835      3835 True
+1052     GALAXY M02S            notworking_charging                                       3672      3672 True
+1052     GALAXY M02S            scratches_heavy+panel_crack                               3264      3264 True
+496      HUAWEI NOVA 3          panel_crack+available_box                                 4769      4769 True
+496      HUAWEI NOVA 3          display_line+notworking_charging+notworking_face          2132      2132 True
+496      HUAWEI NOVA 3          warranty_12month                                          4825      4825 True
+1931     SAMSUNG GALAXY A17 5G  panel_crack                                              12393     12393 True
+1931     SAMSUNG GALAXY A17 5G  scratches_minor+display_line                              8675      8675 True
+1931     SAMSUNG GALAXY A17 5G  notworking_charging+warranty_12month+scratches_heavy      8537      8537 True
+1648     INFINIX HOT 30I        warranty_12month+panel_crack+scratches_heavy              3703      3703 True
+1648     INFINIX HOT 30I        display_line                                              4376      4376 True
+1648     INFINIX HOT 30I        panel_crack+display_line                                  3815      3815 True
+681      ONEPLUS 8              available_box                                            11628     11628 True
+681      ONEPLUS 8              notworking_charging+panel_crack+available_box             9180      9180 True
+681      ONEPLUS 8              notworking_face+warranty_12month+scratches_minor          6977      6977 True
+83       GALAXY A9 2018         warranty_12month+notworking_wifi                          2570      2570 True
+83       GALAXY A9 2018         display_line+panel_crack+scratches_minor                  1622      1622 True
+83       GALAXY A9 2018         available_box                                             2907      2907 True
+
+matched=36 mismatched=0
