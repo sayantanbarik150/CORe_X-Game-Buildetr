@@ -5,6 +5,7 @@ on:
     paths:
       - .github/workflows/gxc-test.yml
       - scripts/gxc_probe3.py
+      - scripts/gxc_probe4.py
 
 permissions:
   contents: write
@@ -17,7 +18,7 @@ jobs:
         with:
           ref: ${{ github.ref_name }}
       - name: Run combination probe
-        run: python3 scripts/gxc_probe3.py > scrape_out/09_combo_test.txt 2>&1 || true
+        run: python3 scripts/gxc_probe4.py > scrape_out/10_model_check.txt 2>&1 || true
       - name: Commit results
         run: |
           git config user.name "arena-bot"
