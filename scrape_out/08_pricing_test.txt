@@ -1,18 +1,105 @@
-GET device/1089 -> (200, '{"id":1089,"brand":"APPLE","series":"IPHONE 13","model":"IPHONE 13","model_pic":"https:\\/\\/assets.goextracash.com\\/model\\/iphone13.png","ram":4,"rom":128,"msp":26520,"mobile_off":18564,"touch_notworking":6630,"display_smallspot":3315,"display_heavyspot":6630,"display_multiplespot":5304,"display_line":5834,"display_faded":3978,"scratches_minor":1856,"scratches_heavy":2652,"scratches_crack":5304,"scratches_glass":6630,"notworking_frontcamera":3978,"notworking_backcamera":3182,"notworking_volume":1')
-GET msp/1089 -> (500, '<!DOCTYPE html>\n<html>\n    <head>\n        <meta name="robots" content="noindex,nofollow" />\n        <style>\n            /* Copyright (c) 2010, Yahoo! Inc. All rights reserved. Code licensed under the BSD License: http://developer.yahoo.com/yui/license.html */\n            html{color:#000;background:#')
-GET msp/1090 -> (500, '<!DOCTYPE html>\n<html>\n    <head>\n        <meta name="robots" content="noindex,nofollow" />\n        <style>\n            /* Copyright (c) 2010, Yahoo! Inc. All rights reserved. Code licensed under the BSD License: http://developer.yahoo.com/yui/license.html */\n            html{color:#000;background:#')
-GET device/1090 -> (200, '{"id":1090,"brand":"APPLE","series":"IPHONE 13","model":"IPHONE 13","model_pic":"https:\\/\\/assets.goextracash.com\\/model\\/iphone13.png","ram":4,"rom":256,"msp":27540,"mobile_off":19278,"touch_notworking":6885,"display_smallspot":3442,"display_heavyspot":6885,"display_multiplespot":5508,"display_line":6059,"display_faded":4131,"scratches_minor":1928,"scratches_heavy":2754,"scratches_crack":5508,"scratches_glass":6885,"notworking_frontcamera":4131,"notworking_backcamera":3305,"notworking_volume":1')
-GET msp/IPHONE%2013 -> (200, '{"msp":28050}')
-GET device/IPHONE%2013 -> (200, '')
-GET msp/iphone13 -> (500, '<!DOCTYPE html>\n<html>\n    <head>\n        <meta name="robots" content="noindex,nofollow" />\n        <style>\n            /* Copyright (c) 2010, Yahoo! Inc. All rights reserved. Code licensed under the BSD License: http://developer.yahoo.com/yui/license.html */\n            html{color:#000;background:#')
-GET variants/IPHONE%2013 -> (200, '[{"model":"IPHONE 13","model_pic":"https:\\/\\/assets.goextracash.com\\/model\\/iphone13.png","ram":4,"rom":128,"id":1089},{"model":"IPHONE 13","model_pic":"https:\\/\\/assets.goextracash.com\\/model\\/iphone13.png","ram":4,"rom":256,"id":1090},{"model":"IPHONE 13","model_pic":"https:\\/\\/assets.goextracash.com\\/model\\/iphone13.png","ram":4,"rom":512,"id":1091}]')
-GET devices/IPHONE%2013 -> (200, '[{"model":"IPHONE 13","model_pic":"https:\\/\\/assets.goextracash.com\\/model\\/iphone13.png"}]')
+=== FULL device/1089 JSON ===
+{
+ "id": 1089,
+ "brand": "APPLE",
+ "series": "IPHONE 13",
+ "model": "IPHONE 13",
+ "model_pic": "https://assets.goextracash.com/model/iphone13.png",
+ "ram": 4,
+ "rom": 128,
+ "msp": 26520,
+ "mobile_off": 18564,
+ "touch_notworking": 6630,
+ "display_smallspot": 3315,
+ "display_heavyspot": 6630,
+ "display_multiplespot": 5304,
+ "display_line": 5834,
+ "display_faded": 3978,
+ "scratches_minor": 1856,
+ "scratches_heavy": 2652,
+ "scratches_crack": 5304,
+ "scratches_glass": 6630,
+ "notworking_frontcamera": 3978,
+ "notworking_backcamera": 3182,
+ "notworking_volume": 1856,
+ "notworking_speaker": 1591,
+ "notworking_power": 1326,
+ "notworking_wifi": 2652,
+ "notworking_battery": 2652,
+ "notworking_finger": 3978,
+ "notworking_charging": 2652,
+ "notworking_face": 7956,
+ "available_box": 1326,
+ "available_charger": 530,
+ "available_earphone": 0,
+ "warranty_1month": 1591,
+ "warranty_3month": 1591,
+ "warranty_6month": 1591,
+ "warranty_12month": 1591,
+ "warranty_12mmore": 1591,
+ "body_scratch_minor": 1591,
+ "body_scratch_major": 1856,
+ "body_dent_minor": 1591,
+ "body_dent_major": 2122,
+ "body_dent_ignorable": 1856,
+ "panel_crack": 2652,
+ "panel_missing": 2122,
+ "screen_bent": 2652,
+ "screen_gap": 3182,
+ "created_at": "2027-10-19 02:50:00",
+ "updated_at": "2026-10-08 11:48:22",
+ "status": "1"
+}
 
-POST order/initiate -> 401 {"error":"Unauthorized"}
-ORDER_ID=''
-POST checkout BEST -> (200, '{"model_pic":"https:\\/\\/assets.goextracash.com\\/model\\/iphone13.png","model":"IPHONE 13","ram":4,"rom":128,"msp":23073}')
-POST checkout WORST -> (200, '{"model_pic":"https:\\/\\/assets.goextracash.com\\/model\\/iphone13.png","model":"IPHONE 13","ram":4,"rom":128,"msp":6829.1}')
-POST checkout MID -> (200, '{"model_pic":"https:\\/\\/assets.goextracash.com\\/model\\/iphone13.png","model":"IPHONE 13","ram":4,"rom":128,"msp":19626}')
-POST checkout MINIMAL -> (200, '{"model_pic":"https:\\/\\/assets.goextracash.com\\/model\\/iphone13.png","model":"IPHONE 13","ram":4,"rom":128,"msp":26520}')
-POST checkout NO_ORDER -> (200, '{"model_pic":"https:\\/\\/assets.goextracash.com\\/model\\/iphone13.png","model":"IPHONE 13","ram":4,"rom":128,"msp":26520}')
-POST checkout BOGUS_ORDER -> (200, '{"model_pic":"https:\\/\\/assets.goextracash.com\\/model\\/iphone13.png","model":"IPHONE 13","ram":4,"rom":128,"msp":26520}')
+MSP=26520  n_fields=49
+price_keys(41): ['ram', 'rom', 'msp', 'mobile_off', 'touch_notworking', 'display_smallspot', 'display_heavyspot', 'display_multiplespot', 'display_line', 'display_faded', 'scratches_minor', 'scratches_heavy', 'scratches_crack', 'scratches_glass', 'notworking_frontcamera', 'notworking_backcamera', 'notworking_volume', 'notworking_speaker', 'notworking_power', 'notworking_wifi', 'notworking_battery', 'notworking_finger', 'notworking_charging', 'notworking_face', 'available_box', 'available_charger', 'available_earphone', 'warranty_1month', 'warranty_3month', 'warranty_6month', 'warranty_12month', 'warranty_12mmore', 'body_scratch_minor', 'body_scratch_major', 'body_dent_minor', 'body_dent_major', 'body_dent_ignorable', 'panel_crack', 'panel_missing', 'screen_bent', 'screen_gap']
+
+=== single-condition checkout vs /device deduction ===
+ram                        table=       4  checkout=    26520  diff=       0  MISMATCH
+rom                        table=     128  checkout=    26520  diff=       0  MISMATCH
+mobile_off                 table=   18564  checkout=     7956  diff=   18564  OK
+touch_notworking           table=    6630  checkout=    19890  diff=    6630  OK
+display_smallspot          table=    3315  checkout=    23205  diff=    3315  OK
+display_heavyspot          table=    6630  checkout=    19890  diff=    6630  OK
+display_multiplespot       table=    5304  checkout=    21216  diff=    5304  OK
+display_line               table=    5834  checkout=    20686  diff=    5834  OK
+display_faded              table=    3978  checkout=    22542  diff=    3978  OK
+scratches_minor            table=    1856  checkout=    24664  diff=    1856  OK
+scratches_heavy            table=    2652  checkout=    23868  diff=    2652  OK
+scratches_crack            table=    5304  checkout=    21216  diff=    5304  OK
+scratches_glass            table=    6630  checkout=    19890  diff=    6630  OK
+notworking_frontcamera     table=    3978  checkout=    22542  diff=    3978  OK
+notworking_backcamera      table=    3182  checkout=    23338  diff=    3182  OK
+notworking_volume          table=    1856  checkout=    24664  diff=    1856  OK
+notworking_speaker         table=    1591  checkout=    24929  diff=    1591  OK
+notworking_power           table=    1326  checkout=    25194  diff=    1326  OK
+notworking_wifi            table=    2652  checkout=    23868  diff=    2652  OK
+notworking_battery         table=    2652  checkout=    23868  diff=    2652  OK
+notworking_finger          table=    3978  checkout=    22542  diff=    3978  OK
+notworking_charging        table=    2652  checkout=    23868  diff=    2652  OK
+notworking_face            table=    7956  checkout=    18564  diff=    7956  OK
+available_box              table=    1326  checkout=    25194  diff=    1326  OK
+available_charger          table=     530  checkout=    25990  diff=     530  OK
+available_earphone         table=       0  checkout=    26520  diff=       0  OK
+warranty_1month            table=    1591  checkout=    24929  diff=    1591  OK
+warranty_3month            table=    1591  checkout=    24929  diff=    1591  OK
+warranty_6month            table=    1591  checkout=    24929  diff=    1591  OK
+warranty_12month           table=    1591  checkout=    24929  diff=    1591  OK
+warranty_12mmore           table=    1591  checkout=    24929  diff=    1591  OK
+body_scratch_minor         table=    1591  checkout=    24929  diff=    1591  OK
+body_scratch_major         table=    1856  checkout=    24664  diff=    1856  OK
+body_dent_minor            table=    1591  checkout=    24929  diff=    1591  OK
+body_dent_major            table=    2122  checkout=    24398  diff=    2122  OK
+body_dent_ignorable        table=    1856  checkout=    24664  diff=    1856  OK
+panel_crack                table=    2652  checkout=    23868  diff=    2652  OK
+panel_missing              table=    2122  checkout=    24398  diff=    2122  OK
+screen_bent                table=    2652  checkout=    23868  diff=    2652  OK
+screen_gap                 table=    3182  checkout=    23338  diff=    3182  OK
+
+=== combination test (2 conditions) ===
+scratches_minor+display_line -> {"model_pic":"https:\/\/assets.goextracash.com\/model\/iphone13.png","model":"IPHONE 13","ram":4,"rom":128,"msp":18830}
+expected additive = 18830
+
+=== 3 conditions ===
+crack+no_battery+warranty_expired -> {"model_pic":"https:\/\/assets.goextracash.com\/model\/iphone13.png","model":"IPHONE 13","ram":4,"rom":128,"msp":16973}
+expected additive = 16973
